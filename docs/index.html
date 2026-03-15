@@ -308,20 +308,15 @@
 
         async function shareReport(idx) {
             const r = reports[idx];
-            const audioUrl = window.location.href.replace(/\/$/, '') + '/' + AUDIO_BASE + r.file;
-            const shareData = {
-                title: r.name + ' — Investment Analysis',
-                text: 'Listen to this investment research report on ' + r.name,
-                url: audioUrl
-            };
+            // Use compressed m4a for sharing (12MB vs 45MB)
+            const shareFile = r.file.replace('.mp3', '.m4a');
+            const audioUrl = window.location.href.replace(/\/$/, '') + '/' + AUDIO_BASE + shareFile;
 
-            // Try native share (works on iOS Safari)
             if (navigator.share) {
                 try {
-                    // Try sharing the actual audio file (allows direct WhatsApp/email attachment)
-                    const response = await fetch(AUDIO_BASE + r.file);
+                    const response = await fetch(AUDIO_BASE + shareFile);
                     const blob = await response.blob();
-                    const file = new File([blob], r.file, { type: 'audio/mpeg' });
+                    const file = new File([blob], r.name + ' Analysis.m4a', { type: 'audio/mp4' });
 
                     if (navigator.canShare && navigator.canShare({ files: [file] })) {
                         await navigator.share({
@@ -336,14 +331,17 @@
                 }
 
                 try {
-                    await navigator.share(shareData);
+                    await navigator.share({
+                        title: r.name + ' — Investment Analysis',
+                        text: 'Listen to this investment research report on ' + r.name,
+                        url: audioUrl
+                    });
                     return;
                 } catch (e) {
-                    if (e.name === 'AbortError') return; // user cancelled
+                    if (e.name === 'AbortError') return;
                 }
             }
 
-            // Fallback: copy link to clipboard
             try {
                 await navigator.clipboard.writeText(audioUrl);
                 alert('Link copied to clipboard!');
