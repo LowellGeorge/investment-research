@@ -144,10 +144,19 @@ def generate_report_audio(md_file):
     return output
 
 def generate_manifest(audio_files):
-    """Create manifest.json for the web player."""
+    """Create manifest.json for the web player — includes ALL audio files in docs/audio/."""
     manifest = []
-    emojis = {"SK Hynix": "🇰🇷", "TSMC": "🇹🇼", "Tencent": "🇨🇳"}
-    for f in sorted(audio_files):
+    emojis = {"SK Hynix": "🇰🇷", "TSMC": "🇹🇼", "Tencent": "🇨🇳", "HDFC Bank": "🇮🇳"}
+
+    docs_audio = BASE_DIR / "docs" / "audio"
+    docs_audio.mkdir(parents=True, exist_ok=True)
+
+    # Include all MP3s in docs/audio, not just the ones generated this run
+    all_audio = set(docs_audio.glob("*-analysis.mp3"))
+    for f in audio_files:
+        all_audio.add(f)
+
+    for f in sorted(all_audio, key=lambda x: x.name):
         name = f.stem.replace("-analysis", "")
         manifest.append({
             "name": name,
