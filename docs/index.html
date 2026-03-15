@@ -160,6 +160,23 @@
             border-radius: 4px;
             cursor: pointer;
         }
+        .share-btn {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: #333;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            border: none;
+            cursor: pointer;
+        }
+        .share-btn svg {
+            width: 18px;
+            height: 18px;
+            fill: #fff;
+        }
         .empty-state {
             text-align: center;
             padding: 60px 20px;
@@ -219,13 +236,16 @@
             const container = document.getElementById('reports');
             document.getElementById('subtitle').textContent = `${reports.length} report${reports.length !== 1 ? 's' : ''}`;
             container.innerHTML = reports.map((r, i) => `
-                <div class="report-card" id="card-${i}" onclick="playReport(${i})">
-                    <div class="report-icon">${r.emoji || '📊'}</div>
-                    <div class="report-info">
+                <div class="report-card" id="card-${i}">
+                    <div class="report-icon" onclick="playReport(${i})">${r.emoji || '📊'}</div>
+                    <div class="report-info" onclick="playReport(${i})">
                         <div class="report-title">${r.name}</div>
                         <div class="report-meta">${r.date || ''} · ${r.duration || ''}</div>
                     </div>
-                    <div class="play-btn">
+                    <button class="share-btn" onclick="event.stopPropagation(); shareReport(${i})" title="Share">
+                        <svg viewBox="0 0 24 24"><path d="M16 5l-1.42 1.42-1.59-1.59V16h-1.98V4.83L9.42 6.42 8 5l4-4 4 4zm4 5v11a2 2 0 01-2 2H6a2 2 0 01-2-2V10c0-1.11.89-2 2-2h3v2H6v11h12V10h-3V8h3a2 2 0 012 2z"/></svg>
+                    </button>
+                    <div class="play-btn" onclick="playReport(${i})">
                         <svg viewBox="0 0 24 24"><polygon points="6,3 20,12 6,21"/></svg>
                     </div>
                 </div>
@@ -285,6 +305,52 @@
             if (currentReport < reports.length - 1) playReport(currentReport + 1);
             else updatePlayState();
         };
+
+        async function shareReport(idx) {
+            const r = reports[idx];
+            const audioUrl = window.location.href.replace(/\/$/, '') + '/' + AUDIO_BASE + r.file;
+            const shareData = {
+                title: r.name + ' — Investment Analysis',
+                text: 'Listen to this investment research report on ' + r.name,
+                url: audioUrl
+            };
+
+            // Try native share (works on iOS Safari)
+            if (navigator.share) {
+                try {
+                    // Try sharing the actual audio file (allows direct WhatsApp/email attachment)
+                    const response = await fetch(AUDIO_BASE + r.file);
+                    const blob = await response.blob();
+                    const file = new File([blob], r.file, { type: 'audio/mpeg' });
+
+                    if (navigator.canShare && navigator.canShare({ files: [file] })) {
+                        await navigator.share({
+                            title: r.name + ' — Investment Analysis',
+                            text: 'Investment research report on ' + r.name,
+                            files: [file]
+                        });
+                        return;
+                    }
+                } catch (e) {
+                    // Fall back to URL sharing
+                }
+
+                try {
+                    await navigator.share(shareData);
+                    return;
+                } catch (e) {
+                    if (e.name === 'AbortError') return; // user cancelled
+                }
+            }
+
+            // Fallback: copy link to clipboard
+            try {
+                await navigator.clipboard.writeText(audioUrl);
+                alert('Link copied to clipboard!');
+            } catch (e) {
+                prompt('Copy this link:', audioUrl);
+            }
+        }
 
         function fmtTime(s) {
             const m = Math.floor(s / 60);
