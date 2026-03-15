@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Research">
+    <title>Investment Research</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif;
+            background: #0a0a0a;
+            color: #e5e5e5;
+            min-height: 100vh;
+            padding: 0 0 120px 0;
+        }
+        .header {
+            padding: 60px 20px 20px;
+            background: linear-gradient(180deg, #1a1a2e 0%, #0a0a0a 100%);
+        }
+        .header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #fff;
+        }
+        .header p {
+            font-size: 14px;
+            color: #888;
+            margin-top: 4px;
+        }
+        .reports {
+            padding: 12px 16px;
+        }
+        .report-card {
+            background: #1a1a1a;
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .report-card:active {
+            background: #252525;
+        }
+        .report-card.playing {
+            background: #1a1a2e;
+            border: 1px solid #3b3b6d;
+        }
+        .report-icon {
+            width: 52px;
+            height: 52px;
+            border-radius: 10px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 22px;
+            flex-shrink: 0;
+        }
+        .report-info {
+            flex: 1;
+            min-width: 0;
+        }
+        .report-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #fff;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .report-meta {
+            font-size: 13px;
+            color: #888;
+            margin-top: 2px;
+        }
+        .play-btn {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+        .play-btn svg {
+            width: 18px;
+            height: 18px;
+            fill: #000;
+        }
+        .player-bar {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #1c1c1e;
+            border-top: 1px solid #333;
+            padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+            display: none;
+        }
+        .player-bar.active { display: block; }
+        .player-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+        .player-controls {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .ctrl-btn {
+            background: none;
+            border: none;
+            color: #fff;
+            font-size: 24px;
+            cursor: pointer;
+            padding: 4px;
+        }
+        .progress-container {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .progress-bar {
+            flex: 1;
+            height: 4px;
+            background: #444;
+            border-radius: 2px;
+            cursor: pointer;
+            position: relative;
+        }
+        .progress-fill {
+            height: 100%;
+            background: #667eea;
+            border-radius: 2px;
+            width: 0%;
+            transition: width 0.3s linear;
+        }
+        .time-label {
+            font-size: 11px;
+            color: #888;
+            min-width: 36px;
+            text-align: center;
+        }
+        .speed-btn {
+            background: #333;
+            border: none;
+            color: #fff;
+            font-size: 12px;
+            padding: 4px 8px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #666;
+        }
+        .empty-state p { font-size: 15px; line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Investment Research</h1>
+        <p id="subtitle">Loading reports...</p>
+    </div>
+    <div class="reports" id="reports"></div>
+    <div class="player-bar" id="playerBar">
+        <div class="player-title" id="playerTitle">—</div>
+        <div class="player-controls">
+            <button class="ctrl-btn" id="rewindBtn">&#x23EA;</button>
+            <button class="ctrl-btn" id="playPauseBtn">&#x25B6;&#xFE0F;</button>
+            <button class="ctrl-btn" id="forwardBtn">&#x23E9;</button>
+            <div class="progress-container">
+                <span class="time-label" id="currentTime">0:00</span>
+                <div class="progress-bar" id="progressBar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <span class="time-label" id="totalTime">0:00</span>
+            </div>
+            <button class="speed-btn" id="speedBtn">1x</button>
+        </div>
+    </div>
+
+    <script>
+        // Audio reports manifest - updated by generate-audio.sh
+        const AUDIO_BASE = 'audio/';
+        let reports = [];
+        let audio = new Audio();
+        let currentReport = null;
+        const speeds = [0.75, 1, 1.25, 1.5, 1.75, 2];
+        let speedIdx = 1;
+
+        // Try to load manifest
+        fetch('manifest.json')
+            .then(r => r.json())
+            .then(data => {
+                reports = data;
+                renderReports();
+            })
+            .catch(() => {
+                document.getElementById('subtitle').textContent = 'No audio files yet';
+                document.getElementById('reports').innerHTML = `
+                    <div class="empty-state">
+                        <p>Run <code>./generate-audio.sh</code> in your investment-research directory to create audio versions of your reports.</p>
+                    </div>`;
+            });
+
+        function renderReports() {
+            const container = document.getElementById('reports');
+            document.getElementById('subtitle').textContent = `${reports.length} report${reports.length !== 1 ? 's' : ''}`;
+            container.innerHTML = reports.map((r, i) => `
+                <div class="report-card" id="card-${i}" onclick="playReport(${i})">
+                    <div class="report-icon">${r.emoji || '📊'}</div>
+                    <div class="report-info">
+                        <div class="report-title">${r.name}</div>
+                        <div class="report-meta">${r.date || ''} · ${r.duration || ''}</div>
+                    </div>
+                    <div class="play-btn">
+                        <svg viewBox="0 0 24 24"><polygon points="6,3 20,12 6,21"/></svg>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function playReport(idx) {
+            const r = reports[idx];
+            if (currentReport === idx && !audio.paused) {
+                audio.pause();
+                updatePlayState();
+                return;
+            }
+            currentReport = idx;
+            audio.src = AUDIO_BASE + r.file;
+            audio.playbackRate = speeds[speedIdx];
+            audio.play();
+            document.getElementById('playerTitle').textContent = r.name;
+            document.getElementById('playerBar').classList.add('active');
+            updatePlayState();
+        }
+
+        function updatePlayState() {
+            const btn = document.getElementById('playPauseBtn');
+            btn.textContent = audio.paused ? '▶️' : '⏸️';
+            document.querySelectorAll('.report-card').forEach((c, i) => {
+                c.classList.toggle('playing', i === currentReport && !audio.paused);
+            });
+        }
+
+        document.getElementById('playPauseBtn').onclick = () => {
+            if (audio.paused) audio.play(); else audio.pause();
+            updatePlayState();
+        };
+        document.getElementById('rewindBtn').onclick = () => { audio.currentTime = Math.max(0, audio.currentTime - 30); };
+        document.getElementById('forwardBtn').onclick = () => { audio.currentTime += 30; };
+        document.getElementById('speedBtn').onclick = () => {
+            speedIdx = (speedIdx + 1) % speeds.length;
+            audio.playbackRate = speeds[speedIdx];
+            document.getElementById('speedBtn').textContent = speeds[speedIdx] + 'x';
+        };
+        document.getElementById('progressBar').onclick = (e) => {
+            const pct = e.offsetX / e.currentTarget.offsetWidth;
+            audio.currentTime = pct * audio.duration;
+        };
+
+        audio.ontimeupdate = () => {
+            if (!audio.duration) return;
+            const pct = (audio.currentTime / audio.duration) * 100;
+            document.getElementById('progressFill').style.width = pct + '%';
+            document.getElementById('currentTime').textContent = fmtTime(audio.currentTime);
+            document.getElementById('totalTime').textContent = fmtTime(audio.duration);
+        };
+        audio.onplay = updatePlayState;
+        audio.onpause = updatePlayState;
+        audio.onended = () => {
+            if (currentReport < reports.length - 1) playReport(currentReport + 1);
+            else updatePlayState();
+        };
+
+        function fmtTime(s) {
+            const m = Math.floor(s / 60);
+            const sec = Math.floor(s % 60);
+            return m + ':' + (sec < 10 ? '0' : '') + sec;
+        }
+    </script>
+</body>
+</html>
