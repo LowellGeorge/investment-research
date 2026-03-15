@@ -1,8 +1,26 @@
 [
   {
+    "name": "SK Hynix",
+    "file": "SK Hynix-analysis.mp3",
+    "emoji": "🇰🇷",
+    "date": "15 March 2026"
+  },
+  {
+    "name": "TSMC",
+    "file": "TSMC-analysis.mp3",
+    "emoji": "🇹🇼",
+    "date": "15 March 2026"
+  },
+  {
+    "name": "Tencent",
+    "file": "Tencent-analysis.mp3",
+    "emoji": "🇨🇳",
+    "date": "15 March 2026"
+  },
+  {
     "name": "HDFC Bank",
     "file": "HDFC Bank-analysis.mp3",
-    "emoji": "\ud83d\udcca",
+    "emoji": "🇮🇳",
     "date": "15 March 2026"
   }
 ]
