@@ -133,7 +133,7 @@
             height: 18px;
             fill: #000;
         }
-        .share-btn {
+        .share-btn, .pdf-btn {
             width: 40px;
             height: 40px;
             border-radius: 50%;
@@ -145,7 +145,10 @@
             border: none;
             cursor: pointer;
         }
-        .share-btn svg {
+        .pdf-btn {
+            background: #1a365d;
+        }
+        .share-btn svg, .pdf-btn svg {
             width: 18px;
             height: 18px;
             fill: #fff;
@@ -457,6 +460,11 @@
             const meta = isArticle
                 ? [item.author, item.date].filter(Boolean).join(' &middot; ')
                 : [item.date, item.duration].filter(Boolean).join(' &middot; ');
+            const pdfBtn = item.pdf
+                ? `<button class="pdf-btn" onclick="event.stopPropagation(); sharePdf(${idx})" title="PDF">
+                    <svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6zm-1 2l5 5h-5V4zM9.5 14.5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5S11.83 16 11 16s-1.5-.67-1.5-1.5zm-2 2c0-.83.67-1.5 1.5-1.5h4c.83 0 1.5.67 1.5 1.5v.5H7.5v-.5z"/></svg>
+                  </button>`
+                : '';
             return `
                 <div class="report-card" id="card-${idx}">
                     ${icon}
@@ -464,6 +472,7 @@
                         <div class="report-title">${item.name}</div>
                         <div class="report-meta">${meta}</div>
                     </div>
+                    ${pdfBtn}
                     <button class="share-btn" onclick="event.stopPropagation(); shareItem(${idx})" title="Share">
                         <svg viewBox="0 0 24 24"><path d="M16 5l-1.42 1.42-1.59-1.59V16h-1.98V4.83L9.42 6.42 8 5l4-4 4 4zm4 5v11a2 2 0 01-2 2H6a2 2 0 01-2-2V10c0-1.11.89-2 2-2h3v2H6v11h12V10h-3V8h3a2 2 0 012 2z"/></svg>
                     </button>
@@ -546,7 +555,38 @@
             };
         });
 
-        // Share
+        // Share PDF
+        async function sharePdf(idx) {
+            const item = allItems[idx];
+            if (!item || !item.pdf) return;
+            const pdfUrl = window.location.href.replace(/\/[^/]*$/, '/') + 'pdfs/' + item.pdf;
+
+            if (navigator.share) {
+                try {
+                    const resp = await fetch('pdfs/' + item.pdf);
+                    if (resp.ok) {
+                        const blob = await resp.blob();
+                        const file = new File([blob], item.name + ' Analysis.pdf', { type: 'application/pdf' });
+                        if (navigator.canShare && navigator.canShare({ files: [file] })) {
+                            await navigator.share({ title: item.name + ' Analysis', files: [file] });
+                            return;
+                        }
+                    }
+                } catch (e) { /* fall through */ }
+
+                try {
+                    await navigator.share({ title: item.name + ' Analysis', url: pdfUrl });
+                    return;
+                } catch (e) {
+                    if (e.name === 'AbortError') return;
+                }
+            }
+
+            // Fallback: open PDF in new tab
+            window.open(pdfUrl, '_blank');
+        }
+
+        // Share audio
         async function shareItem(idx) {
             const item = allItems[idx];
             const shareFile = item.file.replace('.mp3', '.m4a');
