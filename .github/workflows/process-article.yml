@@ -1,0 +1,38 @@
+name: Process Article to Audio
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "URL of article to convert to audio"
+        required: true
+        type: string
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install trafilatura
+
+      - name: Extract article and generate audio
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python process_article.py "${{ inputs.url }}"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/articles-manifest.json "docs/audio/*.mp3" "articles/*.txt"
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Add article: ${{ inputs.url }}"
+          git push
