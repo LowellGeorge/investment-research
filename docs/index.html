@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="Research">
-    <title>Investment Research</title>
+    <meta name="apple-mobile-web-app-title" content="Audio">
+    <title>Audio Library</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -14,10 +14,10 @@
             background: #0a0a0a;
             color: #e5e5e5;
             min-height: 100vh;
-            padding: 0 0 120px 0;
+            padding: 0 0 140px 0;
         }
         .header {
-            padding: 60px 20px 20px;
+            padding: 60px 20px 12px;
             background: linear-gradient(180deg, #1a1a2e 0%, #0a0a0a 100%);
         }
         .header h1 {
@@ -30,6 +30,39 @@
             color: #888;
             margin-top: 4px;
         }
+
+        /* Tabs */
+        .tabs {
+            display: flex;
+            padding: 8px 16px 0;
+            gap: 0;
+            border-bottom: 1px solid #222;
+            background: #0a0a0a;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        .tab {
+            flex: 1;
+            padding: 12px 0;
+            background: none;
+            border: none;
+            color: #666;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+        }
+        .tab.active {
+            color: #fff;
+            border-bottom-color: #667eea;
+        }
+
+        /* Content sections */
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+
         .reports {
             padding: 12px 16px;
         }
@@ -62,6 +95,9 @@
             font-size: 22px;
             flex-shrink: 0;
         }
+        .report-icon.article-icon {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
         .report-info {
             flex: 1;
             min-width: 0;
@@ -78,6 +114,9 @@
             font-size: 14px;
             color: #888;
             margin-top: 2px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
         .play-btn {
             width: 40px;
@@ -94,6 +133,25 @@
             height: 18px;
             fill: #000;
         }
+        .share-btn {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: #333;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            border: none;
+            cursor: pointer;
+        }
+        .share-btn svg {
+            width: 18px;
+            height: 18px;
+            fill: #fff;
+        }
+
+        /* Player bar */
         .player-bar {
             position: fixed;
             bottom: 0;
@@ -103,6 +161,7 @@
             border-top: 1px solid #333;
             padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
             display: none;
+            z-index: 20;
         }
         .player-bar.active { display: block; }
         .player-title {
@@ -160,23 +219,106 @@
             border-radius: 4px;
             cursor: pointer;
         }
-        .share-btn {
-            width: 40px;
-            height: 40px;
+
+        /* FAB */
+        .fab {
+            position: fixed;
+            bottom: 90px;
+            right: 20px;
+            width: 56px;
+            height: 56px;
             border-radius: 50%;
-            background: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border: none;
+            color: #fff;
+            font-size: 32px;
+            font-weight: 300;
+            cursor: pointer;
+            box-shadow: 0 4px 20px rgba(102, 126, 234, 0.4);
+            z-index: 15;
             display: flex;
             align-items: center;
             justify-content: center;
-            flex-shrink: 0;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .fab:active {
+            transform: scale(0.92);
+        }
+
+        /* Modal */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.7);
+            z-index: 100;
+            align-items: flex-end;
+            justify-content: center;
+        }
+        .modal-overlay.active {
+            display: flex;
+        }
+        .modal {
+            background: #1c1c1e;
+            border-radius: 16px 16px 0 0;
+            padding: 24px 20px calc(24px + env(safe-area-inset-bottom));
+            width: 100%;
+            max-width: 500px;
+        }
+        .modal h2 {
+            font-size: 20px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 16px;
+        }
+        .modal input[type="url"] {
+            width: 100%;
+            padding: 14px 16px;
+            border-radius: 10px;
+            border: 1px solid #333;
+            background: #2c2c2e;
+            color: #fff;
+            font-size: 16px;
+            outline: none;
+            margin-bottom: 12px;
+        }
+        .modal input[type="url"]::placeholder {
+            color: #666;
+        }
+        .modal input[type="url"]:focus {
+            border-color: #667eea;
+        }
+        .modal-buttons {
+            display: flex;
+            gap: 12px;
+        }
+        .modal-btn {
+            flex: 1;
+            padding: 14px;
+            border-radius: 10px;
             border: none;
+            font-size: 16px;
+            font-weight: 600;
             cursor: pointer;
         }
-        .share-btn svg {
-            width: 18px;
-            height: 18px;
-            fill: #fff;
+        .modal-btn.primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #fff;
         }
+        .modal-btn.secondary {
+            background: #333;
+            color: #fff;
+        }
+        .modal-status {
+            margin-top: 12px;
+            font-size: 14px;
+            color: #888;
+            text-align: center;
+            min-height: 20px;
+        }
+        .modal-status.success { color: #4cd964; }
+        .modal-status.error { color: #ff3b30; }
+
         .empty-state {
             text-align: center;
             padding: 60px 20px;
@@ -187,12 +329,39 @@
 </head>
 <body>
     <div class="header">
-        <h1>Investment Research</h1>
-        <p id="subtitle">Loading reports...</p>
+        <h1>Audio Library</h1>
+        <p id="subtitle">Loading...</p>
     </div>
-    <div class="reports" id="reports"></div>
+
+    <div class="tabs">
+        <button class="tab active" data-tab="research">Research</button>
+        <button class="tab" data-tab="articles">Articles</button>
+    </div>
+
+    <div class="tab-content active" id="research-tab">
+        <div class="reports" id="reports"></div>
+    </div>
+
+    <div class="tab-content" id="articles-tab">
+        <div class="reports" id="articles"></div>
+    </div>
+
+    <button class="fab" id="addBtn">+</button>
+
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal">
+            <h2>Add Article</h2>
+            <input type="url" id="urlInput" placeholder="Paste article URL..." autocapitalize="off" autocorrect="off">
+            <div class="modal-buttons">
+                <button class="modal-btn secondary" id="cancelBtn">Cancel</button>
+                <button class="modal-btn primary" id="submitBtn">Submit</button>
+            </div>
+            <div class="modal-status" id="modalStatus"></div>
+        </div>
+    </div>
+
     <div class="player-bar" id="playerBar">
-        <div class="player-title" id="playerTitle">—</div>
+        <div class="player-title" id="playerTitle">&mdash;</div>
         <div class="player-controls">
             <button class="ctrl-btn" id="rewindBtn">&#x23EA;</button>
             <button class="ctrl-btn" id="playPauseBtn">&#x25B6;&#xFE0F;</button>
@@ -209,73 +378,127 @@
     </div>
 
     <script>
-        // Audio reports manifest - updated by generate-audio.sh
         const AUDIO_BASE = 'audio/';
-        let reports = [];
+        // --- Configuration ---
+        // Replace with your fine-grained GitHub PAT (scope: Actions read/write on this repo only)
+        const GH_TOKEN = localStorage.getItem('gh_token') || '';
+        const GH_OWNER = 'LowellGeorge';
+        const GH_REPO = 'investment-research';
+        const GH_WORKFLOW = 'process-article.yml';
+
+        let research = [];
+        let articles = [];
+        let allItems = [];      // unified playlist
         let audio = new Audio();
-        let currentReport = null;
+        let currentIndex = null; // index into allItems
+        let currentTab = 'research';
         const speeds = [0.75, 1, 1.25, 1.5, 1.75, 2];
         let speedIdx = 1;
 
-        // Try to load manifest
-        fetch('manifest.json')
-            .then(r => r.json())
-            .then(data => {
-                reports = data;
-                renderReports();
-            })
-            .catch(() => {
-                document.getElementById('subtitle').textContent = 'No audio files yet';
-                document.getElementById('reports').innerHTML = `
-                    <div class="empty-state">
-                        <p>Run <code>./generate-audio.sh</code> in your investment-research directory to create audio versions of your reports.</p>
-                    </div>`;
-            });
+        // Load both manifests in parallel
+        Promise.all([
+            fetch('manifest.json').then(r => r.json()).catch(() => []),
+            fetch('articles-manifest.json').then(r => r.json()).catch(() => []),
+        ]).then(([r, a]) => {
+            research = r.map(item => ({ ...item, category: 'research' }));
+            articles = a.map(item => ({
+                name: item.title,
+                file: item.file,
+                emoji: '',
+                date: item.date || '',
+                author: item.author || '',
+                url: item.url || '',
+                category: 'articles',
+            }));
+            allItems = [...research, ...articles];
+            render();
+        });
 
-        function renderReports() {
-            const container = document.getElementById('reports');
-            document.getElementById('subtitle').textContent = `${reports.length} report${reports.length !== 1 ? 's' : ''}`;
-            container.innerHTML = reports.map((r, i) => `
-                <div class="report-card" id="card-${i}">
-                    <div class="report-icon" onclick="playReport(${i})">${r.emoji || '📊'}</div>
-                    <div class="report-info" onclick="playReport(${i})">
-                        <div class="report-title">${r.name}</div>
-                        <div class="report-meta">${r.date || ''} · ${r.duration || ''}</div>
-                    </div>
-                    <button class="share-btn" onclick="event.stopPropagation(); shareReport(${i})" title="Share">
-                        <svg viewBox="0 0 24 24"><path d="M16 5l-1.42 1.42-1.59-1.59V16h-1.98V4.83L9.42 6.42 8 5l4-4 4 4zm4 5v11a2 2 0 01-2 2H6a2 2 0 01-2-2V10c0-1.11.89-2 2-2h3v2H6v11h12V10h-3V8h3a2 2 0 012 2z"/></svg>
-                    </button>
-                    <div class="play-btn" onclick="playReport(${i})">
-                        <svg viewBox="0 0 24 24"><polygon points="6,3 20,12 6,21"/></svg>
-                    </div>
-                </div>
-            `).join('');
+        function render() {
+            renderResearch();
+            renderArticles();
+            updateSubtitle();
         }
 
-        function playReport(idx) {
-            const r = reports[idx];
-            if (currentReport === idx && !audio.paused) {
+        function updateSubtitle() {
+            const n = currentTab === 'research' ? research.length : articles.length;
+            const label = currentTab === 'research' ? 'report' : 'article';
+            document.getElementById('subtitle').textContent =
+                `${n} ${label}${n !== 1 ? 's' : ''}`;
+        }
+
+        function renderResearch() {
+            const el = document.getElementById('reports');
+            if (!research.length) {
+                el.innerHTML = '<div class="empty-state"><p>No research reports yet.</p></div>';
+                return;
+            }
+            el.innerHTML = research.map((r, i) => cardHTML(r, globalIndex('research', i), false)).join('');
+        }
+
+        function renderArticles() {
+            const el = document.getElementById('articles');
+            if (!articles.length) {
+                el.innerHTML = '<div class="empty-state"><p>No articles yet. Tap + to add one.</p></div>';
+                return;
+            }
+            el.innerHTML = articles.map((a, i) => cardHTML(a, globalIndex('articles', i), true)).join('');
+        }
+
+        function globalIndex(category, localIdx) {
+            if (category === 'research') return localIdx;
+            return research.length + localIdx;
+        }
+
+        function cardHTML(item, idx, isArticle) {
+            const icon = isArticle
+                ? `<div class="report-icon article-icon">&#x1F4D6;</div>`
+                : `<div class="report-icon">${item.emoji || '&#x1F4CA;'}</div>`;
+            const meta = isArticle
+                ? [item.author, item.date].filter(Boolean).join(' &middot; ')
+                : [item.date, item.duration].filter(Boolean).join(' &middot; ');
+            return `
+                <div class="report-card" id="card-${idx}">
+                    ${icon}
+                    <div class="report-info" onclick="playItem(${idx})">
+                        <div class="report-title">${item.name}</div>
+                        <div class="report-meta">${meta}</div>
+                    </div>
+                    <button class="share-btn" onclick="event.stopPropagation(); shareItem(${idx})" title="Share">
+                        <svg viewBox="0 0 24 24"><path d="M16 5l-1.42 1.42-1.59-1.59V16h-1.98V4.83L9.42 6.42 8 5l4-4 4 4zm4 5v11a2 2 0 01-2 2H6a2 2 0 01-2-2V10c0-1.11.89-2 2-2h3v2H6v11h12V10h-3V8h3a2 2 0 012 2z"/></svg>
+                    </button>
+                    <div class="play-btn" onclick="playItem(${idx})">
+                        <svg viewBox="0 0 24 24"><polygon points="6,3 20,12 6,21"/></svg>
+                    </div>
+                </div>`;
+        }
+
+        function playItem(idx) {
+            const item = allItems[idx];
+            if (!item) return;
+            if (currentIndex === idx && !audio.paused) {
                 audio.pause();
                 updatePlayState();
                 return;
             }
-            currentReport = idx;
-            audio.src = AUDIO_BASE + r.file;
+            currentIndex = idx;
+            audio.src = AUDIO_BASE + item.file;
             audio.playbackRate = speeds[speedIdx];
             audio.play();
-            document.getElementById('playerTitle').textContent = r.name;
+            document.getElementById('playerTitle').textContent = item.name;
             document.getElementById('playerBar').classList.add('active');
             updatePlayState();
         }
 
         function updatePlayState() {
-            const btn = document.getElementById('playPauseBtn');
-            btn.textContent = audio.paused ? '▶️' : '⏸️';
-            document.querySelectorAll('.report-card').forEach((c, i) => {
-                c.classList.toggle('playing', i === currentReport && !audio.paused);
+            document.getElementById('playPauseBtn').textContent = audio.paused ? '\u25B6\uFE0F' : '\u23F8\uFE0F';
+            document.querySelectorAll('.report-card').forEach(c => {
+                const id = parseInt(c.id.replace('card-', ''));
+                c.classList.toggle('playing', id === currentIndex && !audio.paused);
             });
         }
 
+        // Player controls
         document.getElementById('playPauseBtn').onclick = () => {
             if (audio.paused) audio.play(); else audio.pause();
             updatePlayState();
@@ -294,48 +517,56 @@
 
         audio.ontimeupdate = () => {
             if (!audio.duration) return;
-            const pct = (audio.currentTime / audio.duration) * 100;
-            document.getElementById('progressFill').style.width = pct + '%';
+            document.getElementById('progressFill').style.width =
+                (audio.currentTime / audio.duration * 100) + '%';
             document.getElementById('currentTime').textContent = fmtTime(audio.currentTime);
             document.getElementById('totalTime').textContent = fmtTime(audio.duration);
         };
         audio.onplay = updatePlayState;
         audio.onpause = updatePlayState;
         audio.onended = () => {
-            if (currentReport < reports.length - 1) playReport(currentReport + 1);
+            // Play next within same category
+            const item = allItems[currentIndex];
+            if (!item) return;
+            const isResearch = currentIndex < research.length;
+            const limit = isResearch ? research.length : allItems.length;
+            if (currentIndex + 1 < limit) playItem(currentIndex + 1);
             else updatePlayState();
         };
 
-        async function shareReport(idx) {
-            const r = reports[idx];
-            // Use compressed m4a for sharing (12MB vs 45MB)
-            const shareFile = r.file.replace('.mp3', '.m4a');
-            const audioUrl = window.location.href.replace(/\/$/, '') + '/' + AUDIO_BASE + shareFile;
+        // Tab switching
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.onclick = () => {
+                currentTab = tab.dataset.tab;
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+                document.getElementById(currentTab + '-tab').classList.add('active');
+                updateSubtitle();
+            };
+        });
+
+        // Share
+        async function shareItem(idx) {
+            const item = allItems[idx];
+            const shareFile = item.file.replace('.mp3', '.m4a');
+            const audioUrl = window.location.href.replace(/\/$/, '') + '/' + AUDIO_BASE + item.file;
 
             if (navigator.share) {
                 try {
-                    const response = await fetch(AUDIO_BASE + shareFile);
-                    const blob = await response.blob();
-                    const file = new File([blob], r.name + ' Analysis.m4a', { type: 'audio/mp4' });
-
-                    if (navigator.canShare && navigator.canShare({ files: [file] })) {
-                        await navigator.share({
-                            title: r.name + ' — Investment Analysis',
-                            text: 'Investment research report on ' + r.name,
-                            files: [file]
-                        });
-                        return;
+                    const resp = await fetch(AUDIO_BASE + shareFile);
+                    if (resp.ok) {
+                        const blob = await resp.blob();
+                        const file = new File([blob], item.name + '.m4a', { type: 'audio/mp4' });
+                        if (navigator.canShare && navigator.canShare({ files: [file] })) {
+                            await navigator.share({ title: item.name, files: [file] });
+                            return;
+                        }
                     }
-                } catch (e) {
-                    // Fall back to URL sharing
-                }
+                } catch (e) { /* fall through */ }
 
                 try {
-                    await navigator.share({
-                        title: r.name + ' — Investment Analysis',
-                        text: 'Listen to this investment research report on ' + r.name,
-                        url: audioUrl
-                    });
+                    await navigator.share({ title: item.name, url: audioUrl });
                     return;
                 } catch (e) {
                     if (e.name === 'AbortError') return;
@@ -344,9 +575,89 @@
 
             try {
                 await navigator.clipboard.writeText(audioUrl);
-                alert('Link copied to clipboard!');
+                alert('Link copied!');
             } catch (e) {
-                prompt('Copy this link:', audioUrl);
+                prompt('Copy link:', audioUrl);
+            }
+        }
+
+        // Add article modal
+        const modal = document.getElementById('modalOverlay');
+        const urlInput = document.getElementById('urlInput');
+        const status = document.getElementById('modalStatus');
+
+        document.getElementById('addBtn').onclick = () => {
+            modal.classList.add('active');
+            urlInput.value = '';
+            status.textContent = '';
+            status.className = 'modal-status';
+            setTimeout(() => urlInput.focus(), 100);
+        };
+
+        document.getElementById('cancelBtn').onclick = closeModal;
+        modal.onclick = (e) => { if (e.target === modal) closeModal(); };
+
+        function closeModal() {
+            modal.classList.remove('active');
+            urlInput.value = '';
+            status.textContent = '';
+        }
+
+        document.getElementById('submitBtn').onclick = submitUrl;
+        urlInput.onkeydown = (e) => { if (e.key === 'Enter') submitUrl(); };
+
+        async function submitUrl() {
+            const url = urlInput.value.trim();
+            if (!url) {
+                status.textContent = 'Please enter a URL';
+                status.className = 'modal-status error';
+                return;
+            }
+
+            try { new URL(url); } catch {
+                status.textContent = 'Please enter a valid URL';
+                status.className = 'modal-status error';
+                return;
+            }
+
+            const token = GH_TOKEN || prompt('Enter your GitHub token (stored locally):');
+            if (!token) return;
+            if (!GH_TOKEN) localStorage.setItem('gh_token', token);
+
+            status.textContent = 'Submitting...';
+            status.className = 'modal-status';
+            document.getElementById('submitBtn').disabled = true;
+
+            try {
+                const resp = await fetch(
+                    `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/actions/workflows/${GH_WORKFLOW}/dispatches`,
+                    {
+                        method: 'POST',
+                        headers: {
+                            'Authorization': `Bearer ${token}`,
+                            'Accept': 'application/vnd.github.v3+json',
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({
+                            ref: 'main',
+                            inputs: { url },
+                        }),
+                    }
+                );
+
+                if (resp.status === 204) {
+                    status.textContent = 'Submitted! Audio will appear in a few minutes.';
+                    status.className = 'modal-status success';
+                    setTimeout(closeModal, 2000);
+                } else {
+                    const err = await resp.json().catch(() => ({}));
+                    throw new Error(err.message || `HTTP ${resp.status}`);
+                }
+            } catch (e) {
+                status.textContent = 'Error: ' + e.message;
+                status.className = 'modal-status error';
+            } finally {
+                document.getElementById('submitBtn').disabled = false;
             }
         }
 
