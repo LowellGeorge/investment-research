@@ -7,6 +7,13 @@
     "date": "31 March 2026"
   },
   {
+    "name": "Trip.com Q",
+    "file": "Trip.com-qanalysis.mp3",
+    "pdf": "Trip.com-qanalysis.pdf",
+    "emoji": "\ud83c\udde8\ud83c\uddf3",
+    "date": "31 March 2026"
+  },
+  {
     "name": "Capitec Bank Q",
     "file": "Capitec Bank-qanalysis.mp3",
     "pdf": "Capitec Bank-qanalysis.pdf",
@@ -75,13 +82,6 @@
     "pdf": "ICICI Lombard-qanalysis.pdf",
     "emoji": "\ud83c\uddee\ud83c\uddf3",
     "date": "20 March 2026"
-  },
-  {
-    "name": "Trip.com Q",
-    "file": "Trip.com-qanalysis.mp3",
-    "pdf": "Trip.com-qanalysis.pdf",
-    "emoji": "\ud83c\udde8\ud83c\uddf3",
-    "date": "19 March 2026"
   },
   {
     "name": "AIA",
