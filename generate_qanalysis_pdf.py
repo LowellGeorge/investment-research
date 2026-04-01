@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
-"""Generate a PDF from the Tencent Quartr-enhanced analysis markdown."""
+"""Generate a PDF from a Qanalysis markdown report."""
 
 import re
+import sys
 from fpdf import FPDF
-
-INPUT = "Tencent-qanalysis.md"
-OUTPUT = "docs/pdfs/Tencent-qanalysis.pdf"
 
 
 class MarkdownPDF(FPDF):
@@ -14,16 +12,18 @@ class MarkdownPDF(FPDF):
         self.set_auto_page_break(auto=True, margin=20)
         self.add_page()
         self.set_margins(20, 20, 20)
+        self._doc_title = ""
 
     def title_page(self, title, subtitle_lines):
+        self._doc_title = title
         self.set_y(60)
         self.set_font("Helvetica", "B", 26)
-        self.multi_cell(0, 13, title, align="C")
-        self.ln(10)
-        self.set_font("Helvetica", "", 12)
+        self.multi_cell(0, 13, self._sanitize(title), align="C")
+        self.ln(8)
+        self.set_font("Helvetica", "", 11)
         self.set_text_color(100, 100, 100)
         for line in subtitle_lines:
-            self.cell(0, 8, line, align="C", new_x="LMARGIN", new_y="NEXT")
+            self.cell(0, 7, self._sanitize(line), align="C", new_x="LMARGIN", new_y="NEXT")
         self.set_text_color(0, 0, 0)
         self.ln(10)
         self.set_draw_color(180, 180, 180)
@@ -32,7 +32,7 @@ class MarkdownPDF(FPDF):
 
     def h2(self, text):
         self.ln(6)
-        self.set_font("Helvetica", "B", 18)
+        self.set_font("Helvetica", "B", 17)
         self.set_text_color(30, 60, 120)
         self.multi_cell(0, 10, self._sanitize(text))
         self.set_text_color(0, 0, 0)
@@ -40,7 +40,7 @@ class MarkdownPDF(FPDF):
 
     def h3(self, text):
         self.ln(4)
-        self.set_font("Helvetica", "B", 14)
+        self.set_font("Helvetica", "B", 13)
         self.set_text_color(50, 80, 140)
         self.multi_cell(0, 9, self._sanitize(text))
         self.set_text_color(0, 0, 0)
@@ -72,45 +72,27 @@ class MarkdownPDF(FPDF):
 
     @staticmethod
     def _sanitize(text):
-        text = text.replace("\u2014", " - ")
-        text = text.replace("\u2013", "-")
-        text = text.replace("\u2018", "'").replace("\u2019", "'")
-        text = text.replace("\u201c", '"').replace("\u201d", '"')
-        text = text.replace("\u2026", "...")
-        text = text.replace("\u2022", "-")
-        text = text.replace("\u00d7", "x")
-        text = text.replace("\u2190", "<-").replace("\u2192", "->")
-        text = text.replace("\u00a0", " ")
-        text = text.replace("\u2248", "~")
+        replacements = {
+            "\u2014": " - ", "\u2013": "-",
+            "\u2018": "'", "\u2019": "'",
+            "\u201c": '"', "\u201d": '"',
+            "\u2026": "...", "\u2022": "-",
+            "\u00d7": "x", "\u2190": "<-", "\u2192": "->",
+            "\u251c": "|", "\u2514": "`",
+            "\u2500": "-", "\u2502": "|",
+            "\u2248": "~", "\u2265": ">=", "\u2264": "<=",
+        }
+        for k, v in replacements.items():
+            text = text.replace(k, v)
+        text = text.encode('latin-1', errors='replace').decode('latin-1')
         return text
-
-    def table_row(self, cells, bold=False, col_widths=None):
-        style = "B" if bold else ""
-        self.set_font("Helvetica", style, 9)
-        if col_widths is None:
-            total_w = self.w - self.l_margin - self.r_margin
-            col_w = total_w / len(cells)
-            col_widths = [col_w] * len(cells)
-        h = 7
-
-        for idx, cell_text in enumerate(cells):
-            cell_text = self._sanitize(cell_text)
-            w = col_widths[idx]
-            if bold:
-                self.set_fill_color(230, 235, 245)
-                self.cell(w, h, cell_text[:50], border=1, fill=True)
-            else:
-                self.cell(w, h, cell_text[:50], border="LBR")
-        self.ln(h)
 
     def _write_rich_text(self, text, w=None):
         if w is None:
             w = self.w - self.l_margin - self.r_margin
-
         text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
         text = re.sub(r'`([^`]+)`', r'\1', text)
         text = self._sanitize(text)
-
         parts = re.split(r'(\*\*[^*]+\*\*)', text)
         for part in parts:
             if part.startswith("**") and part.endswith("**"):
@@ -124,7 +106,7 @@ class MarkdownPDF(FPDF):
         if self.page_no() > 1:
             self.set_font("Helvetica", "I", 8)
             self.set_text_color(150, 150, 150)
-            self.cell(0, 10, "Tencent Holdings - Quartr-Enhanced Investment Analysis", align="C")
+            self.cell(0, 10, self._sanitize(self._doc_title), align="C")
             self.set_text_color(0, 0, 0)
             self.ln(12)
 
@@ -142,27 +124,35 @@ def parse_and_render(md_path, output_path):
 
     pdf = MarkdownPDF()
 
-    pdf.title_page(
-        "Tencent Holdings (700.HK)",
-        [
-            "Quartr-Enhanced Investment Analysis",
-            "",
-            "Date: 30 March 2026",
-            "Market Cap: ~$567B USD",
-            "Sources: Quartr transcripts, presentations, financials + web research",
-        ],
-    )
+    title = "Investment Analysis"
+    subtitle_lines = []
+    for line in lines[:10]:
+        line = line.rstrip()
+        if line.startswith("# "):
+            title = line[2:].strip()
+        elif line.startswith("**Date:"):
+            subtitle_lines.append(line.replace("**", "").strip())
+        elif line.startswith("**Market Cap:"):
+            subtitle_lines.append(line.replace("**", "").strip())
+        elif line.startswith("**GICS:"):
+            subtitle_lines.append(line.replace("**", "").strip())
+
+    if not subtitle_lines:
+        subtitle_lines = ["Quartr-Enhanced Investment Analysis"]
+
+    pdf.title_page(title, subtitle_lines)
 
     in_code_block = False
     code_buffer = []
-    in_table = False
     i = 0
 
-    # Skip title and metadata lines
     while i < len(lines):
         line = lines[i].rstrip()
         if line.startswith("## "):
             break
+        if line.startswith("---"):
+            i += 1
+            continue
         i += 1
 
     while i < len(lines):
@@ -170,19 +160,12 @@ def parse_and_render(md_path, output_path):
         i += 1
 
         if line.startswith("```"):
-            if in_code_block:
-                code_buffer = []
-                in_code_block = False
-            else:
-                in_code_block = True
+            in_code_block = not in_code_block
             continue
-
         if in_code_block:
-            code_buffer.append(line)
             continue
 
         if not line.strip():
-            in_table = False
             continue
 
         if line.strip() == "---":
@@ -197,29 +180,6 @@ def parse_and_render(md_path, output_path):
             continue
         if line.startswith("### "):
             pdf.h3(line[4:].strip())
-            continue
-
-        if line.startswith("|"):
-            cells = [c.strip() for c in line.split("|")[1:-1]]
-            if len(cells) >= 2:
-                if all("---" in c for c in cells):
-                    continue
-                total_w = pdf.w - pdf.l_margin - pdf.r_margin
-                if len(cells) == 2:
-                    col_widths = [total_w * 0.35, total_w * 0.65]
-                elif len(cells) == 3:
-                    col_widths = [total_w * 0.05, total_w * 0.55, total_w * 0.40]
-                elif len(cells) == 4:
-                    col_widths = [total_w * 0.25] * 4
-                elif len(cells) == 5:
-                    col_widths = [total_w * 0.20] * 5
-                else:
-                    col_widths = [total_w / len(cells)] * len(cells)
-                if not in_table:
-                    pdf.table_row(cells, bold=True, col_widths=col_widths)
-                    in_table = True
-                else:
-                    pdf.table_row(cells, col_widths=col_widths)
             continue
 
         m = re.match(r'^(\d+)\.\s+(.*)', line)
@@ -238,4 +198,7 @@ def parse_and_render(md_path, output_path):
 
 
 if __name__ == "__main__":
-    parse_and_render(INPUT, OUTPUT)
+    if len(sys.argv) < 3:
+        print("Usage: python generate_qanalysis_pdf.py <input.md> <output.pdf>")
+        sys.exit(1)
+    parse_and_render(sys.argv[1], sys.argv[2])
