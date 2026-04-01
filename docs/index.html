@@ -403,7 +403,8 @@
             fetch('manifest.json').then(r => r.json()).catch(() => []),
             fetch('articles-manifest.json').then(r => r.json()).catch(() => []),
         ]).then(([r, a]) => {
-            research = r.map(item => ({ ...item, category: 'research' }));
+            research = r.map(item => ({ ...item, category: 'research' }))
+                .sort((a, b) => a.name.localeCompare(b.name));
             articles = a.map(item => ({
                 name: item.title,
                 file: item.file,
