@@ -1,9 +1,23 @@
 [
   {
+    "name": "Sony Q",
+    "file": "Sony-qanalysis.m4a",
+    "pdf": "Sony-qanalysis.pdf",
+    "emoji": "\ud83c\uddef\ud83c\uddf5",
+    "date": "5 April 2026"
+  },
+  {
+    "name": "Alibaba Q",
+    "file": "Alibaba-qanalysis.m4a",
+    "pdf": "Alibaba-qanalysis.pdf",
+    "emoji": "🇨🇳",
+    "date": "5 April 2026"
+  },
+  {
     "name": "FPT Corp Q",
     "file": "FPT Corp-qanalysis.m4a",
     "pdf": "FPT Corp-qanalysis.pdf",
-    "emoji": "\ud83c\uddfb\ud83c\uddf3",
+    "emoji": "🇻🇳",
     "date": "1 April 2026"
   },
   {
