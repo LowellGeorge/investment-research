@@ -3,7 +3,28 @@
     "name": "Sony Q",
     "file": "Sony-qanalysis.m4a",
     "pdf": "Sony-qanalysis.pdf",
-    "emoji": "\ud83c\uddef\ud83c\uddf5",
+    "emoji": "🇯🇵",
+    "date": "5 April 2026"
+  },
+  {
+    "name": "Shenzhen Mindray Q",
+    "file": "Shenzhen Mindray-qanalysis.m4a",
+    "pdf": "Shenzhen Mindray-qanalysis.pdf",
+    "emoji": "🇨🇳",
+    "date": "5 April 2026"
+  },
+  {
+    "name": "Jardine Matheson Holdings Q",
+    "file": "Jardine Matheson Holdings-qanalysis.m4a",
+    "pdf": "Jardine Matheson Holdings-qanalysis.pdf",
+    "emoji": "🇭🇰",
+    "date": "5 April 2026"
+  },
+  {
+    "name": "Midea Group Q",
+    "file": "Midea Group-qanalysis.m4a",
+    "pdf": "Midea Group-qanalysis.pdf",
+    "emoji": "🇨🇳",
     "date": "5 April 2026"
   },
   {
@@ -23,274 +44,267 @@
   {
     "name": "United Breweries Limited Q",
     "file": "United Breweries Limited-qanalysis.m4a",
+    "pdf": "United Breweries Limited-qanalysis.pdf",
     "emoji": "🇮🇳",
-    "date": "1 April 2026",
-    "pdf": "United Breweries Limited-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Wal Mart de Mexico SAB Q",
     "file": "Wal Mart de Mexico SAB-qanalysis.m4a",
+    "pdf": "Wal Mart de Mexico SAB-qanalysis.pdf",
     "emoji": "🇲🇽",
-    "date": "1 April 2026",
-    "pdf": "Wal Mart de Mexico SAB-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Qualitas Controladora Q",
     "file": "Qualitas Controladora-qanalysis.m4a",
+    "pdf": "Qualitas Controladora-qanalysis.pdf",
     "emoji": "🇲🇽",
-    "date": "1 April 2026",
-    "pdf": "Qualitas Controladora-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Kotak Mahindra Bank Q",
     "file": "Kotak Mahindra Bank-qanalysis.m4a",
+    "pdf": "Kotak Mahindra Bank-qanalysis.pdf",
     "emoji": "🇮🇳",
-    "date": "1 April 2026",
-    "pdf": "Kotak Mahindra Bank-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Alsea S.A.B. Q",
     "file": "Alsea S.A.B.-qanalysis.m4a",
+    "pdf": "Alsea S.A.B.-qanalysis.pdf",
     "emoji": "🇲🇽",
-    "date": "1 April 2026",
-    "pdf": "Alsea S.A.B.-qanalysis.pdf"
-  },
-  {
-    "name": "Shenzhen Mindray Q",
-    "file": "Shenzhen Mindray-qanalysis.m4a",
-    "emoji": "🇨🇳",
-    "date": "1 April 2026",
-    "pdf": "Shenzhen Mindray-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "PT Bank Central Asia Q",
     "file": "PT Bank Central Asia-qanalysis.m4a",
+    "pdf": "PT Bank Central Asia-qanalysis.pdf",
     "emoji": "🇮🇩",
-    "date": "1 April 2026",
-    "pdf": "PT Bank Central Asia-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Sea Ltd Q",
     "file": "Sea Ltd-qanalysis.m4a",
+    "pdf": "Sea Ltd-qanalysis.pdf",
     "emoji": "🇸🇬",
-    "date": "1 April 2026",
-    "pdf": "Sea Ltd-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Computer Age Management Services Q",
     "file": "Computer Age Management Services-qanalysis.m4a",
+    "pdf": "Computer Age Management Services-qanalysis.pdf",
     "emoji": "🇮🇳",
-    "date": "1 April 2026",
-    "pdf": "Computer Age Management Services-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "TOTVS Q",
     "file": "TOTVS-qanalysis.m4a",
+    "pdf": "TOTVS-qanalysis.pdf",
     "emoji": "🇧🇷",
-    "date": "1 April 2026",
-    "pdf": "TOTVS-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Full Truck Alliance Q",
     "file": "Full Truck Alliance-qanalysis.m4a",
+    "pdf": "Full Truck Alliance-qanalysis.pdf",
     "emoji": "🇨🇳",
-    "date": "1 April 2026",
-    "pdf": "Full Truck Alliance-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Anta Sports Products Q",
     "file": "Anta Sports Products-qanalysis.m4a",
+    "pdf": "Anta Sports Products-qanalysis.pdf",
     "emoji": "🇨🇳",
-    "date": "1 April 2026",
-    "pdf": "Anta Sports Products-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "ICICI Bank Q",
     "file": "ICICI Bank-qanalysis.m4a",
+    "pdf": "ICICI Bank-qanalysis.pdf",
     "emoji": "🇮🇳",
-    "date": "1 April 2026",
-    "pdf": "ICICI Bank-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Huazhu Group Q",
     "file": "Huazhu Group-qanalysis.m4a",
+    "pdf": "Huazhu Group-qanalysis.pdf",
     "emoji": "🇨🇳",
-    "date": "1 April 2026",
-    "pdf": "Huazhu Group-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Regional S.A.B. Q",
     "file": "Regional S.A.B.-qanalysis.m4a",
+    "pdf": "Regional S.A.B.-qanalysis.pdf",
     "emoji": "🇲🇽",
-    "date": "1 April 2026",
-    "pdf": "Regional S.A.B.-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Samsung Electronics Q",
     "file": "Samsung Electronics-qanalysis.m4a",
+    "pdf": "Samsung Electronics-qanalysis.pdf",
     "emoji": "🇰🇷",
-    "date": "1 April 2026",
-    "pdf": "Samsung Electronics-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Dino Polska Q",
     "file": "Dino Polska-qanalysis.m4a",
+    "pdf": "Dino Polska-qanalysis.pdf",
     "emoji": "🇵🇱",
-    "date": "1 April 2026",
-    "pdf": "Dino Polska-qanalysis.pdf"
+    "date": "1 April 2026"
   },
   {
     "name": "Trip.com Q",
     "file": "Trip.com-qanalysis.m4a",
+    "pdf": "Trip.com-qanalysis.pdf",
     "emoji": "🇨🇳",
-    "date": "31 March 2026",
-    "pdf": "Trip.com-qanalysis.pdf"
+    "date": "31 March 2026"
   },
   {
     "name": "Capitec Bank Q",
     "file": "Capitec Bank-qanalysis.m4a",
+    "pdf": "Capitec Bank-qanalysis.pdf",
     "emoji": "🇿🇦",
-    "date": "31 March 2026",
-    "pdf": "Capitec Bank-qanalysis.pdf"
+    "date": "31 March 2026"
   },
   {
     "name": "ICICI Lombard Q",
     "file": "ICICI Lombard-qanalysis.m4a",
+    "pdf": "ICICI Lombard-qanalysis.pdf",
     "emoji": "🇮🇳",
-    "date": "31 March 2026",
-    "pdf": "ICICI Lombard-qanalysis.pdf"
+    "date": "31 March 2026"
   },
   {
     "name": "Prosus Q",
     "file": "Prosus-qanalysis.m4a",
+    "pdf": "Prosus-qanalysis.pdf",
     "emoji": "🇳🇱",
-    "date": "31 March 2026",
-    "pdf": "Prosus-qanalysis.pdf"
+    "date": "31 March 2026"
   },
   {
     "name": "Nu Holdings Q",
     "file": "Nu Holdings-qanalysis.m4a",
+    "pdf": "Nu Holdings-qanalysis.pdf",
     "emoji": "🇧🇷",
-    "date": "31 March 2026",
-    "pdf": "Nu Holdings-qanalysis.pdf"
+    "date": "31 March 2026"
   },
   {
     "name": "Credicorp Q",
     "file": "Credicorp-qanalysis.m4a",
+    "pdf": "Credicorp-qanalysis.pdf",
     "emoji": "🇵🇪",
-    "date": "31 March 2026",
-    "pdf": "Credicorp-qanalysis.pdf"
+    "date": "31 March 2026"
   },
   {
     "name": "PDD Holdings Q",
     "file": "PDD Holdings-qanalysis.m4a",
+    "pdf": "PDD Holdings-qanalysis.pdf",
     "emoji": "🇨🇳",
-    "date": "31 March 2026",
-    "pdf": "PDD Holdings-qanalysis.pdf"
+    "date": "31 March 2026"
   },
   {
     "name": "Mediatek Q",
     "file": "Mediatek-qanalysis.m4a",
+    "pdf": "Mediatek-qanalysis.pdf",
     "emoji": "🇹🇼",
-    "date": "31 March 2026",
-    "pdf": "Mediatek-qanalysis.pdf"
+    "date": "31 March 2026"
   },
   {
     "name": "HDFC Bank Q",
     "file": "HDFC Bank-qanalysis.m4a",
+    "pdf": "HDFC Bank-qanalysis.pdf",
     "emoji": "🇮🇳",
-    "date": "31 March 2026",
-    "pdf": "HDFC Bank-qanalysis.pdf"
+    "date": "31 March 2026"
   },
   {
     "name": "SK Hynix Q",
     "file": "SK Hynix-qanalysis.m4a",
+    "pdf": "SK Hynix-qanalysis.pdf",
     "emoji": "🇰🇷",
-    "date": "30 March 2026",
-    "pdf": "SK Hynix-qanalysis.pdf"
+    "date": "30 March 2026"
   },
   {
     "name": "TSMC Q",
     "file": "TSMC-qanalysis.m4a",
+    "pdf": "TSMC-qanalysis.pdf",
     "emoji": "🇹🇼",
-    "date": "30 March 2026",
-    "pdf": "TSMC-qanalysis.pdf"
+    "date": "30 March 2026"
   },
   {
     "name": "Tencent Q",
     "file": "Tencent-qanalysis.m4a",
+    "pdf": "Tencent-qanalysis.pdf",
     "emoji": "🇨🇳",
-    "date": "30 March 2026",
-    "pdf": "Tencent-qanalysis.pdf"
+    "date": "30 March 2026"
   },
   {
     "name": "TOTVS",
     "file": "TOTVS-analysis.m4a",
+    "pdf": "TOTVS-analysis.pdf",
     "emoji": "🇧🇷",
-    "date": "26 March 2026",
-    "pdf": "TOTVS-analysis.pdf"
+    "date": "26 March 2026"
   },
   {
     "name": "Sea Ltd",
     "file": "Sea Ltd-analysis.m4a",
+    "pdf": "Sea Ltd-analysis.pdf",
     "emoji": "🇸🇬",
-    "date": "26 March 2026",
-    "pdf": "Sea Ltd-analysis.pdf"
+    "date": "26 March 2026"
   },
   {
     "name": "Nintendo",
     "file": "Nintendo-analysis.m4a",
+    "pdf": "Nintendo-analysis.pdf",
     "emoji": "🇯🇵",
-    "date": "23 March 2026",
-    "pdf": "Nintendo-analysis.pdf"
+    "date": "23 March 2026"
   },
   {
     "name": "Netease",
     "file": "Netease-analysis.m4a",
+    "pdf": "Netease-analysis.pdf",
     "emoji": "🇨🇳",
-    "date": "17 March 2026",
-    "pdf": "Netease-analysis.pdf"
+    "date": "17 March 2026"
   },
   {
     "name": "AIA",
     "file": "AIA-analysis.m4a",
+    "pdf": "AIA-analysis.pdf",
     "emoji": "🇭🇰",
-    "date": "16 March 2026",
-    "pdf": "AIA-analysis.pdf"
+    "date": "16 March 2026"
   },
   {
     "name": "Silergy",
     "file": "Silergy-analysis.m4a",
+    "pdf": "Silergy-analysis.pdf",
     "emoji": "🇹🇼",
-    "date": "16 March 2026",
-    "pdf": "Silergy-analysis.pdf"
+    "date": "16 March 2026"
   },
   {
     "name": "TSMC",
     "file": "TSMC-analysis.m4a",
+    "pdf": "TSMC-analysis.pdf",
     "emoji": "🇹🇼",
-    "date": "16 March 2026",
-    "pdf": "TSMC-analysis.pdf"
+    "date": "16 March 2026"
   },
   {
     "name": "Tencent",
     "file": "Tencent-analysis.m4a",
+    "pdf": "Tencent-analysis.pdf",
     "emoji": "🇨🇳",
-    "date": "16 March 2026",
-    "pdf": "Tencent-analysis.pdf"
+    "date": "16 March 2026"
   },
   {
     "name": "SK Hynix",
     "file": "SK Hynix-analysis.m4a",
+    "pdf": "SK Hynix-analysis.pdf",
     "emoji": "🇰🇷",
-    "date": "16 March 2026",
-    "pdf": "SK Hynix-analysis.pdf"
+    "date": "16 March 2026"
   },
   {
     "name": "HDFC Bank",
     "file": "HDFC Bank-analysis.m4a",
+    "pdf": "HDFC Bank-analysis.pdf",
     "emoji": "🇮🇳",
-    "date": "16 March 2026",
-    "pdf": "HDFC Bank-analysis.pdf"
+    "date": "16 March 2026"
   }
 ]
