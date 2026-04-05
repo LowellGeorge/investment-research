@@ -1,5 +1,12 @@
 [
   {
+    "name": "Techtronic Q",
+    "file": "Techtronic-qanalysis.m4a",
+    "pdf": "Techtronic-qanalysis.pdf",
+    "emoji": "🇭🇰",
+    "date": "5 April 2026"
+  },
+  {
     "name": "Sony Q",
     "file": "Sony-qanalysis.m4a",
     "pdf": "Sony-qanalysis.pdf",
@@ -31,6 +38,13 @@
     "name": "Alibaba Q",
     "file": "Alibaba-qanalysis.m4a",
     "pdf": "Alibaba-qanalysis.pdf",
+    "emoji": "🇨🇳",
+    "date": "5 April 2026"
+  },
+  {
+    "name": "Huazhu Group Q",
+    "file": "Huazhu Group-qanalysis.m4a",
+    "pdf": "Huazhu Group-qanalysis.pdf",
     "emoji": "🇨🇳",
     "date": "5 April 2026"
   },
@@ -124,13 +138,6 @@
     "pdf": "ICICI Bank-qanalysis.pdf",
     "emoji": "🇮🇳",
     "date": "1 April 2026"
-  },
-  {
-    "name": "Huazhu Group Q",
-    "file": "Huazhu Group-qanalysis.m4a",
-    "pdf": "Huazhu Group-qanalysis.pdf",
-    "emoji": "🇨🇳",
-    "date": "5 April 2026"
   },
   {
     "name": "Regional S.A.B. Q",
