@@ -357,15 +357,15 @@ def generate_index(metadata):
         "",
         "## All Companies",
         "",
-        "| Company | Ticker | Sector | Country | Market Cap | Wiki | Raw |",
-        "|---------|--------|--------|---------|------------|------|-----|",
+        "| Company | Ticker | Sector | Country | Market Cap |",
+        "|---------|--------|--------|---------|------------|",
     ]
 
     for e in sorted(metadata, key=lambda x: x["company"]):
-        wiki_link = f"[[{e['wiki_slug']}|{e['company']}]]"
-        raw_link = f"[raw](/{e['raw_file']})"
+        # Use \| inside wikilinks to escape pipe in table cells
+        wiki_link = f"[[wiki/companies/{e['wiki_slug']}\\|{e['company']}]]"
         lines.append(
-            f"| {wiki_link} | {e['ticker']} | {e['sector_broad']} | {e['country']} | {e['market_cap']} | [[wiki/companies/{e['wiki_slug']}|page]] | {raw_link} |"
+            f"| {wiki_link} | {e['ticker']} | {e['sector_broad']} | {e['country']} | {e['market_cap']} |"
         )
 
     # Sector summary
