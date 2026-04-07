@@ -1,0 +1,15 @@
+# Investment Research Wiki — Cron Jobs
+# Install with: crontab wiki_crontab.txt
+# Or add these lines to existing crontab: crontab -e
+#
+# Environment variables needed:
+#   TELEGRAM_BOT_TOKEN — your Telegram bot token
+#   TELEGRAM_CHAT_ID   — your Telegram chat ID
+#
+# Daily at 8am: detect new raw analyses without wiki pages
+0 8 * * * cd /Users/lordclawd/Documents/investment-research && /usr/bin/python3 wiki_cron.py detect >> /tmp/wiki_cron.log 2>&1
+
+# Weekly on Monday at 9am: run lint check and regenerate sector/concept pages
+0 9 * * 1 cd /Users/lordclawd/Documents/investment-research && /usr/bin/python3 wiki_cron.py lint >> /tmp/wiki_cron.log 2>&1
+5 9 * * 1 cd /Users/lordclawd/Documents/investment-research && /usr/bin/python3 build_wiki.py >> /tmp/wiki_cron.log 2>&1
+10 9 * * 1 cd /Users/lordclawd/Documents/investment-research && /usr/bin/python3 generate_sector_region_pages.py >> /tmp/wiki_cron.log 2>&1

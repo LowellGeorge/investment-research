@@ -2,3 +2,6 @@
 audio/
 !docs/audio/
 *.mp3
+.obsidian/workspace.json
+.obsidian/plugins/
+.obsidian/cache/
