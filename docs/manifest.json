@@ -1,5 +1,17 @@
 [
   {
+    "name": "7Q — MercadoLibre",
+    "file": "meli-seven-questions.m4a",
+    "emoji": "🇦🇷",
+    "date": "23 April 2026"
+  },
+  {
+    "name": "7Q — TSMC",
+    "file": "tsmc-seven-questions.m4a",
+    "emoji": "🇹🇼",
+    "date": "23 April 2026"
+  },
+  {
     "name": "Advanced Packaging",
     "file": "advanced-packaging.m4a",
     "emoji": "📦",
@@ -240,12 +252,6 @@
     "emoji": "🇹🇼",
     "date": "5 April 2026",
     "pdf": "Mediatek-qanalysis.pdf"
-  },
-  {
-    "name": "MercadoLibre — Seven Questions",
-    "file": "meli-seven-questions.m4a",
-    "emoji": "🇦🇷",
-    "date": "23 April 2026"
   },
   {
     "name": "Midea Group Q",
