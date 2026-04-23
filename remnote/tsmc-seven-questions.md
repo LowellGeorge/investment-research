@@ -18,7 +18,7 @@ These flashcards are organised around the seven questions you ask of any investm
 
 ## Q1 — What is it?
 
-> Frame: "What's irreplaceable here? What didn't exist before?"
+> Frame: "What specifically is it about *this* business that makes it irreplaceable? What didn't exist before it?"
 
 - TSMC is the only company on earth that can {{manufacture leading-edge logic chips at volume}} <> not the best — the only one
 - Pure-play foundry model invented by <> {{Morris Chang in 1987}}
@@ -33,7 +33,7 @@ These flashcards are organised around the seven questions you ask of any investm
 
 ## Q2 — Can we trust them?
 
-> Frame: "How did this team behave under specific past stress? What's the actual capital allocation track record?"
+> Frame: "How did *this specific team* behave under past stress? What's the actual capital allocation track record — not the slogans?"
 
 - Founder lineage <> {{Morris Chang founded 1987; retired 2005; came back as CEO 2009 GFC; retired again; stepped down as Chairman 2018}}
 - Current CEO + Chairman as of mid-2024 <> {{C.C. Wei holds both — first combined role since Morris Chang}}
@@ -49,7 +49,7 @@ These flashcards are organised around the seven questions you ask of any investm
 
 ## Q3 — Why does value compound?
 
-> Frame: "What is the durable mechanism that compounds value? Strip the marketing."
+> Frame: "What specifically is it about *this* business that makes it compound? Strip the marketing and name the mechanism."
 
 - Engine 1 — process leadership <> {{18-24 month lead vs Intel/Samsung translates to multi-year revenue tail because customers design around TSMC's roadmap; ASP gaps between N5/N3/N2 widening, not narrowing}}
 - Engine 2 — capacity is the moat right now <> {{TSMC broke a 38-year rule in Q1 2026 — adding capacity to a mature node (N3); three new N3 fabs (Tainan 1H 2027, Arizona Fab 2 2H 2027, Japan Fab 2 2028) plus N5→N3 conversions plus cross-node optimisation}}
@@ -63,7 +63,7 @@ These flashcards are organised around the seven questions you ask of any investm
 
 ## Q4 — What proves us right? (KPIs to track)
 
-> Frame: "If the thesis is right, what specific number would I see move?"
+> Frame: "If the thesis on *this* business is right, what specific number would I see move? Vague metrics fail this test."
 
 - KPI 1 — gross margin through N2 ramp <> {{stay above ~62% = moat intact; below 58% = yellow flag}}
 - KPI 2 — N3 ASP behaviour <> {{watch whether they raise N3 ASPs in next two quarters now they're expanding capacity (almost certainly will)}}
@@ -73,7 +73,7 @@ These flashcards are organised around the seven questions you ask of any investm
 
 ## Q5 — What's it worth?
 
-> Frame: "State the building blocks and the key sensitivity. Don't fake precision."
+> Frame: "What are the building blocks for *this* business, and what's the key sensitivity? Don't fake precision — state what's knowable and what's the swing variable."
 
 - 2026 run-rate revenue <> {{~$155-160bn (Q2 guide midpoint $39.6bn × 4)}}
 - Approximate market cap (Apr 2026) <> {{$1.0-1.1tn}}
@@ -85,7 +85,7 @@ These flashcards are organised around the seven questions you ask of any investm
 
 ## Q6 — Where is the market wrong?
 
-> Frame: "What's the consensus framing that's lazy? What's my variant — and the honest counter?"
+> Frame: "What's the consensus framing about *this* business that's lazy or out-of-date? What's my variant — and what's the honest counter to my own variant?"
 
 - Variant perception #1 (summary) <> {{overseas dilution is being treated as cost when it's actually insurance — without Arizona TSMC trades at 12x for geopolitics; with Arizona, 22x; "dilution" is the cheapest insurance premium ever paid}}
 - Variant perception #2 (summary) <> {{agentic AI is multiplicative not additive — every query becomes 10-100 sub-queries; buy-side modelling demand additively; you have to revise 2027-2030 wafer demand higher}}
@@ -94,7 +94,7 @@ These flashcards are organised around the seven questions you ask of any investm
 
 ## Q7 — What could kill it / when do we sell?
 
-> Frame: "What kills the thesis, and what specific event tells me the kill is happening?"
+> Frame: "What specifically kills the thesis on *this* business, and what observable event tells me the kill is happening?"
 
 - Risk #1 — Taiwan strait <> {{unhedgeable and binary; insure with position size, not sell triggers}}
 - Risk #2 — customer concentration in HPC <> {{~60% revenue from handful of US chip designers; Tesla dual-sourced to Samsung; Nvidia could too}}
