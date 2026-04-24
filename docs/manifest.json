@@ -1,5 +1,17 @@
 [
   {
+    "name": "7Q — ANTA Sports",
+    "file": "anta-seven-questions.m4a",
+    "emoji": "🇨🇳",
+    "date": "24 April 2026"
+  },
+  {
+    "name": "7Q — CAMS",
+    "file": "cams-seven-questions.m4a",
+    "emoji": "🇮🇳",
+    "date": "24 April 2026"
+  },
+  {
     "name": "7Q — Credicorp",
     "file": "credicorp-seven-questions.m4a",
     "emoji": "🇵🇪",
@@ -8,6 +20,12 @@
   {
     "name": "7Q — Full Truck Alliance",
     "file": "full-truck-seven-questions.m4a",
+    "emoji": "🇨🇳",
+    "date": "24 April 2026"
+  },
+  {
+    "name": "7Q — H World",
+    "file": "hworld-seven-questions.m4a",
     "emoji": "🇨🇳",
     "date": "24 April 2026"
   },
@@ -45,6 +63,12 @@
     "name": "7Q — Prosus",
     "file": "prosus-seven-questions.m4a",
     "emoji": "🇳🇱",
+    "date": "24 April 2026"
+  },
+  {
+    "name": "7Q — Regional",
+    "file": "regional-seven-questions.m4a",
+    "emoji": "🇲🇽",
     "date": "24 April 2026"
   },
   {
