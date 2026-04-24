@@ -12,6 +12,12 @@
     "date": "24 April 2026"
   },
   {
+    "name": "7Q — Capitec",
+    "file": "capitec-seven-questions.m4a",
+    "emoji": "🇿🇦",
+    "date": "24 April 2026"
+  },
+  {
     "name": "7Q — Credicorp",
     "file": "credicorp-seven-questions.m4a",
     "emoji": "🇵🇪",
@@ -30,9 +36,21 @@
     "date": "24 April 2026"
   },
   {
+    "name": "7Q — ICICI Bank",
+    "file": "icici-bank-seven-questions.m4a",
+    "emoji": "🇮🇳",
+    "date": "24 April 2026"
+  },
+  {
     "name": "7Q — ICICI Lombard",
     "file": "icici-lombard-seven-questions.m4a",
     "emoji": "🇮🇳",
+    "date": "24 April 2026"
+  },
+  {
+    "name": "7Q — KE Holdings",
+    "file": "ke-holdings-seven-questions.m4a",
+    "emoji": "🇨🇳",
     "date": "24 April 2026"
   },
   {
@@ -46,6 +64,12 @@
     "file": "meli-seven-questions.m4a",
     "emoji": "🇦🇷",
     "date": "23 April 2026"
+  },
+  {
+    "name": "7Q — NetEase",
+    "file": "netease-seven-questions.m4a",
+    "emoji": "🇨🇳",
+    "date": "24 April 2026"
   },
   {
     "name": "7Q — Nu Holdings",
