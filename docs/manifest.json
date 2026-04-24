@@ -18,15 +18,15 @@
     "date": "23 April 2026"
   },
   {
-    "name": "7Q — Prosus",
-    "file": "prosus-seven-questions.m4a",
-    "emoji": "🇳🇱",
+    "name": "7Q — Nu Holdings",
+    "file": "nu-seven-questions.m4a",
+    "emoji": "🇧🇷",
     "date": "24 April 2026"
   },
   {
-    "name": "7Q — Samsung Electronics",
-    "file": "samsung-seven-questions.m4a",
-    "emoji": "🇰🇷",
+    "name": "7Q — Prosus",
+    "file": "prosus-seven-questions.m4a",
+    "emoji": "🇳🇱",
     "date": "24 April 2026"
   },
   {
@@ -36,9 +36,9 @@
     "date": "23 April 2026"
   },
   {
-    "name": "7Q — Tencent",
-    "file": "tencent-seven-questions.m4a",
-    "emoji": "🇨🇳",
+    "name": "7Q — Samsung Electronics",
+    "file": "samsung-seven-questions.m4a",
+    "emoji": "🇰🇷",
     "date": "24 April 2026"
   },
   {
@@ -48,11 +48,16 @@
     "date": "23 April 2026"
   },
   {
-    "name": "Advanced Packaging",
-    "file": "advanced-packaging.m4a",
-    "emoji": "📦",
-    "date": "19 April 2026",
-    "pdf": "advanced-packaging.pdf"
+    "name": "7Q — Tencent",
+    "file": "tencent-seven-questions.m4a",
+    "emoji": "🇨🇳",
+    "date": "24 April 2026"
+  },
+  {
+    "name": "7Q — Totvs",
+    "file": "totvs-seven-questions.m4a",
+    "emoji": "🇧🇷",
+    "date": "24 April 2026"
   },
   {
     "name": "AIA",
@@ -60,6 +65,13 @@
     "emoji": "🇭🇰",
     "date": "5 April 2026",
     "pdf": "AIA-analysis.pdf"
+  },
+  {
+    "name": "Advanced Packaging",
+    "file": "advanced-packaging.m4a",
+    "emoji": "📦",
+    "date": "19 April 2026",
+    "pdf": "advanced-packaging.pdf"
   },
   {
     "name": "Airtac International Q",
@@ -103,6 +115,13 @@
     "pdf": "Bank of the Philippine Islands-qanalysis.pdf"
   },
   {
+    "name": "CSL Holdings Q",
+    "file": "CSL Holdings-qanalysis.m4a",
+    "emoji": "🇦🇺",
+    "date": "5 April 2026",
+    "pdf": "CSL Holdings-qanalysis.pdf"
+  },
+  {
     "name": "Capitec Bank Q",
     "file": "Capitec Bank-qanalysis.m4a",
     "emoji": "🇿🇦",
@@ -138,13 +157,6 @@
     "pdf": "Credicorp-qanalysis.pdf"
   },
   {
-    "name": "CSL Holdings Q",
-    "file": "CSL Holdings-qanalysis.m4a",
-    "emoji": "🇦🇺",
-    "date": "5 April 2026",
-    "pdf": "CSL Holdings-qanalysis.pdf"
-  },
-  {
     "name": "DBS Group Q",
     "file": "DBS Group-qanalysis.m4a",
     "emoji": "🇸🇬",
@@ -159,18 +171,18 @@
     "pdf": "Dino Polska-qanalysis.pdf"
   },
   {
-    "name": "Fisher & Paykel Q",
-    "file": "Fisher & Paykel-qanalysis.m4a",
-    "emoji": "🇳🇿",
-    "date": "5 April 2026",
-    "pdf": "Fisher & Paykel-qanalysis.pdf"
-  },
-  {
     "name": "FPT Corp Q",
     "file": "FPT Corp-qanalysis.m4a",
     "emoji": "🇻🇳",
     "date": "5 April 2026",
     "pdf": "FPT Corp-qanalysis.pdf"
+  },
+  {
+    "name": "Fisher & Paykel Q",
+    "file": "Fisher & Paykel-qanalysis.m4a",
+    "emoji": "🇳🇿",
+    "date": "5 April 2026",
+    "pdf": "Fisher & Paykel-qanalysis.pdf"
   },
   {
     "name": "Full Truck Alliance Q",
@@ -325,18 +337,18 @@
     "pdf": "PDD Holdings-qanalysis.pdf"
   },
   {
-    "name": "Prosus Q",
-    "file": "Prosus-qanalysis.m4a",
-    "emoji": "🇳🇱",
-    "date": "5 April 2026",
-    "pdf": "Prosus-qanalysis.pdf"
-  },
-  {
     "name": "PT Bank Central Asia Q",
     "file": "PT Bank Central Asia-qanalysis.m4a",
     "emoji": "🇮🇩",
     "date": "5 April 2026",
     "pdf": "PT Bank Central Asia-qanalysis.pdf"
+  },
+  {
+    "name": "Prosus Q",
+    "file": "Prosus-qanalysis.m4a",
+    "emoji": "🇳🇱",
+    "date": "5 April 2026",
+    "pdf": "Prosus-qanalysis.pdf"
   },
   {
     "name": "Qualitas Controladora Q",
@@ -365,6 +377,26 @@
     "emoji": "🇺🇸",
     "date": "5 April 2026",
     "pdf": "Resmed-qanalysis.pdf"
+  },
+  {
+    "name": "SK Hynix",
+    "file": "SK Hynix-analysis.m4a",
+    "emoji": "🇰🇷",
+    "date": "5 April 2026",
+    "pdf": "SK Hynix-analysis.pdf"
+  },
+  {
+    "name": "SK Hynix Q",
+    "file": "SK Hynix-qanalysis.m4a",
+    "emoji": "🇰🇷",
+    "date": "5 April 2026",
+    "pdf": "SK Hynix-qanalysis.pdf"
+  },
+  {
+    "name": "SOSOC Top 20",
+    "file": "sosoc-top20-briefing.m4a",
+    "emoji": "🌍",
+    "date": "13 April 2026"
   },
   {
     "name": "Samsung Electronics Q",
@@ -402,20 +434,6 @@
     "pdf": "Silergy-analysis.pdf"
   },
   {
-    "name": "SK Hynix",
-    "file": "SK Hynix-analysis.m4a",
-    "emoji": "🇰🇷",
-    "date": "5 April 2026",
-    "pdf": "SK Hynix-analysis.pdf"
-  },
-  {
-    "name": "SK Hynix Q",
-    "file": "SK Hynix-qanalysis.m4a",
-    "emoji": "🇰🇷",
-    "date": "5 April 2026",
-    "pdf": "SK Hynix-qanalysis.pdf"
-  },
-  {
     "name": "Sony Q",
     "file": "Sony-qanalysis.m4a",
     "emoji": "🇯🇵",
@@ -423,10 +441,32 @@
     "pdf": "Sony-qanalysis.pdf"
   },
   {
-    "name": "SOSOC Top 20",
-    "file": "sosoc-top20-briefing.m4a",
-    "emoji": "🌍",
-    "date": "13 April 2026"
+    "name": "TOTVS",
+    "file": "TOTVS-analysis.m4a",
+    "emoji": "🇧🇷",
+    "date": "5 April 2026",
+    "pdf": "TOTVS-analysis.pdf"
+  },
+  {
+    "name": "TOTVS Q",
+    "file": "TOTVS-qanalysis.m4a",
+    "emoji": "🇧🇷",
+    "date": "5 April 2026",
+    "pdf": "TOTVS-qanalysis.pdf"
+  },
+  {
+    "name": "TSMC",
+    "file": "TSMC-analysis.m4a",
+    "emoji": "🇹🇼",
+    "date": "5 April 2026",
+    "pdf": "TSMC-analysis.pdf"
+  },
+  {
+    "name": "TSMC Q",
+    "file": "TSMC-qanalysis.m4a",
+    "emoji": "🇹🇼",
+    "date": "5 April 2026",
+    "pdf": "TSMC-qanalysis.pdf"
   },
   {
     "name": "Techtronic Q",
@@ -450,39 +490,11 @@
     "pdf": "Tencent-qanalysis.pdf"
   },
   {
-    "name": "TOTVS",
-    "file": "TOTVS-analysis.m4a",
-    "emoji": "🇧🇷",
-    "date": "5 April 2026",
-    "pdf": "TOTVS-analysis.pdf"
-  },
-  {
-    "name": "TOTVS Q",
-    "file": "TOTVS-qanalysis.m4a",
-    "emoji": "🇧🇷",
-    "date": "5 April 2026",
-    "pdf": "TOTVS-qanalysis.pdf"
-  },
-  {
     "name": "Trip.com Q",
     "file": "Trip.com-qanalysis.m4a",
     "emoji": "🇨🇳",
     "date": "5 April 2026",
     "pdf": "Trip.com-qanalysis.pdf"
-  },
-  {
-    "name": "TSMC",
-    "file": "TSMC-analysis.m4a",
-    "emoji": "🇹🇼",
-    "date": "5 April 2026",
-    "pdf": "TSMC-analysis.pdf"
-  },
-  {
-    "name": "TSMC Q",
-    "file": "TSMC-qanalysis.m4a",
-    "emoji": "🇹🇼",
-    "date": "5 April 2026",
-    "pdf": "TSMC-qanalysis.pdf"
   },
   {
     "name": "United Breweries Limited Q",
