@@ -337,6 +337,28 @@
             overflow: hidden;
         }
         .kind-group[open] { background: #161616; }
+
+        /* 7Q is the active workflow — visually elevated */
+        .kind-group[data-kind="7q"] {
+            background: #181828;
+            border: 1px solid #2a2a44;
+        }
+        .kind-group[data-kind="7q"][open] { background: #1a1a30; }
+        .kind-group[data-kind="7q"] > .kind-header { color: #fff; }
+        .kind-group[data-kind="7q"] > .kind-header .kind-label::before {
+            content: '';
+            display: inline-block;
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin-right: 8px;
+            vertical-align: middle;
+        }
+        .kind-group[data-kind="7q"] > .kind-header .kind-count {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #fff;
+        }
         .kind-header {
             padding: 14px 16px;
             cursor: pointer;
@@ -512,7 +534,8 @@
                 .filter(k => groups[k] && groups[k].length)
                 .map(k => {
                     const items = groups[k];
-                    const isOpen = !!expandState[k];
+                    const defaultOpen = (k === '7q');
+                    const isOpen = (k in expandState) ? expandState[k] : defaultOpen;
                     return `
                         <details class="kind-group" data-kind="${k}"${isOpen ? ' open' : ''}>
                             <summary class="kind-header">
