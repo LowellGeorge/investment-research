@@ -1,91 +1,57 @@
-# Regional SAB — The Seven Questions
+# Regional — Seven Questions
 
-Regional is the fourteenth-largest position in the GEM portfolio at two-point-four percent, with a market cap of around two to two-and-a-half billion US dollars. Here is Regional in seven questions.
+An investment summary of Regional — the Monterrey-based Mexican financial group behind Banregio, a relationship bank for small and medium-sized enterprises — prepared on the 2nd of July 2026, through a lens of quality and long-term ownership.
 
----
+## Question One: Business Description — What Is It?
 
-## Cold open
+Regional is a Monterrey-based financial group whose core asset is Banregio, a relationship bank for Mexican small and medium-sized enterprises — the segment the big five banks serve worst. Around it sit a leasing arm, Start Banregio; the payments business, Hey Pago; and Hey Banco, a multiproduct digital bank that completed its separation from Banregio in January 2026 and now operates under its own licence while remaining a subsidiary of the group. The group runs roughly 200 branches across 22 states, but its heartland remains Nuevo Leon and the industrial north. The economics are those of a focused SME franchise: a loan book of about 197 billion Mexican pesos, growing 9 percent a year, funded increasingly by core deposits — up 30 percent year on year in the first quarter of 2026 — producing an 18.4 percent return on average equity on a trailing-twelve-month basis.
 
-Regional just closed 2025 with a fourth-quarter net income of one-point-eight billion Mexican pesos, up seven percent year-on-year. Full-year return on average equity was nineteen-point-one percent — a number that many global banks would kill for. Non-performing loans sit at one-point-three percent, cost of risk at just one percent. Core deposits grew thirteen percent year-on-year. The bank is in the process of spinning off Hey Banco, its digital banking arm, which is growing individual deposits twenty percent and business loans thirty-three percent. And the digital payments business is growing thirty-four percent total billing, with the payment-facilitator segment up one hundred and fifty percent.
+## Question Two: Management and Governance — Can We Trust Them?
 
-This is what a high-quality Mexican regional bank looks like when the family-owned discipline is compounding, and it is a name most international investors have never heard of.
+This is a founder-family bank in the best sense. The Riveros are fourth-generation bankers, in the industry since 1947; Manuel Rivero Santos founded Banregio in 1994 and chairs the board, and his son Manuel Rivero Zambrano has been chief executive since January 2015 — a generational transition rating agencies described as natural and seamless. The house style is conservatism: prioritising quality over scale in Hey Banco's rebuild, writing off problem portfolios early, and naming its six large wholesale workout cases openly on earnings calls rather than burying them. Capital discipline is visible — a dividend of 4 pesos per share, about 1.6 billion Mexican pesos, was paid in April 2026, with a second planned for October, from a 15.7 percent capital ratio management calls its strongest in recent years.
 
-Seven questions.
+The governance caveat is the mirror image of the strength: concentrated family control and key-man exposure to the chief executive. Disclosure quality and the candour of guidance discussion are reassuring, but board independence and related-party dealings are the standing items to keep under review for a minority owner.
 
----
+## Question Three: Investment Thesis — Why Does Value Compound?
 
-## Question One: What is it?
+A durable niche franchise: Mexican SME banking is underserved, relationship-driven, and sticky. Banregio's underwriting record through cycles — non-performing loans of 1.3 percent and cost of risk of 1.0 percent in the first quarter of 2026 — evidences genuine credit skill, not just benign conditions.
 
-Regional is a family-controlled Mexican banking group headquartered in Monterrey, the industrial capital of northern Mexico. Four business lines operating under one holding company.
+A self-funding flywheel: core deposits grew 30 percent year on year and the current-and-savings-account ratio stands at 41.5 percent, steadily lowering funding cost and deepening client relationships that feed fee and foreign-exchange income.
 
-The core is Banco Regional — historically Banregio — a commercial and retail bank serving small and medium enterprises and affluent individuals across twenty-two Mexican federal entities with two hundred and nineteen branches. This core bank contributes seventy-nine percent of consolidated net income. Total assets at year-end stood at two hundred and seventy-seven billion pesos, up twelve percent year-on-year.
+High returns compound book value: an eighteen-to-twenty-percent return-on-equity bank retaining roughly half its earnings compounds book value at high single digits while paying a meaningful dividend — at about 1.4 times book, that arithmetic works for a long-term owner.
 
-The second line is Start Banregio, the specialty-lending arm serving mid-market clients, contributing fourteen percent of net income. The third is Inmobiliaria Banregio, the real-estate finance unit, at five percent. The fourth, and the most interesting strategically, is Hey Banco — the wholly-digital bank being spun off.
+Hey Banco optionality turning real: after years as a costly experiment, the digital bank is independent, profitable, running a 10.4 percent net interest margin, and management guides to about 15 percent return on equity for 2026 — an asset the market has long valued at or below zero.
 
-Two specialty businesses sit under the banking umbrella. The payments business, branded Hey Pago, is growing total billing at thirty-four percent with the payment-facilitator segment up one hundred and fifty percent. The insurance cross-sell through the core franchise is a separate revenue line.
+And a structural tailwind: nearshoring investment into northern Mexico plays directly to Regional's geographic and customer heartland.
 
-The thing to internalise: Regional is not a commodity Mexican bank. It is a regionally-dominant, family-controlled franchise with a nineteen-percent return on equity, a one-point-three percent non-performing-loan ratio, and a digital banking spin-off coming. That combination, at a small-cap market cap, is structurally rare.
+## Question Four: Key Milestones and KPIs — What Proves Us Right, and What to Track?
 
-## Question Two: Can we trust them?
+Net interest margin recovery — management expects the margin to normalise from the second quarter of 2026 as 90-day time deposits reprice after Banxico cuts, landing at the lower end of the roughly 6 percent guidance; 65 percent of the bank's loan book — 118 billion pesos of 181 billion — reprices with the TIIE rate, so the deposit lag is the swing factor.
 
-Yes — and the Rivero family's forty-year compounding track record is the evidence.
+Asset quality — non-performing loans at 1.3 percent and cost of risk at 1.0 percent, guided to the midpoint of the range; and the resolution of the six large wholesale cases at Banregio.
 
-The Rivero family controls the holding company and has run Regional since its founding as Banregio in 1994, with the broader family industrial heritage in Monterrey going back decades. Manuel Rivero Santos is Chief Executive Officer.
+Efficiency — the 43.0 percent efficiency ratio should improve as the technology and branch-expansion investment cycle matures; expense growth is guided to low-teens in 2026.
 
-The past-stress case that matters is 2020 through 2023. Mexico went through the Covid shock, the AMLO populist presidency, banking regulation tightening, and the political transition to Claudia Sheinbaum in 2024. Regional navigated all of it. The non-performing loan ratio never breached two percent through the pandemic. Return on equity held above eighteen percent throughout. Loan growth continued at high-single-digit rates. The bank used the uncertainty period to build the Hey Banco digital franchise and the payments business — discretionary investment through cycles, not cost-cutting.
+Hey Banco's standalone profit and loss — delivery of the about 15 percent return-on-equity target in its first year as an independent bank.
 
-The capital discipline signals from the latest print are clean. Return on equity nineteen-point-one percent for the full year. Core deposits grew thirteen percent. The capitalisation ratio was fifteen percent at October, with net capital up thirteen percent year-on-year. The Hey Banco spin-off is being executed to improve Banco Regional's capital ratio by migrating ten billion pesos of loans to the new entity. Dividend policy is a twenty-five percent payout today, with management explicitly guiding to an increase toward fifty percent post-spin-off. The operating expenses line rose seventeen percent as management invested in digital and payments — a chosen investment decision, not an efficiency slip.
+Capital returns — the second 2026 dividend in October; and the capital ratio staying comfortably above about 14 percent after distribution.
 
-The watch item is Hey Banco execution. A digital banking spin-off is strategically attractive but creates governance complexity, capital allocation ambiguity, and integration risk. Track the spin-off progress carefully through 2026.
+And a consensus check, from FactSet — the Street models earnings per share of 20.8 pesos in estimated financial year 2026, 22.5 pesos in financial year 2027, and 24.8 pesos in financial year 2028 — roughly 9 to 10 percent annual growth; rating consensus is overweight, with 8 buy, 1 overweight, 3 hold, and 1 sell; and a mean target of 175 pesos against about 147 pesos today.
 
-## Question Three: Why does value compound?
+On the snapshot figures, in Mexican pesos. For financial year 2025, total revenues were 16,941 million, up 7 percent, and net income was 6,619 million; consensus models earnings per share of 20.8 pesos for 2026. Loan growth ran 9 percent year on year in the first quarter of 2026, guided to high single digit. The net interest margin came in below guide in the quarter, against roughly 6 percent guidance at the lower end. Non-performing loans and cost of risk stood at 1.3 percent and 1.0 percent, guided to the midpoint of the range. Return on average equity was 18.4 percent on a trailing-twelve-month basis, and the capital ratio was 15.7 percent, guided to about 14 percent after the dividend. These draw on the fourth-quarter 2025 report and the first-quarter 2026 earnings call via Quartr, and FactSet consensus as of the 2nd of July 2026.
 
-Three engines, plus a kicker.
+## Question Five: Five-Year Fair Value and Return — the Team's View
 
-The first engine is the Mexican SME banking structural runway. Mexico is among the most under-banked major economies in Latin America. Small-and-medium-sized enterprise lending penetration is a fraction of Chilean or Brazilian levels. Regional's commercial loan book grew seven percent in the year, with wholesale up seven percent and, importantly, the Jalisco region — Mexico's second-largest industrial centre — growing twenty-one percent. Auto loans grew thirteen percent, consumer loans ten percent. This is geographic expansion within Mexico, where Regional's brand and relationship-banking model translate into high-quality customers.
+A bank is a macro-cyclical: frame value on normalised return on equity and book-value compounding, not on any single year's margin. Today the shares trade around 147 Mexican pesos — roughly 7 times estimated financial-year-2026 earnings and about 1.4 times book — for a franchise earning more than 18 percent on equity and yielding about 5 percent in cash.
 
-The second engine is the funding-cost moat. Low-cost deposits — the current-and-savings-accounts ratio — sits at forty-five-point-seven percent. Loan-to-deposit ratio is one hundred percent. The bank is self-funded without wholesale dependence. National market share in core deposits is two-point-two percent, which sounds small but is actually large for a regionally-focused bank and provides room to keep expanding without exhausting the playbook.
+Illustrative scenarios, as placeholders for the team's house numbers. The bull case: nearshoring sustains double-digit loan growth, Hey Banco scales past its 15 percent return-on-equity target, and the multiple re-rates toward 9 to 10 times — a high-teens-to-20-percent internal rate of return. The base case: consensus-like 9 to 10 percent earnings-per-share growth, dividends maintained, no re-rating — a low-teens return from compounding plus yield alone. The bear case: a Mexican recession or tariff shock drives an SME credit cycle; earnings per share stall for two years and the multiple compresses to 5 to 6 times — flat to modestly negative, cushioned by the dividend and starting valuation.
 
-The third engine is Hey Banco, the digital spin-off. Hey Banco grew individual demand deposits twenty percent and business loans thirty-three percent. The 2026 guidance for Hey Banco alone is fifteen to twenty percent loan growth and sixty-five to ninety percent net income growth. Once spun off, it becomes a separately-valued digital bank with direct comparability to Mexican fintechs trading at materially higher multiples than traditional banks. The crystallisation of that value — through either spin-off premium or ongoing ownership — is the underappreciated lever.
+## Question Six: Variant Perception — Where the Market Is Wrong
 
-The kicker is the payments business. Total billing up thirty-four percent, the payment-facilitator segment up one hundred and fifty percent. The merchant acquiring business, Hey Pago, is being migrated to Hey Banco. This adds a fintech growth layer to what looks like a traditional regional bank.
+At about 6.7 times trailing earnings against an industry average near 16 times, the market prices Regional as a leveraged bet on the Mexican macro — no more. The variant view is that this is a quality compounder wearing an emerging-market bank's valuation: a four-generation owner-operator, a defensible SME relationship niche the large banks cannot economically replicate, deposit momentum that is strengthening rather than eroding the franchise, and a digital bank that has just crossed from perennial cost centre to profitable growth asset — still, we suspect, carried at zero in most models. The market is right that Mexico risk is real; it likely overweights the next rate cut and underweights a decade of eighteen-to-twenty-percent returns on equity and disciplined underwriting. Patience is paid about 5 percent a year in dividends while the argument resolves.
 
-## Question Four: What proves us right, and what to track?
+## Question Seven: Risks, Premortem, and Sell Discipline
 
-Six specific metrics.
+The premortem — if this goes wrong in five years, the likely causes are these. A Mexico macro or trade shock: USMCA disruption, tariffs, or a peso crisis hits northern-Mexico SMEs — Regional's borrower base — hardest. A credit cycle: SME books deteriorate late and fast; the six wholesale workout cases flagged in the first quarter of 2026 are the early tell to monitor. Rate sensitivity: with 65 percent of the loan book indexed to the TIIE rate, continued Banxico easing compresses net interest margin faster than deposits reprice — the first quarter of 2026 was a live demonstration. Competition and regulation: large banks and fintechs pushing into SME lending; and government-agreed interchange reductions — 0.75 percent on credit and 0.49 percent on debit — nibbling fee income. And concentration and key-man risk: geographic concentration in the north and dependence on the Rivero family's stewardship.
 
-First, return on average equity — nineteen-point-one percent; maintenance above eighteen percent through the cycle is the quality test. Second, non-performing loan ratio — one-point-three percent today; management guidance is below one-point-eight, with normalisation toward one-point-five. Third, Hey Banco spin-off execution — milestones, capital migration, separate listing timing. Fourth, net interest margin — six-point-three percent, down slightly; stabilisation in the six-to-six-point-three range is the 2026 guidance. Fifth, payments business growth — thirty-four percent billing growth today; continued double-digit growth confirms the fintech compounder layer. Sixth, dividend payout ratio — twenty-five percent today; any increase toward the fifty-percent post-spin-off target is a capital-return inflection.
-
-## Question Five: What's it worth?
-
-The honest framing. Full-year return on equity is nineteen-point-one percent. The bank runs a fifteen-percent capitalisation ratio. Net income is growing high-single-digits and the 2026 guidance implies another five-to-ten percent. On publicly-disclosed metrics, Regional trades at roughly seven to nine times trailing earnings and around one-point-three to one-point-five times book. For a nineteen-percent return-on-equity Mexican bank with geographic expansion, funding moat, and Hey Banco optionality, that is a compressed multiple.
-
-The simple framing: a high-quality, family-controlled regional bank in an under-banked major economy, compounding book value at mid-teens rates, at single-digit earnings multiples. Comparable set: Banorte and Santander Mexico at similar multiples but lower returns on equity and weaker small-and-medium enterprise focus. International regional-bank compounders like JB Hunt or Commerce Bancshares in the US trade at materially higher multiples for similar return profiles.
-
-The key sensitivity is Mexican macro and rate policy. Banco de México rate cuts compress net interest margins; Mexican peso volatility affects reported book value in dollar terms. The Sheinbaum policy agenda — including the tax-deductibility change on write-offs that will raise the effective tax rate to twenty-seven-to-twenty-eight percent — adds modest earnings drag.
-
-## Question Six: Where is the market wrong?
-
-Two variant perception angles.
-
-First: consensus prices Regional as a small, illiquid Mexican bank with no analyst coverage and little institutional interest. The variant is that it is a forty-year-compounding, family-controlled franchise running higher return on equity than most global comparable banks, with two distinct optionality legs — Hey Banco and Hey Pago — that the sell side largely ignores. Once the Hey Banco spin-off completes, the sum-of-parts valuation becomes harder to ignore.
-
-Second: the Hey Banco digital-bank spin-off is priced as zero or as a governance complication, when it is actually one of the most interesting digital-bank setups in Latin America. Hey Banco's 2026 guidance of sixty-five to ninety percent net income growth on fifteen to twenty percent loan growth is a fintech growth profile running inside what looks like a regional bank wrapper. As Nu Holdings demonstrated, digital-native Latin American banking businesses command a premium multiple when they operate independently and at scale.
-
-The honest counter: Mexican small-caps carry persistent illiquidity and governance discounts that do not close easily. Regional is not widely held by international institutions and is unlikely to re-rate dramatically on any single quarter. Position sizing should reflect that the thesis plays out over years, not quarters.
-
-## Question Seven: What could kill it, and when do we sell?
-
-The real risks, ranked.
-
-One: Mexican macro slowdown. If Mexican GDP slows sharply or if the US-Mexico trade relationship deteriorates post-USMCA review, commercial loan growth compresses and credit quality deteriorates. Two: Hey Banco execution stumble. A delayed or value-destructive spin-off. Three: net interest margin compression. Aggressive Banxico rate cuts compress the core bank's earnings engine. Four: regulatory changes. The recent tax-deductibility change on write-offs is an example; more could follow under Sheinbaum. Five: family-governance succession. The Rivero family has run Regional for forty years; generational transition is not yet publicly tested. Six: Peso weakness and dollar-reported earnings translation.
-
-Specific sell triggers. Return on equity falling below fifteen percent for two consecutive quarters without a clear one-off. Non-performing loan ratio rising above two percent for two consecutive quarters. Hey Banco spin-off materially delayed, diluted, or value-destroyed. Net interest margin breaking below five-point-five percent sustainably. Payments business growth decelerating to single digits for two consecutive quarters. Manuel Rivero Santos stepping back without a named, credible succession plan.
-
-## Sign-off
-
-One company, seven questions, twelve minutes. Regional is the forty-year-compounding, family-controlled Mexican regional bank that international investors do not know, with a Hey Banco digital spin-off and a payments business that the market is pricing at zero. The next print is the first-quarter 2026 result on the twenty-eighth of April. Watch Hey Banco milestones, payments growth, and the non-performing loan trajectory.
-
----
-
-*Sources: Regional S.A.B. fourth-quarter 2025 earnings release and conference call, 27 January 2026; corporate presentation, 20 February 2026. All financial figures Quartr-verified. First-quarter 2026 results due 28 April 2026.*
+Sell discipline: trim or exit on, first, sustained return-on-equity erosion below the mid-teens without a credible path back; second, cost of risk breaking materially above about 2 percent excluding a crisis, signalling underwriting slippage; third, capital allocation turning empire-building — growth chased at the expense of returns, or dividends cut to fund it; or fourth, governance events that subordinate minorities to family interests. Size the position respecting that this is, at core, a single-country bank.

@@ -1,122 +1,65 @@
-# SK Hynix — The Seven Questions
+# SK Hynix — Seven Questions
 
-**Ticker:** 000660 KS | **Q1 2026 revenue:** KRW 52.6tn (~US$37bn) | **GEM weight:** 7.4% (#2 in portfolio)
-**Source base:** Quartr-grounded (Q1 2026 earnings release & call, 23 April 2026; Q4 2025 call, 29 January 2026)
-**Written:** April 2026
+An investment summary of SK Hynix — the Korean memory-semiconductor maker and clear leader in high-bandwidth memory — prepared on the 30th of June 2026, through a lens of quality and long-term ownership.
 
----
+## Question One: Business Description — What Is It?
 
-## Cold open
+SK Hynix is the world's second-largest memory-semiconductor maker and the clear leader in high-bandwidth memory, or HBM, the stacked DRAM that sits beside AI accelerators. It operates in three product lines: DRAM, including HBM; NAND flash; and a growing enterprise solid-state-drive business, Solidigm. DRAM — and HBM in particular — drives the economics; NAND is the more commoditised, lower-return leg. As an SK Group affiliate, it sells primarily to data-centre, PC, mobile, and graphics customers, with Nvidia now its most important HBM partner.
 
-SK Hynix reported earnings yesterday. The numbers don't really fit on a normal income statement.
+## Question Two: Management and Governance — Can We Trust Them?
 
-**Revenue KRW 52.6tn in a single quarter — first time ever above KRW 50tn. Operating profit KRW 37.6tn at a 72% operating margin. Net income KRW 40.3tn at a 77% net margin. EBITDA margin 79%.** Operating profit YoY is up **405%**.
+Led by CEO Kwak Noh-Jung, management has executed the HBM transition better than either larger rival, earning and keeping Nvidia's qualification across successive generations — a trust advantage experts describe as substantial and hard to replicate. The company has paired the upcycle with discipline: record 2025 profits funded the highest shareholder returns in its history, and it is guiding to a measured roughly-doubling of output over five years rather than a blunt capacity race.
 
-This is a memory company. Memory is supposed to be cyclical. The CFO spent the call explaining why this time it isn't, why the spot-price wobble is meaningless, and why the company is now building toward a **KRW 100tn net cash position**. They also confidentially filed for a US ADR listing in March.
+Governance carries the usual chaebol caveats — SK Group control, cross-holdings, and a board where minority-holder influence is limited. For a quality-focused owner this is the main item to keep under review, but the operational track record and capital-return trajectory are encouraging.
 
-Seven questions.
+## Question Three: Investment Thesis — Why Does Value Compound?
 
----
+Structural demand: AI infrastructure has turned HBM from a niche graphics part into the gating component for accelerators, with the industry in genuine shortage and cloud customers paying premiums and pre-committing volume.
 
-## 1. What is it?
+A durable lead, not a one-quarter spike: SK Hynix retains the HBM quality, yield, and market-share lead three years after launch, underpinned by an advanced bonding method, MR-MUF, that experts expect to persist through HBM4.
 
-SK Hynix is the **world leader in HBM**, the high-bandwidth memory that sits next to every Nvidia GPU and every meaningful AI accelerator. It is also a top-three producer of standard DRAM and (via the Solidigm acquisition) a top-tier producer of enterprise NAND.
+Superior economics: HBM operating margins are estimated at about 70 to 80 percent for SK Hynix versus about 30 to 40 percent for Samsung, a gap that drops disproportionately to the bottom line.
 
-Three legs:
+A consolidated structure: a rational three-player DRAM oligopoly with high technology barriers — the gap to China's CXMT in DRAM remains large.
 
-- **HBM** — the moat. Lead HBM partner to Nvidia since the original H100 generation. First to HBM3, first to HBM3E 12-high, now ramping **HBM4 to the Vera Rubin platform schedule**. Samsung is at least one node behind on qualification; Micron is closer but smaller scale
-- **Conventional DRAM** — the cash engine. Server DRAM modules of 128GB+ are where the volume is going. ASPs rose **~mid 60% sequentially** in Q1 alone
-- **NAND + Solidigm** — the AI storage play. Q1 NAND ASP +**mid 70%** sequentially. Solidigm (closed 2021, finally integrated) is paying off via QLC enterprise SSDs — the storage tier directly under HBM in an AI cluster
+Together these let earnings compound through the AI build-out at returns the market has historically refused to capitalise for a "memory" name.
 
-The thing to internalise: SK Hynix is no longer a memory company in the traditional sense. It is the **high-margin AI memory layer** with a legacy memory business attached. The mix shift inside DRAM toward HBM and high-density server modules is what's driving these margins, and it has years to run.
+Now, on HBM market share — where it stands and where it's heading. The static picture: SK Hynix sits at roughly 58 to 62 percent of HBM in mid-2026, with Micron now around 20 to 21 percent, having overtaken Samsung, and Samsung trailing near 17 percent. HBM3E still accounts for about two-thirds of 2026 volume, with HBM4 ramping through the year.
 
-## 2. Can we trust them?
+Taking each player in turn. SK Hynix peaked around 70 to 80 percent on HBM3E and is now at about 58 to 62 percent; it remains number one, normalising toward the low-50s on HBM4, having secured about two-thirds of Nvidia Rubin HBM4 orders, implying about 54 percent HBM4 share. Micron ran about 10 to 15 percent on HBM3E and is now about 20 to 21 percent; it has overtaken Samsung and is targeting about 25 percent in the second half of 2026 as Singapore packaging ramps, with yield about 70 percent versus Hynix at about 80 percent. Samsung was minimal on HBM3E and is now about 17 percent; it passed Nvidia HBM4 qualification in the first quarter of 2026 and is making an aggressive price-and-volume push, aiming for more than 30 percent by 2027 — but still trailing.
 
-Yes — and the evidence is in one specific past-stress call that made the franchise.
+On the direction of travel: share is set to compress from the abnormal 70 to 80 percent SK Hynix held on HBM3E toward the low-50s on HBM4 — but for sustained, not alarming, reasons. The total market is growing fast, and Nvidia and others want a second source. SK Hynix has nonetheless locked in roughly two-thirds of Nvidia's next-generation Vera Rubin HBM4 orders, implying about 54 percent HBM4 share. Samsung passed Nvidia's HBM4 qualification in the first quarter of 2026 and is pushing aggressively on price and volume; experts see it gaining only about 5 points a year and still behind SK Hynix at the end of 2027.
 
-**The 2022-23 tell.** During the memory trough, Samsung pulled back on HBM investment and treated it as a sideshow. **SK Hynix kept investing through the trough.** That call — made when nobody knew AI demand would inflect — is the entire reason Hynix owns HBM leadership today, and it's why Q1 2026 printed a 72% operating margin while Samsung is still scrambling to qualify HBM4 at Nvidia.
+What would change the call: the key resets are, first, the eventual move to die-to-wafer hybrid bonding, expected in late HBM4E or HBM5, around 2027 to 2028, which could neutralise Hynix's process edge; and second, the bear scenario where HBM shares drift toward the overall DRAM mix — roughly 40, 40, 20 across Samsung, Hynix, and Micron. Neither is imminent; both belong on the watch-list.
 
-**The leadership.** Kwak Noh-Jung has been CEO since March 2024 (succeeded Park Jung-Ho). Kim Woo-Hyun is CFO and the public face of the calls. Kwak is the architect of the HBM supply plan and the multi-year LTA shift. SK Group (the Korean chaebol) is the controlling shareholder via SK Inc. — this is a Korean conglomerate with the governance quirks that entails (cross-holdings, family influence), but operational capital allocation has been visibly better than the chaebol average.
+## Question Four: Key Milestones and KPIs — What Proves Us Right, and What to Track?
 
-**Capital discipline signals from Q1 2026:**
+HBM market share — watch whether SK Hynix holds the low-50s percent as HBM4 ramps, down from about 70 percent on HBM3E, but still dominant.
 
-- **Net cash KRW 35tn at end-Q1**, up KRW 19.4tn in a single quarter; debt-to-equity collapsed to 12%
-- Stated target: **net cash of KRW 100tn** — a balance-sheet posture more aggressive than almost any other listed company
-- CFO line that anchors the posture: *"We will execute investments based on demand visibility, thereby ensuring both supply stability and financial soundness."* Translation: they will not repeat the 2022 mistake of building into a vacuum
-- Multi-year LTAs being signed with key customers across HBM, server DRAM and enterprise SSD. Kim explicitly framed these as a way to *"reduce the volatility that has repeatedly plagued the memory industry"*
-- **ADR offering confidentially filed with the SEC on 24 March 2026**, targeting listing within 2026. This is governance signalling as much as capital raising
+HBM4 and HBM4E execution — yields, Nvidia qualification timing, and the Vera Rubin allocation; HBM4E samples in the second half of 2026, mass production targeted for 2027.
 
-**The watch item.** Kwak is the architect of this super-cycle. If he leaves before 2028 you have a real question to answer.
+DRAM and NAND pricing — contract average-selling-price direction as the shortage runs into 2026.
 
-## 3. Why does value compound?
+Margins and returns — operating margin, which was 72 percent in the first quarter of 2026; free cash flow; net cash trajectory; and shareholder-return follow-through.
 
-Three engines, each unusually durable for a memory business.
+And a consensus check, from FactSet — the shares sit on about 8 times estimated financial-year-2026 and about 6 times financial-year-2027 earnings, with consensus revenue up 47 percent and earnings per share up 45 percent into financial year 2027 before the cycle decelerates; rating consensus is a buy — 34 of 41.
 
-**HBM is not commodity memory.** Standard DRAM is fungible; HBM is not. Each generation requires custom designs co-engineered with the GPU customer, advanced packaging (TSV stacking), and yield curves that take years to climb. CFO Q1 2026: *"customers' demand for the next 3 years far exceeds our current supply capacity."* SK Hynix is not selling HBM at a market-clearing price — they are *allocating* it. That is pricing power, and it converts directly into ASP and gross margin.
+On the financials, in trillions of Korean won: revenue rose from 32.8 trillion won in financial year 2023, to 66.2 trillion in 2024, to 97.1 trillion in 2025, and was 52.6 trillion in the first quarter of 2026. Operating profit swung from a loss of 7.7 trillion won in 2023, to a profit of 23.5 trillion in 2024, to 47.2 trillion in 2025, and 37.6 trillion in the first quarter of 2026. Operating margin ran from a loss in 2023, to 35 percent in 2024, to 49 percent in 2025, and 72 percent in the latest quarter. Net profit went from a loss of 9.1 trillion won in 2023, to a profit of 19.8 trillion in 2024, to 42.9 trillion in 2025, and 40.4 trillion in the first quarter of 2026. Financial year 2023 reflects the prior memory down-cycle.
 
-**Agentic AI is multiplicative on memory, not additive.** Same theme as TSMC, mechanically different impact. Inference-time agents hold long context, KV caches, multi-step reasoning state. Every step of an agent loop is a memory access. The buy-side has been modelling memory demand off device shipments; the actual driver is per-token memory bandwidth, which scales with context length and agent complexity.
+## Question Five: Five-Year Fair Value and Return — the Team's View
 
-**Structural cycle compression via LTAs.** The memory industry has historically delivered violent boom-bust cycles because everyone signs short-term contracts and over-builds at the top. Q1 2026 was the first time a memory CFO has talked seriously about *multi-year LTAs* simultaneously for HBM, DRAM and NAND. If even half the customer book moves to multi-year commitments, the volatility profile of the business changes — and so does the multiple.
+This is a framework, not false precision — memory cuts both ways, and 2023's operating loss is the reminder. The honest base case is that 2025 and 2026 sit near a cyclical peak in commodity DRAM and NAND, while the HBM franchise carries a more durable, higher-quality earnings stream. A sensible five-year approach normalises mid-cycle earnings rather than extrapolating peak margins, and applies a modestly higher multiple than history to reflect the structurally larger, stickier HBM mix.
 
-**The kicker nobody is pricing:** the Yongin cluster. Phase 1 completes early 2027; Phases 2–6 follow. Roughly 1 million wafers/month of new capacity on advanced nodes (1c-nm and below), funded out of the cash flow the current cycle is generating. They are paying for their next decade of growth out of this quarter's profits.
+FactSet consensus frames the cycle: revenue up 47 percent and earnings per share up 45 percent into 2027, then decelerating sharply by 2028 — consistent with a peak forming around 2027 to 2028, and reinforcing the case for valuing SK Hynix on normalised mid-cycle earnings rather than the peak. On consensus the shares sit at about 8 times estimated financial-year-2026 and about 6 times financial-year-2027 earnings.
 
-## 4. What proves us right and what to track?
+Illustrative scenarios, to be replaced with the team's house numbers. A bull case, where HBM share holds and AI demand sustains pricing, supports a low-to-mid-teens internal rate of return. A base case of one normal down-cycle inside the five years still compounds at a high-single-digit internal rate of return on today's price. And a bear case of a sharp memory glut plus HBM share loss is flat-to-negative. These are placeholders pending the team's mid-cycle earnings-per-share and exit-multiple inputs — flagged deliberately, per the framework.
 
-Six specific KPIs:
+## Question Six: Variant Perception — Where the Market Is Wrong
 
-- **HBM revenue mix** — watch whether HBM crosses 50% of DRAM revenue (likely by 2027)
-- **HBM4 ramp execution and Nvidia design-in** — Vera Rubin is the gating product; on-schedule shipment with healthy yield derisks 18 months of thesis
-- **Conventional DRAM ASP trajectory** — +mid-60% QoQ in Q1; bear case requires this to roll over hard. Track monthly ASPs into Q3
-- **NAND profitability** — historically the weak leg; Q1 was a record. If NAND holds 30%+ operating margin, whole-company margin thesis is robust
-- **Multi-year LTA disclosure** — if management names specific multi-year contracts in the next 2 quarters, it's the biggest catalyst for a sustained re-rating
-- **ADR listing progress** — confidential filing 24 March 2026; expect public filing and pricing in 2H 2026. Pulls in US institutional capital that currently can't easily own KOSPI
+The market still prices SK Hynix largely as a cyclical commodity-memory stock that happens to be having a good run. The variant view is that the HBM franchise is a genuine, defensible quality business — protected by customer trust, a multi-generation yield lead, a bonding-process edge, and a consolidated industry structure — that deserves to be capitalised more like a differentiated component supplier than a price-taker. If correct, mid-cycle earnings power and the appropriate multiple are both higher than consensus assumes. The market is right that memory is cyclical; it likely underestimates how much of the franchise is now structural.
 
-## 5. What's it worth?
+## Question Seven: Risks, Premortem, and Sell Discipline
 
-The valuation arithmetic is genuinely strange and worth thinking about properly.
+The premortem — if this goes wrong in five years, the most likely causes are these. Cyclicality: a memory glut compresses commodity DRAM and NAND pricing, as in 2023. Share normalisation and catch-up: Samsung resolves its yield and design issues and Micron scales, eroding HBM share and pricing. A technology reset: the eventual shift to die-to-wafer hybrid bonding re-opens the field and neutralises today's process advantage. Over-investment: about 100 billion US dollars of combined 2026-to-2027 industry capital expenditure risks future oversupply. And concentration and geopolitics: heavy reliance on Nvidia, plus Korea, US, and China export and supply-chain risk, with China's CXMT and YMTC commoditising legacy nodes over time.
 
-- Market cap at KRW 1.224m/share × ~728m shares ≈ **KRW 891tn (~US$623bn)**
-- Q1 net income annualised: ~KRW 161tn
-- Trailing P/E on the Q1 run rate: **~5.5x**
-- Net cash adjustment: subtract KRW 35tn (and rising fast) before you cap it
-- ROE on Q1 annualised against the equity base: **north of 100%**
-
-The market is pricing this as peak-cycle earnings that will compress hard. The bull case is that cycle compression is real, LTAs hold, and the next 3 years generate KRW 400–500tn of cumulative net income against roughly today's market cap. If you believe even half of that, the stock is materially undervalued *even at these levels* after the run.
-
-**Key sensitivity:** what mid-cycle margin you assume. Memory historically averaged 15–25% operating margin through the cycle. If the new floor is 35–40% (HBM mix + LTAs), you get one valuation. If the floor is still 15%, a much lower one. Q1 is one data point in favour of the higher floor; you need three or four more before asserting it.
-
-## 6. Where is the market wrong?
-
-**One — the spot-price wobble is being mis-read as cycle peak.** Commentariat spent the past two weeks pointing at softening DRAM/NAND spot prices and calling top. CFO addressed this directly Q1 2026: *"the spot market itself takes up a very small part of the overall DRAM market... the moderate trend in spot prices, rather than being a sign of market peak out, appears to be a temporary phenomenon resulting from some inventory entering the market from some distribution channels."* The contract market — where SK Hynix actually sells — continues to firm.
-
-**Two — memory is being valued as if it's still 2018.** The 5x P/E is an explicit market statement that this earnings level isn't durable. Three things are structurally different from any prior memory cycle: (i) HBM is custom, not fungible — brand-new in memory history; (ii) AI compute demand is largely *insensitive* to memory price — pricing power is higher than at any point in memory history; (iii) the demand side is concentrated among ~10 hyperscalers and Nvidia, who actively want supply security and are signing multi-year deals.
-
-**The honest counter:** if Samsung *finally* gets HBM4 qualified at Nvidia in 2027 and Micron continues scaling, SK Hynix's HBM share compresses from ~50%+ today toward 35%, ASPs ease, and the margin profile reverts to "really good DRAM company." Watching Samsung's qualification announcements over the next 6 months is the single most important external signal.
-
-## 7. What could kill it, and when do we sell?
-
-**Real risks, ranked:**
-
-- **HBM share loss.** Biggest single thesis risk. Samsung is throwing everything at HBM4 qualification. If they get in to Nvidia at scale in 2027, SK Hynix loses pricing power in its highest-margin product
-- **AI capex digestion.** If hyperscaler capex growth slows, conventional server DRAM softens with a lag. HBM is locked in via LTAs; the rest isn't
-- **Cycle recurrence.** Still a memory company. If everyone over-builds in 2026-27 (and Samsung, Micron and SMIC all are), 2028-29 could be uglier than the bull narrative allows
-- **Korea geopolitics / China capacity.** SK Hynix has significant DRAM capacity in Wuxi. A worst-case US-China escalation could strand assets
-- **Solidigm integration risk in NAND downturn.** Q1 NAND uplift papers over how marginal Solidigm has been; if NAND gives back, Solidigm becomes a drag again
-- **Won/dollar.** Q1 included KRW 1.6tn of FX gains. Reversal hits reported P&L hard
-
-**Sell triggers (specific, not vague):**
-
-- Samsung announces HBM4 qualification at Nvidia at meaningful volume (>20% allocation) — first-leg moat erosion
-- Two consecutive quarters of DRAM ASP declining double-digit % QoQ with no obvious one-off
-- Net cash growth stops without an explicit guidance change to higher shareholder returns
-- Multi-year LTA narrative quietly disappears from the script — implies customers aren't committing
-- Kwak Noh-Jung exits without an obvious technical successor
-- Material change in US export controls reaching SK Hynix's Wuxi operations
-
-## Sign-off
-
-One company, seven questions, twelve minutes. SK Hynix just printed the most extreme quarterly numbers a memory company has ever produced — and the market is still pricing it as a cycle stock. The asymmetry sits in two places: whether multi-year LTAs compress cyclicality, and whether Samsung gets back into HBM4 Nvidia allocation in 2027. The next two quarters give meaningful evidence on both. The bigger picture: TSMC owns the compute layer, SK Hynix owns the memory layer, and you basically can't have an AI thesis that doesn't pass through one of these two companies.
-
----
-
-*Sources: SK Hynix Q1 2026 earnings release and conference call transcript (23 April 2026); SK Hynix Q4 2025 earnings call (29 January 2026); SK Hynix 2025 Annual Report. All financial figures Quartr-verified.*
+Sell discipline: trim or exit on, first, sustained HBM share loss below the mid-40s percent; second, evidence the bonding-process moat has been matched at scale; third, a capacity arms race that breaks pricing discipline; or fourth, governance or capital-allocation decisions that put group interests ahead of minority holders. Position sizing should respect that this remains, at its core, a cyclical business.

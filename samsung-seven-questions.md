@@ -1,119 +1,61 @@
-# Samsung Electronics — The Seven Questions
+# Samsung Electronics — Seven Questions
 
-**Ticker:** 005930 KS (common) / 005935 KS (preferred — held in GEM) | **Q4 2025 sales:** KRW 93.8tn (~US$65bn) | **GEM weight:** 4.6% (#5 in portfolio)
-**Source base:** Quartr-grounded (Q4 2025 / FY 2025 earnings call, 29 January 2026; Q3 2025 call, 30 October 2025)
-**Written:** April 2026
+An investment summary of Samsung Electronics — the South Korean technology-hardware group spanning memory, foundry, and devices — prepared on the 2nd of July 2026, through a lens of quality and long-term ownership.
 
----
+## Question One: Business Description — What Is It?
 
-## Cold open
+Samsung Electronics is the world's largest memory semiconductor maker and Korea's flagship conglomerate. The Device Solutions division spans DRAM — including HBM — plus NAND, foundry, and System LSI; the Device eXperience division spans smartphones, TVs, and appliances; Samsung Display and Harman complete the group. It is the only company that designs and manufactures memory, logic, and the end devices that consume them. The economics have swung decisively to Device Solutions: in the first quarter of 2026, Device Solutions produced 53.7 trillion won of the group's 57.2 trillion won operating profit, on a 66 percent segment margin, as AI-driven memory demand and pricing reached record levels.
 
-Samsung's Q4 2025 numbers were the loudest "we're back" the company has put up in years. **Quarterly sales KRW 93.8tn (+24% YoY). Operating profit KRW 20.1tn vs KRW 6.5tn a year ago — a 3x. Memory operating profit alone KRW 16.4tn. Net cash on the balance sheet hit KRW 100.6tn** (up from KRW 93.3tn, even after KRW 8.2tn of buybacks).
+## Question Two: Management and Governance — Can We Trust Them?
 
-This is the same company that 18 months ago was being written off as the loser of the AI memory cycle. The setup now: HBM4 mass shipments starting Q1 2026, 2nm foundry production live, and a balance sheet that can absorb almost any amount of investment. Whether the catch-up to SK Hynix happens at Nvidia is the entire stock thesis — and we'll know within 12 months.
+The decade-long legal overhang around Chairman Lee Jae-yong ended in July 2025, when the Supreme Court upheld his acquittal in the 2015 merger case — removing the governance cloud that had constrained group decision-making. Execution since has been the redemption story: after falling behind SK hynix in HBM3E, Samsung was first to mass-produce and ship HBM4, from February 2026, rebuilt 2-nanometre foundry yields to a reported 55 to 60 percent, and landed Tesla as a 16.5 billion US dollar anchor foundry customer. Capital returns have firmed alongside: a minimum annual dividend of 9.8 trillion won, 50 percent of free cash flow committed to shareholder returns, a completed 10 trillion won buyback with shares cancelled, and a further 6.6 trillion won treasury cancellation planned for 2026.
 
-Seven questions.
+The chaebol caveats remain — family control through a web of affiliate stakes, limited minority influence, and a history of putting group succession ahead of shareholders. The acquittal settles the legal question, not the structural one. But the operating record over 2025 and 2026, and the hardening shareholder-return framework, are what a quality owner wants to see, and both deserve weight.
 
----
+## Question Three: Investment Thesis — Why Does Value Compound?
 
-## 1. What is it?
+An AI supercycle across the whole portfolio: memory in genuine shortage, record pricing, and Samsung is the largest producer. First-quarter 2026 revenue of 134 trillion won, up 69 percent year on year, and operating profit of 57.2 trillion won exceeded all of financial-year 2025's operating profit in a single quarter.
 
-Samsung Electronics is a sprawling conglomerate of three businesses sharing little except the brand:
+HBM catch-up optionality: share has recovered from about 17 percent to about 21 percent and Samsung shipped HBM4 first; every point of share regained comes almost free in today's valuation.
 
-- **Device Solutions (DS) — semiconductors.** The swing variable for the entire stock. Q4 2025 sales KRW 44tn, +33% QoQ. Operating profit KRW 16.4tn, the bulk of group profit. Three sub-units:
-  - **Memory** (DRAM, NAND, HBM): the cash engine. Q4 sales KRW 37.1tn, +39% QoQ
-  - **Foundry**: the comeback story. 2nm 1st-gen mass production began Q4 2025; 4nm HBM base-die initial shipments started
-  - **System LSI**: image sensors (200MP and 50MP growing) plus Exynos SoC franchise
-- **Device Experience (DX)** — Mobile, TVs, appliances, networks, Harman. ~56% of revenue, ~30% of operating profit. Galaxy S26 is the next gating product
-- **Samsung Display (SDC)** — OLED for smartphones (mostly Apple iPhones) plus QD-OLED for TVs. Profitable, mid-single-digit segment
+Foundry turnaround at last: the Tesla anchor deal, about 80 percent utilisation, and AMD and Google reportedly evaluating as TSMC capacity runs out — a business the market has long valued at little to nothing.
 
-The thing to internalise: Samsung is not really one company. It is a **memory company with a phone company attached, a foundry option, and a strong balance sheet that lets you wait for the option to pay off**.
+A fortress balance sheet: net cash of 119 trillion won at the first quarter of 2026 funds more than 110 trillion won of planned facilities and research-and-development investment through the cycle without leverage.
 
-## 2. Can we trust them?
+And an undemanding price for all of it: after a roughly 20 percent pullback in the last week of June, the shares trade at roughly 6 times estimated financial-year 2026 and 4.5 times financial-year 2027 consensus earnings per share.
 
-Conditional yes — with structural caveats specific to a Korean chaebol.
+On HBM specifically — from laggard to credible number two. Samsung's HBM3E stumble cost it the lead: by the second quarter of 2025 its HBM share had fallen to about 17 percent, behind Micron. The recovery since is the crux of the thesis. Samsung passed Nvidia's HBM4 qualification, was first to mass-produce and ship HBM4, in February 2026, and is negotiating to supply more than 30 percent of Nvidia's 2026 HBM4 — even as SK hynix retains roughly two-thirds of the Rubin allocation. By the first quarter of 2026 Samsung's share was back to about 21 percent, tied with Micron, and management guides HBM4 to exceed half of its HBM sales from the third quarter of 2026. Samsung does not need to win HBM to work as an investment; it needs to stay a relevant, improving second source in a market growing this fast.
 
-**Lee Jae-yong** (Jay Y. Lee) is Executive Chairman and the third-generation Lee family heir. Divisions run by long-standing professional executives. The 2024 management refresh put **Jeon Young-Hyun** in charge of memory and HBM, which has been the most operationally important call. Q4 results suggest it's working.
+## Question Four: Key Milestones and KPIs — What Proves Us Right, and What to Track?
 
-**The 2022-23 tell that still defines the stock.** During the memory downturn Samsung pulled back on HBM investment and treated it as a sideshow — while SK Hynix kept investing. That call is why Samsung spent 2024-25 playing catch-up on HBM qualification at Nvidia, and why the stock discount persists despite the Q4 2025 rebound. The tell *against* trust: they got the biggest strategic call of the AI era wrong. The tell *for* trust: they admitted it publicly, restructured memory leadership in 2024, and the Q4 2025 print is evidence the course-correction is working.
+HBM share and mix — hold or build on about 21 percent; HBM4 above 50 percent of HBM sales from the third quarter of 2026; and the final Nvidia HBM4 allocation versus the more-than-30-percent target.
 
-**Capital allocation from Q4 print:**
+Foundry proof points — 2-nanometre yield progression from 55 to 60 percent, the Taylor fab ramp, the Tesla AI6 timeline, which has already slipped about six months, and whether AMD and Google land as customers.
 
-- **Net cash KRW 100.6tn at end-2025** — the largest cash buffer of any listed company globally
-- **Treasury stock acquisition KRW 8.2tn in 2025** — the biggest buyback in Samsung's history
-- Dividend KRW 9.9tn for the year (modest payout but stable)
-- ROE recovered to 11% for full year, 19% in Q4 alone
-- Capex KRW 47.5tn in 2025, bulk to Pyeongtaek (memory) and Taylor, Texas (foundry)
+Memory pricing — DRAM and NAND contract average-selling-price direction as supply stays constrained into 2027; management flags shortage persisting.
 
-**The watch item.** Korean chaebols have a long history of capital allocation that prioritises family control over minority shareholders. The buyback inflection in 2024–25 is a real change in posture, but the Korea discount exists for a reason. Any Lee-family inheritance-related share movements or cross-shareholding restructuring could create technical pressure independent of fundamentals.
+Device eXperience resilience — whether devices absorb memory-driven component cost inflation and tariffs; Device eXperience profit is guided lower in the second quarter of 2026.
 
-## 3. Why does value compound?
+Capital returns — delivery of the 6.6 trillion won cancellation and the 50-percent-of-free-cash-flow return policy through the capex ramp.
 
-Three engines, all of which require the HBM bet to work for the thesis to fully play out.
+And a consensus check, from FactSet — the Street models revenue roughly doubling to about 707 trillion won in 2026, about 902 trillion won in 2027, then flattening at about 950 trillion won in 2028; rating consensus is a buy, 33 of 40.
 
-**Memory leverage on AI demand.** Samsung is still the world's largest DRAM and NAND producer by volume. Mix shift toward HBM, server DDR5, and enterprise SSDs is the same wave SK Hynix is riding — Samsung is the slower-moving bigger participant. Q4 proved Samsung *participates* in the up-cycle even before HBM4 contributes meaningfully. Once HBM4 ships in volume, the leverage steepens.
+On the financials, in trillions of won: revenue rose from 258.9 in financial-year 2023, to 300.9 in 2024, to 333.6 in 2025, and was 134.0 in the first quarter of 2026 alone. Operating profit went from 6.6, to 32.7, to 43.6, and reached 57.2 in the first quarter. Operating margin ran 3 percent, then 11 percent, then 13 percent, and 43 percent in the latest quarter. Net profit climbed from 15.5, to 34.5, to 45.2, and was 47.2 in the first quarter. Financial-year 2023 reflects the prior memory down-cycle.
 
-**Foundry as a multi-year option.** Samsung Foundry is Intel-style: years behind TSMC in market share, technologically catching up node by node, very expensive in the meantime. But: 2nm is now in production. Tesla signed a multi-billion-dollar deal in late 2024. Qualcomm is allegedly back at the table for derivative nodes. If Samsung holds single-digit market share at 2nm with healthy yields, foundry moves from cash drain to material profit by 2027–28. Market prices this at zero. Optionality meaningful.
+## Question Five: Five-Year Fair Value and Return — the Team's View
 
-**The balance sheet as a strategic weapon.** KRW 100tn of net cash means Samsung can outspend any single competitor except TSMC. They are sustaining a higher capex run rate than SK Hynix in absolute terms, even as SK Hynix gets the headlines. If Samsung's investments compound into HBM share recovery in 2026–27, the rebound on group profit is multiples of what's in consensus.
+This is a framework, not false precision — memory cuts both ways, and financial-year 2023's operating profit of 6.6 trillion won, a 3 percent margin, is the reminder of what the trough looks like. The first quarter of 2026's 43 percent group margin is a cyclical artefact, not a base rate. Consensus itself sketches the cycle: revenue doubling in 2026, up 28 percent in 2027, then near-flat in 2028 with earnings per share plateauing — a peak forming around 2027 to 2028. Normalise on mid-cycle earnings, giving some credit for a structurally better mix — HBM, recovering foundry, premium devices — than past cycles.
 
-**The kicker nobody is pricing:** Samsung's HBM4 11.7Gbps SKU. They explicitly called it "industry-leading" in the Q4 deck. That's a marketing claim today; it becomes a Nvidia Vera Rubin design-in or it doesn't. If it does, the entire thesis re-rates inside one quarter.
+At 286,000 won the shares trade at roughly 6 times estimated financial-year 2026 and 4.5 times financial-year 2027 consensus earnings per share — a discount that already assumes a hard landing.
 
-## 4. What proves us right and what to track?
+Illustrative scenarios, as placeholders pending the team's house numbers. The bull case: HBM share builds toward 30 percent and foundry reaches sustained profitability, re-rating plus earnings growth gives a mid-to-high-teens internal rate of return. The base case: one full down-cycle inside five years, mid-cycle earnings well below the 2027 peak but far above past cycles, a high-single to low-double-digit return from today's multiple. The bear case: a post-2027 glut meets the industry's enormous capex, HBM share stalls and foundry disappoints again — roughly flat. The low entry multiple does much of the risk work.
 
-Six specific KPIs:
+## Question Six: Variant Perception — Where the Market Is Wrong
 
-- **HBM4 Nvidia qualification status** — single most important external data point. Samsung needs at least 20–30% of next-gen Nvidia HBM allocation. If Q2/Q3 2026 announcements show that share, the bull case is intact
-- **Memory segment operating margin** — Q4 hit ~44% (KRW 16.4tn DS profit on KRW 37.1tn memory sales — adjusting for foundry/LSI weakness implies memory OPM well into 50%); if 2026 keeps that pace, cash-generation engine is real
-- **Foundry revenue growth and loss narrowing** — management targeting "double-digit revenue growth" in 2026; if 2nm ramps with reasonable yields, loss should narrow QoQ. If not, foundry option is impaired
-- **Capex discipline** — KRW 47.5tn 2025 was disciplined relative to earnings power; if 2026 capex blows out without HBM4 / foundry clarity, balance sheet thesis weakens
-- **Buyback continuation** — KRW 8.2tn in 2025 was a step change; watch whether 2026 maintains or accelerates
-- **Lee family control transactions** — any indication of inheritance-related share movements changes the governance calculus quickly
+The market still frames Samsung as the AI cycle's laggard — the company that missed HBM3E — and prices it accordingly at a deep discount to the earnings it is now printing. The variant view is that the laggard framing is roughly a year stale: HBM4 shipped first, share is rebuilding, foundry has an anchor customer and real utilisation, and the governance overhang that justified decades of conglomerate discount has been legally resolved. Breadth, long a bug, becomes a feature in a shortage: Samsung monetises AI through HBM, commodity DRAM and NAND, foundry, and devices simultaneously. The market is right that Samsung is the weakest of the three HBM players and that Device eXperience is a structurally lower-quality business; it likely underestimates how much a credible number-two position in a scarce commodity, plus a free option on foundry, is worth at 6 times earnings.
 
-## 5. What's it worth?
+## Question Seven: Risks, Premortem, and Sell Discipline
 
-Genuinely cheap if you believe the HBM4 catch-up and foundry profitability inflection.
+The premortem — if this goes wrong in five years, the likely causes are these. Cyclicality: the industry's record capex — including Samsung's own more-than-110-trillion-won programme — seeds the next glut; margins revert violently, as in 2023. HBM catch-up stalls: SK hynix holds about two-thirds of Nvidia allocations, Samsung's share plateaus, and the hybrid-bonding transition, around 2027 to 2028, resets the race unfavourably. Foundry disappoints again: Tesla AI6 has already slipped about six months; further 2-nanometre stumbles would revive the pattern of foundry absorbing capital without returns. A Device eXperience squeeze: memory cost inflation and tariffs compress device margins faster than premiumisation can offset. And governance and geopolitics: a chaebol capital-allocation relapse; Korea, US, and China export controls; and labour friction — a general strike was called for May and June 2026.
 
-- Market cap at common KRW 150,850/share × ~5.97bn shares ≈ **KRW 900tn (~US$630bn)**
-- The preferred (005935 KS, what the GEM owns) trades at **~15-20% discount** to common with slightly higher dividend
-- FY 2025 operating profit KRW 43.6tn; net profit KRW 45.2tn
-- **Trailing P/E ~20x** on full-year reported
-- Q4 annualised EPS would put EPS at ~KRW 11,600 — pushing *forward* multiple to **~13x** if Q4 run-rate holds
-- Subtract KRW 100tn net cash: operating business at **~15x trailing / 10x forward Q4-annualised**
-
-**Key sensitivity:** HBM4 Nvidia allocation. If Samsung gets meaningful share in 2026, memory ops profit could plausibly hit KRW 80-100tn in 2027. If not, the cycle still works but upside is more modest. Straddle asymmetric to upside because "Samsung is permanently behind" narrative is fully priced.
-
-## 6. Where is the market wrong?
-
-**One — Samsung's foundry is being treated as worthless when it's deep optionality.** Consensus gives Samsung Foundry ~zero terminal value because it's been loss-making vs TSMC. But foundry dynamics aren't winner-take-all even when they look like it: TSMC is at >60% share and supply-constrained through 2027 (per their own Q1 2026 commentary). *Somebody* gets the overflow demand. Samsung Foundry at 2nm with stable yields is the obvious second source for cost-sensitive HPC and consumer customers. If Samsung captures even 8–10% of leading-edge foundry by 2028, the segment moves from KRW -3tn/year to KRW +5tn/year. That's an KRW 8tn swing nobody has in their numbers.
-
-**Two — the "Samsung is permanently behind on HBM" view is based on one node.** SK Hynix won HBM3E. True. But HBM is an iterated R&D race — being 12-18 months behind on one generation does not mean permanently locked out. Samsung has customer relationships (sells everything to Nvidia, Apple, Qualcomm), in-house DRAM process (no SK-Hynix-style packaging dependency on TSMC), and the balance sheet to throw resources at the gap. Question is execution, not capability. Market is pricing Samsung as if execution is impossible. It isn't.
-
-**The honest counter:** SK Hynix has a multi-year head start on HBM customer co-engineering. If Samsung's HBM4 11.7Gbps SKU hits Nvidia certification but Hynix's HBM4 is *also* qualified at meaningful volume, Samsung gets a smaller share of a bigger pie — better than nothing but less than the bull case. Most likely outcome.
-
-## 7. What could kill it, and when do we sell?
-
-**Real risks, ranked:**
-
-- **HBM4 qualification failure at Nvidia.** Biggest binary risk. If HBM4 doesn't get into Vera Rubin at meaningful share, memory thesis becomes "we participate but Hynix gets the cream" — fine, but no re-rating
-- **Foundry continued losses.** If 2nm yields disappoint and Tesla drifts back to TSMC, foundry continues to bleed and the balance sheet starts feeling it
-- **Mobile share loss to Chinese OEMs.** Galaxy S26 is the next test. If Samsung keeps losing premium share to Apple at the top and Xiaomi/Honor/Oppo at the mid-tier, DX margin compresses and the "DX subsidising semis" model breaks
-- **Korea / US trade dynamics.** Korean industrial policy has been broadly aligned with US AI chip strategy, but any tariff or export-control shift affecting the Taylor, Texas foundry build or memory shipments is a real risk
-- **Lee family inheritance and governance.** Tax liability complicated; forced share sale or restructuring of cross-shareholdings could create technical pressure independent of fundamentals
-- **China macro.** Significant DRAM and NAND capacity in Xi'an and Suzhou; US export control extension could strand assets
-
-**Sell triggers (specific, not vague):**
-
-- Two consecutive quarters of memory operating margin below 25% with ASPs still rising — implies share loss
-- HBM4 Nvidia qualification announcement that explicitly excludes Samsung from Vera Rubin
-- Foundry losses widening despite revenue growth — implies yield problems on 2nm
-- Buyback paused or materially reduced without alternative use of capital
-- Mobile market share at high end (Galaxy S26 launch) declining materially YoY
-
-## Sign-off
-
-One company, seven questions, twelve minutes. Samsung is a balance-sheet-heavy, optionality-rich, deeply unfashionable way to play the AI memory and foundry cycle. Q4 2025 proved they participate. Next two quarters tell you whether they catch up. The GEM holds the preferred (15-20% discount to common, slightly higher dividend) precisely because you get the same upside on a thinner valuation. If HBM4 works and foundry stops bleeding, this is a multi-bagger. If neither works, you still own a memory cycle name with KRW 100tn of net cash. Asymmetry remains favourable.
-
----
-
-*Sources: Samsung Electronics Q4 2025 / FY 2025 earnings presentation and conference call transcript (29 January 2026); Samsung Q3 2025 earnings call (30 October 2025); Samsung 2025 Annual Report. Q1 2026 results due 30 April 2026. All financial figures Quartr-verified.*
+Sell discipline: trim or exit on, first, HBM share slipping back toward the mid-teens or loss of Nvidia qualification on a generation; second, foundry losing its anchor customers or 2-nanometre yields stalling below economic levels; third, a capex race that visibly breaks industry pricing discipline; or fourth, capital allocation that favours group interests over minorities. Size the position respecting that this is, at core, a cyclical business bought mid-boom.

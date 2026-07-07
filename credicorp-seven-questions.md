@@ -1,123 +1,55 @@
-# Credicorp — The Seven Questions
+# Credicorp — Seven Questions
 
-**Ticker:** BAP US (NYSE) / BAP PE | **FY 2025 net income:** S/6,925m (~US$1.87bn) | **GEM weight:** 3.9% (#8 in portfolio)
-**Source base:** Quartr-grounded (Q4 2025 earnings release & call, 12-13 February 2026; Investor Presentation "Why Invest", 25 February 2026; Investor Day 2025, 9 October 2025)
-**Written:** April 2026
+An investment summary of Credicorp — Peru's largest financial services group, spanning banking, microfinance, insurance, and payments — prepared on the 1st of July 2026, through a lens of quality and long-term ownership.
 
----
+## Question One: Business Description — What Is It?
 
-## Cold open
+Credicorp is Peru's largest financial services group, listed on the New York Stock Exchange since 1995 and incorporated in Bermuda. Its engine is Banco de Credito del Peru, known as BCP, the country's leading universal bank, flanked by Mibanco, Peru's largest microlender; Grupo Pacifico in insurance; Prima AFP in private pensions; Credicorp Capital in investment banking and wealth; and BCP Bolivia. Layered on top is an innovation portfolio led by Yape, a payments-and-lending super-app with 16.4 million monthly active users — roughly 82 percent of Peru's economically active population — plus Tenpo, a digital bank in Chile. Economically, this is a high-share deposit franchise in an underbanked, oligopolistic market, with a fast-monetising digital platform attached.
 
-Credicorp just printed an **FY 2025 ROE of 19.0%** and a Q4 ROE of 16.9% — at a time when most emerging-market banks struggle to clear 15%. **Risk-adjusted NIM hit a record 5.55%.** Low-cost deposits are now **73% of total deposits**. The innovation portfolio (Yape + Tenpo + Culqi) is at 8.1% of risk-adjusted revenues versus a 10% target by year-end 2026. And in February 2026 they signed to acquire **100% of Helm Bank** in Colombia — the first material cross-border deal in years.
+## Question Two: Management and Governance — Can We Trust Them?
 
-This is what a deeply-moated, quietly compounding emerging-markets financial holding company looks like when it's working.
+The record under chief executive Gianfranco Ferrari, in post since 2022, is one of promises kept: return on equity has climbed from the mid-teens to 19.0 percent in 2025 and 21.1 percent in the first quarter of 2026, ahead of the company's own guidance of about 19.5 percent, while asset quality improved rather than deteriorated. Capital discipline is visible in a dividend raised to 50 Peruvian soles per share alongside sustained investment in the digital franchise. Succession is planned, not improvised: the well-regarded chief financial officer moves to run Mibanco and an internal successor steps up, announced eighteen months in advance — a sign of bench depth.
 
-Seven questions.
+Governance carries the usual Latin American family-group caveats. The Romero family remains the anchor shareholder, and Luis Romero Belismelis chairs the board, re-elected in April 2026 with a term running to 2029. In practice the family's long horizon has aligned with minorities — Credicorp has compounded through six Peruvian presidents without a capital call — but related-party exposure and Bermuda incorporation, which carries lighter minority protections than a US domicile, stay on the watch list. The group's financial-inclusion record is substantive: wallets like Yape have been central to banking tens of millions of Latin Americans since 2020.
 
----
+## Question Three: Investment Thesis — Why Does Value Compound?
 
-## 1. What is it?
+A dominant, low-cost deposit franchise: BCP is Peru's largest bank and earned a 30.5 percent return on equity in the first quarter of 2026 — the funding-cost advantage of the country's premier deposit base drops straight to returns.
 
-Credicorp is the dominant universal financial services group in **Peru**, with growing presence across Chile, Colombia, Bolivia and Panama. Five business lines under one holding:
+Yape optionality inside a value-priced bank: revenue per user up 65 percent year on year to 10.3 Peruvian soles against 5.9 soles of cost, a net promoter score of 77, and credit penetration at only about 30 percent of users. Yape already generates 17 percent of group fee income; total Yape income nearly doubled in 2025.
 
-- **Universal Banking — BCP (Banco de Crédito del Perú)** — the engine. **75.4% of net income, 81% of total assets.** #1 in loans and deposits in Peru
-- **Microfinance — Mibanco** — 7.9% of net income; #1 in Peruvian microfinance
-- **Insurance & Pensions — Pacifico + Prima AFP** — combined 13.7% of net income; #2 insurer, #1 pension manager
-- **Investment Management — Credicorp Capital + ASB** — 2.8% of net income
-- **Innovation portfolio — Yape, Tenpo, Culqi, Krealo (corporate VC)** — currently 8.1% of risk-adjusted revenues, target 10% by 2026
+A structural inclusion runway: cash fell from 58 percent to 36 percent of Latin American transactions in just four years, and Peru remains underbanked — Mibanco is growing loans at more than 12 percent with a 21.7 percent return on equity.
 
-**Total assets: S/267bn (~US$72bn). FY 2025 net income: S/6,925m (~US$1.87bn).**
+Earnings power is inflecting, not just cycling: attributable net income rose from about 4.6 billion Peruvian soles in 2022 to 6.9 billion in 2025, and consensus models 12 to 15 percent earnings-per-share growth through 2028, driven by mix shift toward retail and micro-lending, not rate luck.
 
-The thing to internalise: this is not a normal LatAm bank. It's a five-legged financial conglomerate with **dominant share in every line in Peru**, an emerging digital ecosystem (Yape) with 19.7m users, and a 19% ROE through the cycle. The closest comp is HDFC Bank in India — same playbook, smaller market, similar quality.
+Diversified within the franchise: insurance, with Pacifico earning an 18.9 percent return on equity, plus pensions, wealth, Bolivia, and Chile temper reliance on any single profit-and-loss line — though not on Peru itself.
 
-## 2. Can we trust them?
+## Question Four: Key Milestones and KPIs — What Proves Us Right, and What to Track?
 
-Yes — and the evidence is in the 30-year track record, not slogans.
+Group return on equity versus guidance — management guides about 19.5 percent for 2026 and hints at the upper side; the first quarter came in at 21.1 percent. Sustained 19 to 21 percent is the thesis working.
 
-**The Romero family** (Peru's most established business family via Grupo Crédito) controls the company; alignment is multi-generational. **Gianfranco Ferrari** has been CEO since 2022 — long-time Credicorp insider, ran BCP previously. **Alejandro Pérez Reyes** is CFO. **Francesca Raffo** runs Innovation (the Yape/Tenpo/Culqi portfolio).
+Cost-of-risk normalisation — 1.3 percent in the first quarter of 2026, flattered by one-offs; management itself expects a rise in the second half of 2026 as retail, Mibanco, and Yape lending mix up. Watch risk-adjusted net interest margin, with guidance of a 6.4 to 6.7 percent net interest margin, rather than cost of risk alone.
 
-**The 30-year Peru-risk tell.** The reason the stock trades at a discount is Peru's political volatility. But Credicorp has navigated multiple constitutional crises, presidents being deposed, and commodity cycles while compounding book value at high-teens rates for 30 years on the NYSE. The 2021-23 Castillo crisis (the most acute political test of the last decade) produced *zero* sustained impairment of the franchise; ROE was still >17% through it. The market keeps pricing in catastrophic Peru risk that has consistently failed to materialise — this is a *behavioural* pattern in how they allocate capital through crises, not a slogan.
+Yape monetisation — monthly-active-user growth, revenue per monthly active user, credit penetration beyond about 30 percent of users, and Yape's share of group fee income, at 17 percent today.
 
-**Capital discipline from Q4 2025:**
+Political transition — Fujimori's razor-thin win awaits formal declaration by the 3rd of July 2026; a fragmented congress is the thing to watch for populist banking legislation.
 
-- **ROE 19% for the year, 16.9% in Q4** — sustained through inflationary cycle and election uncertainty
-- **Risk-adjusted NIM 5.55% record** — pricing power with rising asset quality
-- NPL ratio declining — asset quality improving despite growth
-- **Helm Bank (Colombia, 100%)** — disciplined cross-border move, not deals-for-deals-sake. CEO framing: *"a strategic step to reinforce cross-border value creation"*
-- Innovation portfolio explicitly held to a **risk-adjusted revenue contribution metric** — they will not over-invest in fashion ideas
-- CFO (Q4 2025): *"Our focus remains on disciplined execution, preserving balance sheet strength, and ensuring that growth across the ecosystem meets clear profitability and risk-adjusted return thresholds"*
+And a consensus check, from FactSet — the Street models earnings-per-share growth of roughly 15 percent in estimated 2026, 13 percent in 2027, and 12 percent in 2028; rating consensus is overweight — 9 buy, 1 overweight, 3 hold.
 
-**The watch item.** Succession beyond the current generation. Ferrari is in his 50s — well-bedded down — but the Romero-family-through-Grupo-Crédito governance structure is the single biggest "Peru discount" the stock carries.
+On the financials, in Peruvian soles: net income rose from about 4.6 billion in 2022, to about 4.9 billion in 2023, to about 5.5 billion in 2024, to 6.9 billion in 2025, with the first quarter of 2026 a record quarter. Basic earnings per share climbed from 58.3 soles in 2022, to 61.2 in 2023, to 69.2 in 2024, to 87.3 in 2025. Return on equity was 19.0 percent in 2025 and 21.1 percent in the first quarter of 2026. Cost of risk ran 2.4 percent in 2024, 1.6 percent in 2025, and 1.3 percent in the first quarter. The earlier years' return-on-equity and cost-of-risk figures were left unverified this cycle, for the team's model to fill in.
 
-## 3. Why does value compound?
+## Question Five: Five-Year Fair Value and Return — the Team's View
 
-Three engines, all unusually durable.
+At about 383 US dollars the American depositary receipt trades on about 13 to 14 times earnings with a dividend yield of about 3.8 percent — an undemanding multiple for a 19-to-21-percent-return-on-equity franchise, but one that embeds permanent Peruvian political risk. Value the bank on sustainable return on equity versus cost of equity rather than a cyclical earnings peak; the swing factors are how far Yape lifts structural profitability and what multiple a Lima-centric group can ever command.
 
-**Funding cost moat compounding.** Low-cost deposits at **73% of total deposits**, **40.7% market share** of low-cost deposits in Peru (up **+223bps since 2018**). Cheap deposits are the most underpriced asset in banking — they show up as NIM, every year, every cycle. Risk-adjusted NIM at 5.55% is what this looks like compounded over a decade.
+Illustrative scenarios, as placeholders for the team's house numbers. The bull case: Yape monetisation lifts sustainable return on equity above 20 percent, earnings per share compound in the mid-teens, and the multiple re-rates toward 15 to 16 times — a high-teens US-dollar internal rate of return. The base case: consensus-like 10 to 13 percent earnings-per-share growth, a flat multiple of about 13 times, dividends reinvested — a low-double-digit return. The bear case: a political or credit shock, with cost of risk sustained above about 3 percent, earnings per share flat and a de-rate to 9 to 10 times — flat-to-negative. Depreciation in the Peruvian sol is a further drag on US-dollar outcomes in the bear case.
 
-**Peru penetration runway.** Peru's loans/GDP is only **26.8%** versus 35-50%+ in regional peers. **70.9% of the labour force is informal**. **7 million unbanked micro-entrepreneurs**. Insurance penetration is **2.5%**. Every business line has 10-20+ years of structural runway just to converge on regional norms. Credicorp has #1 share in nearly every category.
+## Question Six: Variant Perception — Where the Market Is Wrong
 
-**The Yape ecosystem flywheel.** Yape is now embedded in the BCP client base (19.7m total clients including Yape). Credicorp's February 2026 investor deck explicitly benchmarks against **Kaspi.kz**: S/24 revenue per MAU vs Yape's current S/3.1. That's an 8x monetisation runway if Credicorp can replicate even a fraction of the Kaspi playbook. Yape is now graduating from the innovation portfolio (it's mature) but accounts for ~81% of innovation portfolio net revenue by 2026.
+The market prices Credicorp as a well-run but structurally capped single-country emerging-market bank — hence about 13 times for more-than-20-percent marginal returns. The variant view is twofold. First, Yape is a platform asset the multiple ignores: 82 percent population reach, payments-to-lending economics turning profitable at scale, and 17 percent of group fee income already — inside a bank valued with no technology premium whatsoever. Second, Peru's political risk is chronically overpaid: through six presidents, social unrest, and a left-populist government, Credicorp's deposit share, pricing power, and compounding never broke; the central bank has stayed orthodox throughout. If sustainable return on equity settles near 20 percent rather than fading to the mid-teens, both earnings and multiple are too low. The market is right that Peru concentration is real; it likely overestimates how much of the franchise that risk actually touches.
 
-**The kicker nobody is pricing:** cross-business synergies. Credicorp Capital's wealth management cross-sells through BCP. Pacifico's insurance is bancassurance through BCP and Yape. Prima pension flows recycle into BCP deposits. Mibanco's micro-clients eventually graduate to BCP. The integrated holding structure compounds returns in a way single-product LatAm fintechs cannot replicate.
+## Question Seven: Risks, Premortem, and Sell Discipline
 
-## 4. What proves us right and what to track?
+The premortem — if this goes wrong in five years, the likely causes are these. Politics and populism: a razor-thin, contested mandate and a fragmented congress produce hostile banking law — expanded rate caps, further pension-fund withdrawals hurting Prima, or worse. Credit-cycle hubris: the deliberate mix-shift into retail, micro, and Yape lending is being made at a cyclically benign 1.3 percent cost of risk; new vintages could sour well beyond the guided normalisation. Macro and El Nino: guidance assumes about 3.5 percent GDP growth with risks management itself calls tilted to the downside; copper, weather, and currency can all cut against it. Disruption of the disruptor: interoperability rules or big-tech wallets erode Yape's economics before lending monetisation matures. And concentration: earnings remain overwhelmingly Peruvian; no internal diversification fixes a country-level shock.
 
-Six specific KPIs:
-
-- **Risk-adjusted NIM trajectory** — record 5.55% Q4 2025; FY 5.3%. If this holds above 5.0% through 2026 the moat is intact
-- **Low-cost deposit share** — 73% of deposits, 40.7% market share; both should keep expanding
-- **Innovation portfolio revenue contribution** — 8.1% currently, target 10% by end-2026
-- **Yape revenue per MAU** — S/3.1 today vs Kaspi's S/24; watch progression toward S/10-15 over 3-5 years
-- **Mibanco asset quality** — microfinance is the highest-credit-risk leg; first to deteriorate in a downturn
-- **Helm Bank integration** — first major cross-border deal in years; successful integration opens the door to more
-
-## 5. What's it worth?
-
-The valuation is genuinely cheap given the quality.
-
-- Market cap at US$336/share × ~80m shares ≈ **US$27bn**
-- FY 2025 net income S/6,925m at ~3.7 PEN/USD ≈ **US$1.87bn**
-- Trailing P/E **~14.5x**
-- ROE 19% with rising trajectory
-- Dividend yield ~4-5% (healthy ordinary plus periodic specials)
-
-**The simple framing:** a 19% ROE bank with cheap funding, dominant market share, and 10-20 years of penetration runway, trading at ~14x earnings. HDFC Bank trades at ~18-20x with similar ROE. Credicorp's Peru discount is roughly 25% — and it's not obvious why it should be that wide given the franchise quality.
-
-**Key sensitivity:** Peru macro and political risk. Base case assumes muddle-through. A sharp downside (political instability + commodity downturn) compresses growth, but the funding moat means base profitability holds up.
-
-## 6. Where is the market wrong?
-
-**One — Yape is a Kaspi-in-waiting that the market is not pricing.** 19.7m users (essentially the entire banked-and-unbanked Peruvian adult population), monetising at S/3.1 per MAU per year. Kaspi.kz, in a structurally similar Kazakh market, monetises at S/24. The infrastructure to take Yape to S/10-15 per MAU is already built (BCP integration, payment rails, lending engine). If even half the Kaspi playbook works, Yape alone adds S/2-3bn of revenue to Credicorp's S/22bn base — a 10-15% lift before any other compounding. The market is treating Yape as "just a wallet."
-
-**Two — the Peru discount is structurally too wide.** Yes, Peru has political volatility. But the actual loss-given-political-risk for Credicorp shareholders has been negligible over 30 years. The bank has navigated coups, presidents being deposed, and constitutional crises while compounding book value at high-teens rates. The market prices in *headline* risk, not *operating-impact* risk. That's an inefficiency.
-
-**The honest counter:** if Peru's politics deteriorates further AND copper prices collapse simultaneously, the macro setup could finally hurt Credicorp's earnings power in a way it hasn't in 30 years. Tail risk is real. Position sizing is the answer.
-
-## 7. What could kill it, and when do we sell?
-
-**Real risks, ranked:**
-
-- **Peru political instability.** Constitutional crisis with capital controls would compress the multiple regardless of operating performance
-- **Mibanco credit cycle.** Microfinance is the highest-risk leg; a downturn in informal-economy income hits this first
-- **Yape disintermediation.** Mercado Pago entering Peru, or Nubank building scale, could cap Yape's monetisation below the Kaspi comparison
-- **Copper / mining cycle.** Peru's economy and Credicorp's wholesale loan book are correlated to commodity prices
-- **Cross-border integration risk.** Helm Bank is the first material outside-Peru deal in years; execution risk is real
-- **Foreign exchange.** PEN weakness compresses NYSE-listed earnings
-
-**Sell triggers (specific, not vague):**
-
-- ROE drops below 15% for two consecutive quarters with no one-off
-- NPL trajectory turns negative at Mibanco for two consecutive quarters
-- Innovation portfolio revenue contribution stalls below 8% — implies Yape monetisation thesis broken
-- A major political event (constitutional crisis with capital controls signalled) materially changes the macro
-- Helm Bank integration produces material write-downs or unexpected costs
-- Ferrari, Pérez Reyes or Raffo leave without obvious internal successors
-
-## Sign-off
-
-One company, seven questions, twelve minutes. Credicorp is what an emerging-markets bank looks like when the franchise is dominant, the funding is cheap, the management is disciplined, and the Yape optionality is genuinely real. The market keeps applying a Peru discount that has been wider than the operating risk warrants for thirty years. The next print on 15 May will tell you whether Q1 sustained the record NIM and whether innovation portfolio contribution is still tracking toward the 10% 2026 target.
-
----
-
-*Sources: Credicorp Q4 2025 earnings release and conference call transcript (12-13 February 2026); Credicorp Investor Presentation "Why Invest" (25 February 2026); Credicorp Investor Day 2025 (9 October 2025). All financial figures Quartr-verified. Q1 2026 results due 15 May 2026.*
+Sell discipline: trim or exit on, first, sustained return on equity below about 15 percent absent a clearly cyclical cause; second, political action that impairs central-bank independence or caps bank profitability structurally; third, Yape monetisation stalling while cost of risk settles above about 2.5 percent; or fourth, capital allocation or related-party behaviour favouring family or group interests over minorities. Size the position for a quality compounder whose home market can misbehave.

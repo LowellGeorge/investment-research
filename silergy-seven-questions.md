@@ -1,91 +1,57 @@
-# Silergy — The Seven Questions
+# Silergy — Seven Questions
 
-Silergy is the twenty-sixth-largest position in the GEM portfolio at one-point-three percent, with a market cap of around seven to nine billion US dollars. Here is Silergy in seven questions.
+An investment summary of Silergy — the analog and power-management chip designer, Cayman-incorporated, China-operated, and Taiwan-listed — prepared on the 2nd of July 2026, through a lens of quality and long-term ownership.
 
----
+## Question One: Business Description — What Is It?
 
-## Cold open
+Silergy is a fabless designer of high-performance analog and power-management integrated circuits — DC-DC and AC-DC converters, power-management integrated circuits, battery-charge and protection devices, LED drivers, and signal-chain and metering parts. Founded in 2008 by Silicon Valley engineers, it is incorporated in the Cayman Islands, headquartered in Hangzhou, and has been listed in Taipei since 2013, with a technology base in Santa Clara and R&D, sales, and service across China, the US, Taiwan, Korea, Japan, and India. It sells into consumer, communications, computing, industrial, and — increasingly — automotive end-markets. The economic engine is a very broad catalogue of thousands of parts sold at modest unit prices; the strategic direction is a mix-shift up the value curve into industrial and automotive analog, where content and margins are higher and design-ins are stickier.
 
-Silergy just closed 2025 with operating revenue of eighteen-point-eight billion Taiwanese dollars, up modestly from the prior year, and net profit of two-and-a-half billion Taiwanese dollars — up nineteen percent year-on-year. Earnings per share reached six-point-four zero Taiwanese dollars. Gross margin was fifty-two percent, down two percentage points year-on-year but well above global analog semiconductor peers' blended margins. Operating margin expanded to thirteen percent from twelve. Research-and-development spend was maintained at meaningful levels. A cash dividend of two-point-five-five Taiwanese dollars per share has been proposed for 2025. And net cash generated from operating activities was two-point-three billion Taiwanese dollars, fully covering the dividend and the ongoing research investment.
+## Question Two: Management and Governance — Can We Trust Them?
 
-This is the leading Chinese-market analog semiconductor company, emerging from a multi-year industry down-cycle with margins stabilising and the design-in book of business intact.
+Silergy is founder-led by Dr. Wei Chen, an analog specialist trained at Virginia Tech and formerly at Linear Technology — a pedigree that matters in a discipline where design talent, not fabs, is the moat. The clearest signal of intent is reinvestment: R&D ran at roughly 5.1 billion Taiwan dollars in 2025, about 27 percent of revenue, and was held near that level right through the 2023 downturn rather than cut to protect near-term profit. For a quality owner that is the encouraging read — management is building catalogue breadth and automotive and industrial design wins for the next cycle, funded from a net-cash balance sheet, and still pays a steady dividend.
 
-Seven questions.
+Governance carries real caveats a long-term minority owner must keep under review. The company is Cayman-incorporated, China-operated, and Taiwan-listed — a structure that both diversifies and concentrates risk, and one under which minority legal protections are weaker than for a domestically incorporated issuer. Founder and insider influence is significant. None of this is disqualifying, but it argues for position sizing that respects the structure.
 
----
+## Question Three: Investment Thesis — Why Does Value Compound?
 
-## Question One: What is it?
+Import-substitution runway: China analog integrated-circuit demand is large and still led by Texas Instruments and Analog Devices; a credible local high-performance designer has a multi-year share-gain tailwind as customers localise supply.
 
-Silergy is the only credible Chinese-market alternative to Texas Instruments and Analog Devices in high-performance analog integrated circuits — specifically, power-management semiconductors. These are the small chips that regulate voltage, manage battery charging, convert power between different levels, and efficiently deliver electricity to every other component in an electronic device. Every smartphone, electric vehicle, server, industrial automation controller, and consumer electronic product contains dozens of them.
+Mix-shift up the value curve: automotive rose to about 14 percent of 2025 revenue and is targeted near 20 percent in 2026, a growth rate of 40 to 50 percent; industrial and automotive analog carry higher content, better margins, and stickier design cycles than consumer.
 
-The business is what the semiconductor industry calls "design-in" driven. Silergy engineers work with Chinese industrial, automotive, consumer, and telecommunications customers to design Silergy's analog chips into their end products. Once designed in, the chip is locked into that product's bill of materials for the product lifecycle — often five to ten years — creating very high revenue durability. The company operates as a single reportable segment — integrated circuits — with revenue from China including Hong Kong at over ten-and-a-half billion Taiwanese dollars in 2025, about fifty-eight percent of the total.
+R&D compounding into a broad catalogue: sustained R&D at about 27 percent of sales — maintained through the trough — steadily widens the product range and the installed base of design wins, the real durable asset in analog.
 
-The operating-economics structure is what makes the thesis interesting. Gross margin at fifty-two percent is roughly fifteen percentage points above commoditised digital semiconductor peers and reflects the high-intellectual-property nature of analog design, the customer-specific nature of design-in wins, and the difficulty of reverse-engineering. Research and development is the core reinvestment — Silergy invests consistently to develop new analog products across new end-markets. Customer concentration is a risk: two customers account for sixteen and twelve percent of 2025 revenue respectively, together over a quarter of the total.
+Operating leverage on the recovery: fourth-generation parts are ramping early on tight power-management-integrated-circuit supply and AI and automotive pull; with a largely fixed cost base, incremental revenue drops through at high margins.
 
-The thing to internalise: Silergy is not a commoditised Chinese chip company. It is a high-margin analog-semiconductor design house — the economic model is closer to Analog Devices than to an industrial commodity semiconductor maker — operating in the specific category where Chinese industrial customers most want domestic alternatives to United States suppliers.
+A self-funding balance sheet: about 17 billion Taiwan dollars of cash and short-term investments against about 3.4 billion Taiwan dollars of debt — net cash of about 13.6 billion — lets Silergy out-invest through downturns without dilution.
 
-## Question Two: Can we trust them?
+## Question Four: Key Milestones and KPIs — What Proves Us Right, and What to Track?
 
-Yes — and the handling of the 2023-to-2024 semiconductor down-cycle is the evidence.
+Gross-margin normalisation — recovery from 51.6 percent in 2025 back toward the mid-50s peak as mix improves; the first-quarter-of-2026 margin dipped on product mix and is worth watching.
 
-Dr Wei-Chen Chen founded Silergy in Silicon Valley in 2008 and moved operational scale to mainland China. The company listed on the Taiwan Stock Exchange in 2013. Dr Chen remains the strategic anchor, with a disciplined engineering-founder culture.
+Operating-margin recovery — the swing factor: 11.4 percent in 2025 versus 25 to 31 percent at the 2021-and-2022 peak. The thesis needs margins to climb materially as revenue scales.
 
-The past-stress case that matters is the 2023-to-2024 global semiconductor down-cycle. Chinese industrial demand weakened, inventory levels across the Chinese electronics supply chain rose, and analog semiconductor prices came under pressure. Silergy's revenue and margins compressed. Return on equity fell to single digits. Cash and short-term investments declined materially from sixteen-point-two billion Taiwanese dollars at the end of 2024 to nine-point-eight billion at the end of 2025 — reflecting both the cycle impact and continued investment in financial assets and property, plant and equipment. Crucially, Silergy did not cut research and development, did not abandon design-in pipeline activity, and did not make panic acquisitions. By 2025, with the cycle beginning to turn, net profit was up nineteen percent and operating margin was expanding again. That is the patience-through-cycle signal that matters in the semiconductor industry.
+Automotive mix — progress toward about 20 percent of revenue and the durability of auto design wins.
 
-The capital discipline signals from the 2025 print are reasonable rather than spectacular. A cash dividend of two-point-five-five Taiwanese dollars per share has been proposed. Net cash from operations at two-point-three billion Taiwanese dollars funds the dividend with comfort. Current ratio at one-point-three-three and debt-to-equity at zero-point-one-seven indicate a healthy balance sheet. A small goodwill impairment of forty-three million Taiwanese dollars was recognised in 2024 on an earlier acquisition, and the arbitration settlement on a 2019 acquisition was completed in 2025 — these are cleanups rather than ongoing issues.
+New-product ramps and free cash flow — fourth-generation traction, and free cash flow rebuilding from the depressed 0.2-to-0.4 billion Taiwan dollars of 2024 and 2025 as capital expenditure and working capital normalise.
 
-The watch item is customer concentration. Two customers representing over twenty-seven percent of revenue creates structural concentration risk. Diversification of the customer base is the quality signal to track over the next three to five years.
+And a consensus check, from FactSet — the Street models revenue of about 23.7 billion Taiwan dollars in estimated financial year 2026, about 29.6 billion in estimated financial year 2027, and about 35.9 billion in estimated financial year 2028, with earnings per share climbing from 6.28 Taiwan dollars in 2025 to about 10.5, then 16.6, then 23.7 — a strong operating-leverage recovery. Rating consensus is overweight.
 
-## Question Three: Why does value compound?
+On the financials, in Taiwan dollars: revenue was 21.5 billion in 2021, 23.5 billion in 2022, 15.4 billion in 2023, 18.5 billion in 2024, and 18.8 billion in 2025. Gross margin ran 53.3 percent, then 52.6 percent, then 42.7 percent, then 53.8 percent, then 51.6 percent. Operating margin went 30.8 percent, 25.2 percent, then negative 3.4 percent in the trough, then 12.2 percent, then 11.4 percent. Net income was 5.7 billion, 6.0 billion, just 0.7 billion at the trough, 2.3 billion, then 2.5 billion. And diluted earnings per share ran 14.43 Taiwan dollars, 15.21, 1.89 at the trough, 5.79, then 6.28. To note: 2023 was the analog down-cycle trough, an operating loss; 2024 and 2025 mark an incomplete recovery with margins still far below the 2021-and-2022 peak.
 
-Three engines, plus a kicker.
+## Question Five: Five-Year Fair Value and Return — the Team's View
 
-The first engine is Chinese industrial and automotive design-in penetration. Chinese industrial automation, electric vehicles, renewable energy infrastructure, and factory electronics are all growing categories that require high-performance analog content. Every new Chinese industrial product designed uses analog chips; Silergy is the domestic alternative most Chinese OEMs are willing to evaluate alongside Texas Instruments and Analog Devices. Design-in wins are long-lifecycle and compound over years.
+This is a framework, not false precision — this is a cyclical business, and 2023's operating loss is the reminder. The key observation is that current earnings are depressed, not peak: the 2025 operating margin of about 11 percent sits less than half the 2021-and-2022 peak, held down by heavy R&D and an incomplete mix recovery. Value therefore hinges on where mid-cycle margins settle. Normalise on mid-cycle earnings — assume operating margin recovers toward the high-teens to low-20s rather than either the trough or the boom — and apply a multiple appropriate for a growing but cyclical analog franchise.
 
-The second engine is the gross-margin structural differential. Fifty-two percent gross margin is a specific outcome of the intellectual-property-heavy nature of analog design. Product portfolios compound over years — Silergy's product count has been expanding — and each new product, once designed in, contributes to margin for its lifecycle. As the product library grows, gross margin has room to expand back toward the fifty-four-percent level of 2024 and potentially higher as high-margin product mix shifts up.
+FactSet consensus frames the recovery: revenue up about 26 percent in 2026 and about 25 percent in 2027, with earnings per share more than tripling from 2025 to 2028 — consistent with strong operating leverage off a depressed base. The offset is valuation: the shares already trade on a high multiple of trailing earnings, so much of the recovery is priced in.
 
-The third engine is the research-and-development reinvestment flywheel. Silergy is consistently investing a meaningful share of revenue in product development. That investment produces the next generation of designs, which produce the next generation of design-in wins, which produce the next generation of revenue. This is the classic high-return analog semiconductor compound.
+Illustrative scenarios, to be replaced with the team's house numbers. The bull case: margins recover toward the low-20s and automotive and industrial scale, sustaining about 20 percent revenue growth — a mid-teens internal rate of return. The base case: a partial margin recovery with one normal cyclical wobble inside five years — a high-single-digit internal rate of return, as multiple compression offsets earnings growth. The bear case: China analog price competition caps margins and a demand air-pocket recurs — flat-to-negative. This is a placeholder pending the team's mid-cycle margin and exit-multiple inputs.
 
-The kicker is Chinese supply-chain localisation. Geopolitical pressure on Chinese customers to reduce dependence on United States analog semiconductor suppliers is a structural tailwind that has been building for years. Every time a Chinese industrial customer chooses to design in a domestic alternative where the specification allows, Silergy is the most-likely beneficiary. The multi-year direction of this trend is clear, even if the pace varies with specific geopolitical events.
+## Question Six: Variant Perception — Where the Market Is Wrong
 
-## Question Four: What proves us right, and what to track?
+The market largely prices Silergy as a low-margin, cyclical China analog play having a decent recovery. The variant view: the depressed operating margin of about 11 percent is not the steady state but the artefact of deliberately heavy, counter-cyclical R&D — about 27 percent of sales — spent through the downturn to broaden the catalogue and win automotive and industrial sockets. If that investment converts to sockets, mid-cycle margins and earnings power are materially higher than the current run-rate implies, and the fixed-cost base delivers outsized leverage as revenue scales — which is precisely what the consensus earnings-per-share path to 2028 embeds. The market is right that analog is cyclical and that Chinese price competition is real; it may under-appreciate how much latent earnings power is being masked by today's investment spend. The risk to the variant view is symmetric: if the R&D does not translate into durable, higher-value share, the low margin is the truth, not the mask.
 
-Six specific metrics.
+## Question Seven: Risks, Premortem, and Sell Discipline
 
-First, revenue growth trajectory — modest in 2025 after cycle weakness; acceleration into 2026 and 2027 confirms cycle recovery. Second, gross margin — fifty-two percent today, down from fifty-four; recovery toward fifty-four-plus confirms pricing and mix improvement. Third, operating margin — thirteen percent today, up from twelve; continued expansion confirms operating leverage. Fourth, research-and-development as a percentage of revenue — should remain meaningful; any material reduction signals loss of compounder discipline. Fifth, customer concentration — two customers at twenty-eight percent of revenue; watch for broadening as new design-in wins scale. Sixth, return on equity — six-point-eight percent today, a cycle low; recovery toward mid-teens confirms normalised earnings power.
+The premortem — if this disappoints over five years, the likely causes are these. Cyclicality: an analog and consumer glut compresses volumes and pricing, as in 2023 when Silergy fell to an operating loss. Chinese price competition: a crowded domestic analog field — 3PEAK, SGMICRO, Huada, and others — commoditises catalogue parts and caps the margin recovery. Incumbent retaliation: Texas Instruments and Analog Devices defend China share aggressively on price, squeezing the import-substitution runway. R&D that doesn't convert: sustained spend at about 27 percent of sales fails to produce enough durable automotive and industrial design wins, leaving margins structurally low. And structure and geopolitics: Cayman incorporation with China operations and a Taiwan listing sits in the cross-Strait crosshairs and offers minorities weaker legal protection.
 
-## Question Five: What's it worth?
-
-The honest framing. Full-year 2025 net profit was two-and-a-half billion Taiwanese dollars. Earnings per share were six-point-four zero Taiwanese dollars. Return on equity was six-point-eight percent — a cycle-depressed level. The cash position has compressed to ten billion Taiwanese dollars from sixteen billion the prior year, though the balance sheet remains comfortably clean.
-
-On trading multiples, Silergy typically trades at premium semiconductor multiples in the range of thirty to fifty times trailing earnings, reflecting the high-margin analog business model and the Chinese localisation thesis. On depressed 2025 earnings that multiple looks elevated; on mid-cycle normalised earnings the forward multiple is materially lower and more attractive.
-
-The simple framing: a high-margin analog semiconductor compounder in the fastest-growing industrial semiconductor market globally, emerging from a down-cycle with margins improving and the research pipeline intact. Comparable set: Analog Devices and Texas Instruments in the United States trade at mid-twenties forward multiples for similar business characteristics, though with broader global exposure and larger scale.
-
-The key sensitivity is Chinese industrial demand. A slower-than-expected recovery extends the earnings trough and compresses multiple. A second sensitivity is customer concentration — any material weakening at the two largest customers would compound the revenue pressure.
-
-## Question Six: Where is the market wrong?
-
-Two variant perception angles.
-
-First: consensus treats Silergy primarily as a Chinese industrial semiconductor cyclical, priced to a low-margin or commoditised model. The operating reality is that analog semiconductor design-in is a high-margin, high-intellectual-property business with durable revenue streams — closer in structure to Analog Devices than to the average Chinese chip company. The fifty-two-percent gross margin through a down-cycle proves the margin durability.
-
-Second: Chinese supply-chain localisation is priced as a geopolitical narrative rather than as a specific compounding mechanism. Each specific design-in win where a Chinese OEM chose Silergy over Texas Instruments or Analog Devices is a multi-year revenue stream locked in. The cumulative effect of these wins compounds steadily, even when individual geopolitical events are variable.
-
-The honest counter: Chinese analog semiconductor competition is intensifying. Multiple Chinese companies are investing in analog capability. Silergy's current lead is not guaranteed and margin structure could erode if competitive intensity rises sharply. Customer concentration risk is real — twenty-eight percent of revenue from two customers is a single operational event away from materially denting the thesis. And Taiwan-listed Chinese-operated semiconductor names carry their own structural discounts.
-
-## Question Seven: What could kill it, and when do we sell?
-
-The real risks, ranked.
-
-One: prolonged Chinese industrial demand weakness. A multi-year extension of the 2023-to-2024 cycle would extend the earnings trough and compress compounding. Two: customer concentration shock. Losing a major design-in position at either of the two largest customers would be material. Three: Chinese analog competitive intensification. Aggressive investment by domestic Chinese analog competitors could compress margin. Four: Taiwan-China geopolitical events. Silergy is Taiwan-listed with operations in mainland China — any sharp escalation creates complexity. Five: Research and development discipline drift. Reducing R&D investment in a cycle trough would be a multi-year thesis risk. Six: Dr Chen succession or strategic drift.
-
-Specific sell triggers. Gross margin falling below forty-eight percent for two consecutive quarters — business model stress. Revenue growth turning negative for four consecutive quarters — cycle extending further. Research-and-development spend declining materially in absolute terms for two consecutive years. Top-two customer concentration rising above thirty-five percent of revenue — concentration risk escalating. Return on equity failing to recover above ten percent within eighteen months — earnings power not normalising. A material loss of a flagship customer design-in position. Dr Chen stepping back without a named credible successor.
-
-## Sign-off
-
-One company, seven questions, twelve minutes. Silergy is the leading Chinese-market high-performance analog semiconductor design house — high-margin, design-in driven, benefiting from structural Chinese supply-chain localisation — emerging from a down-cycle with margins stabilising. The next print, first-quarter 2026 on the twelfth of May, tests whether revenue acceleration is materialising. Watch revenue growth, gross margin, and customer concentration.
-
----
-
-*Sources: Silergy annual financial statements for 2025; Q4 2025 results, 12 March 2026. All financial figures Quartr-verified. First-quarter 2026 results due 12 May 2026.*
+Sell discipline: trim or exit on, first, gross margin failing to recover toward the mid-50s across a full cycle, signalling structural commoditisation; second, automotive and industrial mix stalling despite continued heavy R&D; third, evidence of capital allocation or governance actions that put insiders or the group ahead of minorities; or fourth, a valuation that fully capitalises the peak-margin recovery while cyclical risk remains. Size the position respecting that this is, at core, a cyclical business inside a complex cross-border structure.

@@ -1,95 +1,55 @@
-# Capitec — The Seven Questions
+# Capitec — Seven Questions
 
-Capitec is the twenty-first-largest position in the GEM portfolio at two-point-two percent, with a market cap of around twenty billion US dollars. Here is Capitec in seven questions.
+An investment summary of Capitec Bank Holdings — South Africa's largest retail bank by customer numbers — prepared on the 2nd of July 2026, through a lens of quality and long-term ownership.
 
----
+## Question One: Business Description — What Is It?
 
-## Cold open
+Capitec is South Africa's largest retail bank by customer numbers: more than 26 million active clients — well over half the adult population — of whom roughly 15 million used the banking app in the past 30 days. Built over 25 years on a single idea — simple, transparent, low-cost banking for ordinary South Africans — it has grown from a niche unsecured lender into a diversified financial ecosystem. Just over two-thirds of income from operations is now non-interest: transaction fees, the Capitec Connect mobile virtual network operator, funeral and life insurance with 16.6 million lives assured, a fast-growing business bank with 456,000 active business clients, merchant acquiring at about 100 billion rand of annual turnover, and AvaFin, an international online consumer lender acquired in 2024. Scale creates cost advantages that management deliberately recycles into lower prices — roughly 1 billion rand of fee and pricing give-backs in the estimated financial year 2026 alone — reinforcing the volume flywheel.
 
-Capitec just closed its 2026 financial year — which ended in February 2026 — with headline earnings up twenty-three percent to sixteen-point-eight billion rand. Return on equity expanded from twenty-nine percent to thirty-one percent. Active client count grew seven percent to twenty-six million — more than forty percent of South Africa's adult population. Non-interest income grew nineteen percent to twenty-eight-point-three billion rand and now represents sixty-seven percent of income from operations after credit impairments. Business-banking active clients grew to four hundred and fifty-six thousand with the lending book up thirty percent. Fifty percent of all payments on the platform are now digital.
+## Question Two: Management and Governance — Can We Trust Them?
 
-This is a twenty-five-year-old bank that is still compounding like a high-growth fintech, with one of the highest return-on-equity profiles in global banking.
+Capitec passes the management-and-governance test about as well as any emerging-market bank we know. The culture — client-first, cost-obsessed, energetic ownership, captured in the phrase "CEO: Client, Energy, Ownership" — was set by the founders and has survived two chief-executive transitions. Gerrie Fourie retired in July 2025 after 11 years as CEO and more than 25 at the bank; his successor Graham Lee is a 22-year Capitec insider who ran credit, technology, and the personal bank — succession from within, planned early, with Fourie retained on international strategy. The financial-year 2026 call was vintage Capitec: granular disclosure on credit-loss drivers, honest discussion of AvaFin's mixed repricing experiments, and an explicit statement that AI investment is not a headcount-reduction programme.
 
-Seven questions.
+Governance is orthodox: a Johannesburg main-board listing, a dispersed institutional register, and a stated ordinary-dividend policy of 55 percent of headline earnings, honoured again in financial year 2026. The watch-items are the ones success creates — a new CEO scaling an international ambition, and a credit culture that must stay disciplined while the book grows at 9 to 30 percent across segments.
 
----
+## Question Three: Investment Thesis — Why Does Value Compound?
 
-## Question One: What is it?
+A structural winner in a weak economy: Capitec compounds by taking share, not by riding South African GDP. Headline earnings grew 23 percent in financial year 2026 to 16.8 billion rand at a 31 percent return on equity — against a low-growth macro backdrop.
 
-Capitec is the largest retail bank in South Africa by customer count and one of the most profitable banks in emerging markets. Five business lines under one holding.
+The cost moat keeps widening: the lowest cost-to-serve in the market, and the economics of 26 million clients are shared back as price cuts — 1 billion rand in financial year 2026 — which incumbents with legacy cost bases cannot match without breaking their own profit-and-loss statements.
 
-The first is Personal Bank — the core retail franchise serving twenty-five-point-two million clients with current accounts, savings, unsecured personal credit, and increasingly a full-service digital banking stack. Digital payments grew twenty-five percent in the year and e-commerce payments grew thirty-two percent.
+Revenue quality is improving: two-thirds of operating income is non-interest and increasingly annuity-like — transaction fees, insurance, with the net insurance result up from 1.8 billion rand to 2.9 billion in financial year 2026, Connect, and business banking.
 
-The second is Business Bank, which is the fastest-growing segment. Active business-banking clients crossed four hundred and fifty-six thousand, with the lending book up thirty percent to thirty-point-four billion rand and the scored-lending book at three-point-one billion.
+A long optionality runway: business banking, with clients up about 2.6 times in two years; Simplified Life, already more than 100 billion rand of sum assured; merchant acquiring; data and media; and a deliberate, staged international strategy via AvaFin.
 
-The third is the Fintech and Value-Added-Services layer — known as VAS and Connect, the card-machine and merchant-services businesses. Connect active clients grew sixty-seven percent. These layers carry higher margins than pure transactional banking.
+And earnings power is proven, not promised: net income compounded from 4.5 billion rand in financial year 2021 to 16.8 billion in financial year 2026 — roughly 30 percent a year across a pandemic, a rate cycle, and a weak economy.
 
-The fourth is Insurance — funeral cover, life, and related products. Lives insured rose to sixteen-point-six million. Sum assured exceeded five hundred and eight billion rand. Funeral-cover net insurance result grew fifty-eight percent year-on-year.
+## Question Four: Key Milestones and KPIs — What Proves Us Right, and What to Track?
 
-The fifth is Avafin, the European digital consumer-lending business, with euro-denominated loan disbursements of six hundred and twenty-nine million for the year — a smaller international leg with patient scaling.
+The credit loss ratio — 8.1 percent in financial year 2026, up slightly and "within plan" on book growth and mix; management expects a further modest tick-up. A break materially above plan is the first red flag.
 
-The thing to internalise: Capitec is not a South African unsecured-lending monoline. It is a diversified digital-first bank with a genuine fintech layer and an insurance franchise, still compounding at thirty-plus-percent return on equity after twenty-five years of operation.
+Client and app growth — 26 million active clients and 15 million 30-day app users; the flywheel's raw material.
 
-## Question Two: Can we trust them?
+The non-interest income mix — the insurance earnings trajectory, at 2.9 billion rand in financial year 2026, Connect adoption, business-bank clients at 456,000, and a loan book of 30.4 billion rand.
 
-Yes — and the fifteen-year track record through multiple emerging-markets cycles is the evidence.
+The AvaFin repair — 128 million rand of headline earnings at a 53.2 percent credit-loss ratio; watch pricing and tenor changes and the shift to owned distribution.
 
-Gerrie Fourie is Chief Executive Officer. The founding team, including Michiel le Roux and Riaan Stassen, built the bank from a micro-lender into a full-service retail bank through the 2000s and 2010s. Board governance and disclosure quality are consistently among the best in South African financial services.
+And a consensus check, from FactSet — the Street models earnings per share of about 173 rand for the financial year ending February 2027, about 206 rand for 2028, and about 241 rand for 2029 — about 19 percent a year — with a consensus of 8 buys in 11 ratings.
 
-The past-stress case that matters is actually a series of stress events. The 2014 African Bank Limited collapse — a direct competitor — was managed by Capitec without contagion and with share gains. The 2020 Covid shock disrupted South African retail credit; Capitec tightened lending, held credit loss within target, and continued investing. The 2022-to-2023 loadshedding and Transnet logistics crises added infrastructure stress; Capitec invested through it. Through all three, return on equity stayed in the high-twenties and headline earnings continued to grow at double-digit rates. The 2026 print is the continuation of that track record.
+On the financials, in rand: net income rose from 8.5 billion in financial year 2022, to 9.7 billion in 2023, to 10.6 billion in 2024, to 13.7 billion in 2025, and to 16.8 billion in 2026. Diluted earnings per share went from 73.60 rand, to 83.92, to 91.37, to 118.78, and to 145.43 rand across those years. Reported return on equity was 29 percent in financial year 2025 and 31 percent in 2026. Note that fiscal years end on the 28th or 29th of February.
 
-The capital discipline signals from the latest print are straightforward. Headline earnings up twenty-three percent. Operating expenditure growth held at twelve percent — below revenue growth. Non-interest income share of revenue climbing to sixty-seven percent — diversification away from pure spread-based earnings is real. One billion rand given back to clients through fee reductions, lower card-machine prices, and rewards. Credit loss ratio at eight-point-one percent — within the planned-appetite range for Capitec's product mix, which is heavily weighted to unsecured personal credit that runs structurally higher loss ratios than secured lending. Investment in fraud prevention saved more than six hundred and seventy-three million rand of client losses.
+## Question Five: Five-Year Fair Value and Return — the Team's View
 
-The watch item is Avafin scaling. The European leg is still small and patient, but international expansion is capital-intensive and the discipline to stay patient rather than accelerate would be the test.
+The starting point is demanding: about 28 to 30 times trailing earnings and about 26 times forward for a bank, albeit one earning a 31 percent return on equity with a long reinvestment runway. The question is whether growth and returns can outrun the multiple.
 
-## Question Three: Why does value compound?
+Illustrative scenarios, as placeholders for the team's house numbers. The bull case: the ecosystem keeps compounding earnings per share at high-teens rates, the consensus pace sustained, and the market continues to pay a quality premium — a mid-to-high-teens internal rate of return. The base case: earnings per share compound in the low-to-mid teens as credit normalises and give-backs temper fee growth, with the multiple easing toward about 20 to 22 times — a high-single to low-double-digit return, including the roughly 2 percent dividend yield. The bear case: a South African credit down-cycle lifts losses above plan, earnings per share stall for two to three years, and the rating halves toward 15 times — a meaningfully negative return. The bear case is a valuation event more than a franchise event — the multiple, not the moat, is where five-year risk is concentrated.
 
-Three engines, plus a kicker.
+## Question Six: Variant Perception — Where the Market Is Wrong
 
-The first engine is Personal Bank digital penetration. With twenty-six million clients and over forty percent adult-population penetration, client count is near saturation. The compounder is monetisation per client through digital engagement. Digital payments growing twenty-five percent and e-commerce payments growing thirty-two percent means each client is generating more transactional and ancillary revenue every year. This is the ARPAC flywheel in a regulated banking structure.
+The sceptic's frame is that Capitec is an unsecured consumer lender in a structurally stagnant economy, priced at about 30 times earnings — a de-rating waiting for a credit cycle. The variant view is that the market persistently misclassifies it: this is now a low-cost consumer platform whose earnings are two-thirds non-interest and increasingly annuity-like, still gaining share in banking, insurance, connectivity, savings — at 13 percent market share and rising — and small-business banking. Each year the lending book becomes a smaller share of the earnings mix, so the cyclicality the multiple is being marked down for matters a little less. Consensus still models about 19 percent earnings-per-share growth while part of the register debates the rating — the growth, if delivered, does the heavy lifting. The market is right that the multiple leaves no room for a credit accident; it likely underestimates the durability and breadth of the franchise underneath it.
 
-The second engine is Business Bank scaling. Four hundred and fifty-six thousand business clients is a fraction of South Africa's small-and-medium enterprise base. The lending book at thirty-point-four billion rand grew thirty percent in the year. The business-banking model is the same mobile-first, relationship-light, data-driven playbook that worked in Personal Bank — applied to a new category with significantly higher lifetime value per client.
+## Question Seven: Risks, Premortem, and Sell Discipline
 
-The third engine is the insurance and value-added-services layer. Net insurance income grew thirty-eight percent. VAS and Connect are high-margin recurring revenue streams that attach naturally to the core banking relationship. This layer structurally expands the group return on equity by adding fee income on a stable capital base.
+The premortem — if this goes wrong in five years, the likely causes are these. A South African credit down-cycle: unemployment or macro shocks push the credit loss ratio well beyond the planned 8-percent-plus range just as the multiple de-rates — the double hit. Paying 30 times and getting 10 percent: growth merely decelerates to good-bank levels and the quality premium compresses; the franchise is fine but the entry price wasn't. International missteps: AvaFin, at a 53.2 percent credit-loss ratio, or the broader expansion consumes capital and management attention for sub-par returns. Leadership transition: the culture that is "the most important competitive advantage" dilutes under a new CEO and an internationalising organisation. And regulatory or political risk: fee, credit-pricing, or telco regulation aimed at the very cross-subsidies that fund the give-back model.
 
-The kicker is the client-trust flywheel. Giving back one billion rand to clients through fee reductions and rewards sounds counter-intuitive in a compounding thesis, but is exactly the long-term discipline that keeps the thirty-one percent return on equity sustainable. Lower friction plus fair pricing plus digital delivery equals client retention and word-of-mouth acquisition cost advantage. That is the loop most banks never close.
-
-## Question Four: What proves us right, and what to track?
-
-Six specific metrics.
-
-First, return on equity — thirty-one percent today, up from twenty-nine; maintenance above twenty-eight percent through the cycle is the quality test. Second, non-interest income share of total — sixty-seven percent today, continued expansion toward seventy-plus percent confirms diversification. Third, Business Bank lending book growth — plus thirty percent today; sustained twenty-plus-percent growth is the new-engine signal. Fourth, credit loss ratio — eight-point-one percent; stability within the target range through the cycle confirms underwriting discipline. Fifth, digital payment volume growth — twenty-five percent; continued double-digit confirms engagement flywheel. Sixth, insurance lives insured — sixteen-point-six million; continued growth confirms the cross-sell.
-
-## Question Five: What's it worth?
-
-The honest framing. Headline earnings for the financial year were sixteen-point-eight billion rand, roughly nine hundred million US dollars at current exchange rates. Return on equity is thirty-one percent. Market cap is around twenty billion US dollars. On trading multiples that puts the stock at roughly twenty to twenty-two times trailing earnings and around six times book value.
-
-For a thirty-one-percent return-on-equity bank growing headline earnings at twenty-three percent with a diversified non-interest income mix, that is a premium multiple reflecting a premium business. The comparable set globally is HDFC Bank in India at similar multiples and slightly lower returns on equity, or the best US regional compounders like SVB Financial — pre-2023 — and Hanmi Financial, which trade at much lower multiples for lower returns.
-
-The key sensitivity is South African macro and rand stability. A sharper South African recession compresses unsecured credit quality; rand weakness compresses US-dollar-reported earnings. Second sensitivity is competitive intensity — TymeBank, Discovery Bank, and other digital entrants are gaining share in segments where Capitec was previously the disruptor.
-
-## Question Six: Where is the market wrong?
-
-Two variant perception angles.
-
-First: consensus treats Capitec as a South African domestic-macro-dependent bank, when it has systematically diversified into fee-generating, non-spread-based revenue streams that now represent two thirds of income. The ROE is thirty-one percent with credit loss within target; this is not a pure consumer-credit cyclical, this is a diversified digital bank with the earnings profile of a global fintech.
-
-Second: the Business Bank, VAS, Connect, and insurance layers are priced into the consolidated bank multiple, not broken out. If you strip out just the insurance leg — growing thirty-eight percent at high margins on a captive client base — and apply a standalone multiple comparable to Old Mutual or Discovery, the sum-of-parts valuation is higher than the headline trading multiple.
-
-The honest counter: South Africa remains a difficult macro environment. Loadshedding pressure, Transnet logistics, political noise, and fiscal constraints are persistent headwinds. Rand weakness compresses US-dollar returns. The premium multiple carries real downside risk if any of these deteriorates. Position sizing should reflect both the compounding case and the macro volatility.
-
-## Question Seven: What could kill it, and when do we sell?
-
-The real risks, ranked.
-
-One: South African consumer credit cycle. A sharper unemployment rise or wage deterioration directly hits the unsecured personal credit book — the largest single exposure. Two: competitive response. TymeBank and Discovery Bank are investing aggressively in the same digital-first segment; incumbent banks — Standard Bank, FirstRand, ABSA — are investing in catch-up digital capabilities. Three: Business Bank credit discipline. Thirty-percent growth is fast; any underwriting slip shows up in future non-performing loans. Four: rand volatility. Material weakness compresses reported US-dollar earnings and book value. Five: Avafin execution. The European leg could consume more capital than planned if scaling takes longer. Six: political and regulatory risk. South African regulators, political instability, or fiscal crisis could change the operating environment rapidly.
-
-Specific sell triggers. Return on equity falling below twenty-five percent for two consecutive financial years without a clear one-off. Credit loss ratio breaking above ten percent sustainably — beyond the target range. Business Bank lending growth decelerating below fifteen percent for two consecutive reporting periods. Non-interest income share declining for two consecutive reporting periods — diversification thesis reversing. A material adverse South African political or regulatory event. Gerrie Fourie stepping back without a named credible successor.
-
-## Sign-off
-
-One company, seven questions, twelve minutes. Capitec is the twenty-five-year South African compounder that still looks like a high-growth fintech, with thirty-one-percent return on equity, diversified non-interest income, and a Business Bank scaling rapidly. The next print is the first-half 2027 financial year result in September 2026. Watch return on equity, Business Bank lending growth, and the credit loss ratio trajectory.
-
----
-
-*Sources: Capitec Bank second-half financial year 2026 earnings release and conference call, 22 April 2026; Trading update, 11 February 2026; Annual Report 2026. All financial figures Quartr-verified.*
+Sell discipline: trim or exit on, first, a credit loss ratio sustained materially above management's planned range without a credible fix; second, evidence the give-back flywheel is stalling — client growth flattening while fees rise; third, a large, dilutive international acquisition outside the circle of competence; or fourth, return on equity trending durably below the mid-20s while the market still prices 30-percent-plus returns. Hold through mere multiple noise if the client, mix, and credit KPIs stay on track.

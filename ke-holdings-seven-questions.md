@@ -1,97 +1,57 @@
-# KE Holdings — The Seven Questions
+# KE Holdings — Seven Questions
 
-KE Holdings, which operates in China under the Beike brand, is the twentieth-largest position in the GEM portfolio at two-point-one percent, with a market cap of around twenty billion US dollars. Here is KE Holdings in seven questions.
+An investment summary of KE Holdings — known as Beike, China's largest housing-transactions platform — prepared on the 2nd of July 2026, through a lens of quality and long-term ownership.
 
----
+## Question One: Business Description — What Is It?
 
-## Cold open
+KE Holdings operates Beike, China's largest integrated online-offline platform for housing transactions and services, built on the Lianjia brokerage it owns and the Agent Cooperation Network that lets competing agents share listings and split commissions. As of the first quarter of 2026 the platform connected roughly 60,400 stores and 453,000 active agents, with about 42.7 million mobile monthly active users. There are four segments: existing-home transaction services, with financial-year 2025 revenue of 25.0 billion renminbi; new-home transaction services, at 30.6 billion renminbi; home renovation and furnishing, at 15.4 billion renminbi; and home rental services, at 21.9 billion renminbi. The last two, plus emerging services, now generate 41 percent of revenue — a deliberate diversification away from pure transaction commissions.
 
-KE Holdings just closed 2025 with full-year net revenues of ninety-four-point-six billion yuan, up one-point-two percent — against a Chinese housing market where new-home gross transaction value was down thirteen percent industry-wide. That modest revenue growth obscures a structural transformation: non-housing transaction segments now represent forty-one percent of total revenue. The home rental services business grew fifty-three percent to twenty-two billion yuan with managed units exceeding seven hundred thousand, up sixty-two percent. Home renovation revenue grew, not fell. Store count expanded eighteen percent to over sixty-one thousand. And the company returned one-point-two billion US dollars to shareholders in 2025 — nine hundred and twenty-one million in buybacks and three hundred million in dividends — exceeding its non-GAAP net income for the year.
+## Question Two: Management and Governance — Can We Trust Them?
 
-The market still prices KE Holdings as a Chinese-property-cycle casualty. The business has already pivoted.
+Co-founder Peng Yongdong, known as Stanley Peng, has led as chairman and chief executive since the death of founder Zuo Hui in May 2021, and has navigated a brutal industry depression without losing the company's service-quality culture. The record since is one of discipline rather than empire-building: operating expenses down 22.3 percent year on year in the first quarter of 2026, fixed labour costs down four consecutive quarters, and shareholder returns of 1.2 billion US dollars in 2025 — 921 million US dollars of buybacks plus a dividend — with the share count reduced 12.6 percent since September 2022 under a programme authorised to 5 billion US dollars through August 2028. In March 2026 Peng launched a company-wide transformation — "consumer-centric, rebuilding the organization" — shifting Beike from transaction platform toward a broader residential-services and advisory model; notably, in June 2026 he converted 858,107 super-voting Class B shares into ordinary Class A shares.
 
-Seven questions.
+The caveats are the standard China-ADR set: a dual-class share structure, a variable-interest-entity arrangement, and exposure to regulatory whim in a politically sensitive sector — though the Hong Kong dual-primary listing mitigates delisting risk. Key-man reliance on Peng is real. Against that, the capital-return record, the willingness to shrink costs and headcount ahead of revenue, and the Class B conversion gesture are the behaviours of owners, not agents. On the FSSA lens — trustworthy stewards, conservatively financed — it screens well, with governance structure the item to keep under review.
 
----
+## Question Three: Investment Thesis — Why Does Value Compound?
 
-## Question One: What is it?
+A network moat in a fragmented industry: the Agent Cooperation Network plus Lianjia gives Beike the dominant share of organised existing-home brokerage in China, with data standards — the "housing dictionary" — agent tooling, and consumer trust that no rival has replicated at scale.
 
-KE Holdings is the dominant digital real-estate and home-services platform in China, operating under the Beike and Lianjia brands. Four main business segments plus emerging services.
+The structural shift is toward Beike's strength: as China's market matures, transactions migrate from new homes, which are developer-driven, to existing homes, which are broker-driven. Beike's existing-home segment held a 41.3 percent contribution margin in the first quarter of 2026, a seven-quarter high, even with gross transaction value falling.
 
-The first segment is Existing Home Transaction Services — the digital-plus-agent marketplace for pre-owned home resales. Full-year 2025 revenue was twenty-five billion yuan, down eleven percent, reflecting the broader Chinese resale-housing market slowdown. Contribution margin in the fourth quarter held at forty percent — meaning the segment remains structurally profitable even through the cycle.
+Diversification is working: home rental revenue grew 52.8 percent in 2025 to 21.9 billion renminbi and renovation grew 4.4 percent to 15.4 billion renminbi; non-transaction businesses are 41 percent of revenue with contribution margins rising in every segment.
 
-The second is New Home Transaction Services — digital sales distribution for developer-built new homes. Full-year revenue declined nine percent to thirty-one billion yuan, in line with the industry-wide new-home market down thirteen percent. Contribution margin in the fourth quarter was twenty-eight percent.
+An efficiency turn with AI leverage: first-quarter 2026 gross margin of 24.1 percent and non-GAAP operating margin of 8.8 percent were seven-quarter highs achieved on 19 percent lower revenue — evidence the model can expand margins without a market recovery. Over 4,400 internal AI applications are deployed.
 
-The third — and this is the transformation story — is Home Renovation and Furnishing. Full-year revenue grew four-point-four percent to fifteen-point-four billion yuan, with fourth-quarter contribution margin at thirty-one percent. The business is scaling at positive unit economics while the housing market declines.
+A fortress balance sheet funding a shrinking share count: 68.7 billion renminbi, about 9.5 billion US dollars, of cash and short-term investments excluding customer deposits at the end of 2025 — roughly half the market capitalisation — while buybacks retire shares at depressed prices.
 
-The fourth — and the most strategically important — is Home Rental Services. Full-year revenue grew fifty-three percent to twenty-two billion yuan. Managed rental units crossed seven hundred thousand, up sixty-two percent year-on-year. Contribution margin was eight-and-a-half percent for the year, with significant expansion ahead as the segment scales. This is a standalone rental-property-management business inside KE Holdings that is growing faster than the fastest Chinese ecommerce platforms.
+## Question Four: Key Milestones and KPIs — What Proves Us Right, and What to Track?
 
-The physical network layer includes sixty-one thousand stores, up nearly nineteen percent, with five hundred and twenty-three thousand agents. Fourth-quarter mobile monthly active users averaged forty-four million.
+Existing-home gross transaction value and take rate — volume recovery, with spring 2026 seeing existing-home transactions up about 12 percent year on year, matters more than price; watch commission-rate integrity.
 
-The thing to internalise: KE Holdings is not a Chinese property company. It is a diversified real-estate-and-home-services platform with forty-one percent of revenue already outside housing transactions, growing aggressively, generating strong cash flow, and returning capital at a rate higher than the net income it posts.
+Margin trajectory — management guides to continued year-on-year margin improvement through 2026; non-GAAP operating margin, at 8.8 percent in the first quarter, and segment contribution margins are the proof points.
 
-## Question Two: Can we trust them?
+Rental and renovation profitability — rental contribution margin, at 8.6 percent for financial-year 2025 and 14.8 percent in the first quarter of 2026, must keep climbing to justify the 47 percent growth in managed units.
 
-Yes — and the handling of the 2021 founder transition plus the 2021-to-2025 property cycle is the evidence.
+Capital returns — buyback pace, at 195 million US dollars in the first quarter of 2026, up 40 percent year on year, and 2.74 billion US dollars since inception, plus the dividend.
 
-Zuo Hui founded Lianjia in 2001 and KE Holdings in 2018, and took the company public on the New York Stock Exchange in 2020. He died unexpectedly in May 2021 from pancreatic cancer, at the peak of the platform's IPO-era ambitions. Peng Yongdong — a long-tenured internal leader — became Chairman and Chief Executive Officer and has run the company through the hardest four years of the Chinese property sector.
+Transformation execution — the shift to "decision support and advisory" services and the Commit-to-Sell pilot in Beijing; adoption and unit economics, not press releases.
 
-The past-stress case that matters is the 2021-to-2025 Chinese property collapse. Evergrande defaulted. Country Garden restructured. New-home market volumes fell more than half peak-to-trough. Local-government financing vehicles unwound. Regulatory tightening on developer financing, on transaction procedures, and on agent commissions was continuous. Through all of it, KE Holdings did not cut costs destructively, did not abandon the platform model, and consistently pivoted into adjacent categories: home renovation, home rental, and emerging services. Store count continued to expand. Agent count continued to grow. Non-housing segments compounded to forty-one percent of revenue. That is the capital-allocation and strategic-discipline signal that matters — they were right about the platform durability even when the core category was collapsing.
+And a consensus check, from FactSet — the Street models broadly flat revenue in 2026, then roughly 4 percent annual growth into 2027 and 2028, with earnings per share up about 16 percent in 2027 and about 9 percent in 2028; 16 of 18 analysts revised financial-year 2026 earnings per share upward in recent months. Rating consensus is a buy — 18 of 19 positive.
 
-The capital discipline signals from the 2025 print are striking. Total shareholder return of one-point-two billion US dollars — more than the non-GAAP net income. Share repurchases since 2022 have reduced total issued shares by twelve-and-a-half percent, with two-and-a-half billion US dollars spent. The buyback programme has been extended to August 2028. A final cash dividend of twenty-eight cents per American Depositary Share is payable in April 2026. Operating expense ratio declined one-and-a-half percentage points year-on-year. Fixed labour costs declined for four consecutive quarters. Cash, short-term investments, and restricted cash totalled fifty-five-and-a-half billion yuan at year-end, with total liquidity excluding customer deposits at sixty-nine billion.
+On the financials, in billions of renminbi: net revenues ran 80.8 in financial-year 2021, 60.7 in 2022, 77.8 in 2023, 93.5 in 2024, and 94.6 in 2025, with 18.9 billion in the first quarter of 2026. Gross margin moved from 19.6 percent, to 22.7 percent, to 27.9 percent, to 24.6 percent, to 21.4 percent, and 24.1 percent in the latest quarter. Net income swung from a loss of 0.5 billion in 2021 and a loss of 1.4 billion in 2022, to a profit of 5.9 billion in 2023, 4.1 billion in 2024, and 3.0 billion in 2025, with 1.3 billion in the first quarter of 2026. Note that financial-year 2025 non-GAAP net income was 5.0 billion renminbi.
 
-The watch item is succession depth below Peng Yongdong. The 2021 founder transition was managed well, but the bench of publicly-identified senior leaders is still limited.
+## Question Five: Five-Year Fair Value and Return — the Team's View
 
-## Question Three: Why does value compound?
+Frame on normalised earnings, not the trough: financial-year 2025 non-GAAP net income of 5.0 billion renminbi was earned in the worst housing market in a generation, with new-home gross transaction value down 45.7 percent year on year in the fourth quarter of 2025. At roughly 14 US dollars per American depositary share, about half the market capitalisation is cash, so the market pays a modest low-to-mid-teens multiple of depressed ex-cash earnings for the dominant housing-services franchise in China.
 
-Three engines, plus a kicker.
+Illustrative scenarios, as placeholders for the team's house numbers. The bull case: the market bottoms in 2026 to 2027, existing-home volumes compound, rental and renovation reach scale margins, and buybacks keep shrinking the denominator — a mid-to-high-teens internal rate of return. The base case: a long, flat bottom with margin self-help doing the work and cash returns adding about 5 percent a year — a high-single to low-double-digit internal rate of return. The bear case: renewed price deflation, commission-rate regulation, or transformation missteps — roughly flat returns, with the cash pile and buyback the downside cushion. This is a market-share and take-rate story on transaction volumes, so normalise on mid-cycle gross transaction value rather than extrapolating either the 2024 subsidy spike or the current trough.
 
-The first engine is the home rental services flywheel. Managed rental units crossed seven hundred thousand, up sixty-two percent in the year, with revenue up fifty-three percent. This is a light-asset model: KE Holdings contracts with individual landlords and corporate property owners to manage rental units, collects fees, and scales on platform technology rather than on owned real estate. The addressable market is enormous — younger Chinese urban residents are shifting toward renting, and the current rental sector is highly fragmented and digitally unserved.
+## Question Six: Variant Perception — Where the Market Is Wrong
 
-The second engine is home renovation as the post-transaction compounder. After a customer buys a home, they need to furnish and renovate it — and historically the market has been dominated by opaque local contractors. KE Holdings' platform channels buyers into an integrated renovation offering, with contribution margin at thirty-one percent in the fourth quarter and the segment growing through the property-market decline. This is Amazon-adjacent logic applied to home services: once you own the transaction, you own the adjacent value pools.
+The market prices Beike as a levered bet on Chinese house prices. The variant view is that its economics ride transaction volumes and market share, not price levels: existing-home turnover is structurally rising as China's housing stock ages and policy pushes the secondary market — "support, not stimulus" keeps churn alive even as prices drift — and downturns accelerate consolidation toward the strongest network. The first quarter of 2026 made the point empirically: revenue fell 19 percent yet operating profit rose 45 percent and net income 47 percent, because efficiency, mix, and share gains now drive the profit-and-loss. Add roughly half the market cap in cash and an 18-of-19 positive analyst skew that the share price has not followed, and the mispricing is less about the story than about the jurisdiction discount. The market is right that China property is impaired; it likely conflates the developers' insolvency with the intermediary's opportunity.
 
-The third engine is the platform-distribution moat. Sixty-one thousand stores, five hundred and twenty-three thousand agents, forty-four million monthly active users. The Beike technology stack — pricing data, property verification, transaction orchestration, agent-quality scoring — is genuinely differentiated versus both traditional real-estate agencies and recent digital-first entrants. When the Chinese property cycle inflects up, KE Holdings captures disproportionate share.
+## Question Seven: Risks, Premortem, and Sell Discipline
 
-The kicker is the capital-return asymmetry. Returning more than net income annually in buybacks and dividends on a platform growing forty percent of its mix compounds per-share value faster than almost any Chinese internet peer. If the Chinese property market simply stabilises rather than re-accelerating, KE Holdings' earnings-per-share growth alone is meaningful.
+The premortem — if this goes wrong in five years, the likely causes are these. A deeper, longer housing depression: secondary prices are still falling about 4 to 5 percent a year and nationwide stabilisation is unconfirmed; volumes could follow prices down. Regulation of the take rate: commission caps, state-run transaction platforms, or "common prosperity"-style intervention in brokerage fees would strike the core economics directly. Diversification disappoints: rental runs at thin single-digit full-year contribution margins and renovation took warranty provisions in the fourth quarter of 2025; growth without profit would consume the cash pile. Transformation churn: the March 2026 restructuring is the largest in company history, and repeated reorganisation can break an agent network faster than a downturn. And structure and key-man: the variable-interest entity, dual-class control, and reliance on Peng, plus US-China listing politics.
 
-## Question Four: What proves us right, and what to track?
-
-Six specific metrics.
-
-First, home rental services revenue growth — fifty-three percent in 2025, managed units growing sixty-two percent; sustained forty-percent-plus growth confirms the new-engine thesis. Second, non-housing segments share of total revenue — forty-one percent today; continued progression toward fifty percent re-rates the business. Third, home renovation contribution margin — thirty-one percent today; expansion confirms the post-transaction flywheel. Fourth, operating expense ratio — down one-and-a-half percentage points; continued efficiency improvement. Fifth, capital return execution — one-point-two billion US dollars in 2025; continuation or expansion in 2026. Sixth, store and agent count — sixty-one thousand stores and five hundred and twenty-three thousand agents; continued network strength versus competitors.
-
-## Question Five: What's it worth?
-
-The honest framing. Full-year 2025 non-GAAP net income was five billion yuan, roughly seven hundred million US dollars. Adjusted earnings before interest, taxes, depreciation, and amortisation was six-point-nine billion, roughly one billion US dollars. Cash and short-term investments were fifty-five-and-a-half billion yuan or seven-point-nine billion US dollars — nearly forty percent of the market cap. Total shareholder return for 2025 was one-point-two billion US dollars — more than non-GAAP net income.
-
-On trading multiples, KE Holdings trades at roughly twenty-eight times trailing non-GAAP earnings on headline, but closer to seventeen to twenty times on an ex-cash basis. For a platform with forty percent of revenue in compounding non-housing segments, nine-hundred-plus-million-dollar buyback run rate, and a Chinese property cycle that could normalise at some point, that compressed ex-cash multiple reflects the macro overhang rather than the business quality.
-
-The simple framing: a real-estate-and-home-services platform with forty percent of revenue already outside housing transactions, returning capital faster than it earns, trading at mid-teens ex-cash earnings multiples. The right comparable set is Zillow or Redfin in the US, scaled to Chinese market size, with a stronger physical-network moat.
-
-The key sensitivity is Chinese property market direction. Another leg down in home prices or transaction volumes compresses both existing-home and new-home revenue. The counterbalancing force is the rental and renovation segments, which grow in that scenario. But headline revenue and earnings would remain pressured.
-
-## Question Six: Where is the market wrong?
-
-Two variant perception angles.
-
-First: consensus still prices KE Holdings as a Chinese property-cycle casualty. The variant is that the business has completed most of the pivot into rental and renovation, and those non-housing segments are now forty-one percent of revenue, growing double-digits. Each incremental percentage point shift changes the right comparable multiple from property cyclicals toward diversified platform compounders. The old framing is at least two years out of date.
-
-Second: the capital return program is priced as a near-term support but not as a compounding lever. Returning one-point-two billion US dollars annually on a market cap of twenty billion, while simultaneously growing rental and renovation segments, is the definition of compounding per-share value. Share count has already declined twelve-and-a-half percent. If the Chinese property cycle stabilises even at the current depressed level, earnings-per-share growth would accelerate meaningfully.
-
-The honest counter: Chinese property risk is real and persistent. Existing-home volumes, new-home starts, and regulatory policy remain uncertain. The transformation to non-housing is progressing but the core housing-transaction segments are still the largest. A second leg down in the property cycle delays the re-rating, potentially for years.
-
-## Question Seven: What could kill it, and when do we sell?
-
-The real risks, ranked.
-
-One: Chinese property market deeper leg down. A renewed home-price collapse or transaction freeze compresses existing-home and new-home segments simultaneously. Two: home renovation industry liquidity. Several Chinese home-renovation competitors face financial stress; industry dynamics could hurt KE Holdings' renovation segment despite its contribution-margin expansion. Three: home rental regulatory policy. Beijing has intervened in rental-pricing and tenant-protection rules before; any re-tightening compresses the rental segment's economics. Four: platform disintermediation. Douyin, WeChat, and other platforms entering real-estate services at scale could compress agent-commission take rates. Five: US-China delisting risk. KE Holdings remains NYSE-listed and exposed to audit and dual-listing risks. Six: succession depth. Peng Yongdong is delivering; ongoing leadership development below him is a multi-year watch item.
-
-Specific sell triggers. Home rental services revenue growth decelerating below thirty percent for two consecutive quarters — new-engine stalling. Non-housing share of revenue declining for two consecutive quarters — transformation reversing. Buyback programme suspended or materially reduced. Operating expense ratio expanding for two consecutive quarters. A material adverse Chinese property-policy event. Peng Yongdong stepping back without a named credible successor.
-
-## Sign-off
-
-One company, seven questions, twelve minutes. KE Holdings is the platform that has quietly completed the pivot from pure Chinese property transactions to a diversified home-services business, with forty-one percent of revenue already outside housing transactions, rental services growing fifty-three percent, and capital returns exceeding net income. The next print, first-quarter 2026 on the fourteenth of May, tests whether rental growth holds and whether the buyback cadence continues. Watch rental revenue, non-housing share, and capital return execution.
-
----
-
-*Sources: KE Holdings fourth-quarter 2025 earnings release and conference call, 16 March 2026; Annual Report 2025. All financial figures Quartr-verified. First-quarter 2026 results due 14 May 2026.*
+Sell discipline: trim or exit on, first, regulatory action that caps or socialises brokerage commissions; second, sustained loss of agent and store network share to a credible rival or state platform; third, capital redeployed into low-return adjacencies instead of buybacks and dividends; or fourth, governance backsliding — dilution of minority protections or related-party drift. Size the position acknowledging that the cash pile protects value but cannot manufacture growth if China's housing turnover structurally shrinks.
